@@ -1,7 +1,7 @@
 # Bitcoin 论文每日追踪
 
-- 更新时间：2026-11-22
-- 收录范围：2024-11-22 至 2026-11-22
+- 更新时间：2026-11-23
+- 收录范围：2024-11-23 至 2026-11-23
 - 论文数量：497 篇
 - 数据来源：OpenAlex
 
@@ -217,7 +217,21 @@ Commitment services, such as timestamping, transparency logs and provenance regi
 
 ---
 
-## 16. ["None of This Is Normal": The Golden Age of Legal Bribery](<https://scholarlycommons.law.hofstra.edu/hlr/vol54/iss2/4>)
+## 16. [Evaluating Machine Learning Based Behavioral Analytics for Detecting Unusual Transactional Sequences in High-Velocity UPI Digital Payment Networks](<https://doi.org/10.64643/ijirt211387>)
+
+- 作者：Mrs. Aarti Atul Pathade -
+- 发表日期：2026-12-05
+- 引用次数：0
+- DOI：https://doi.org/10.64643/ijirt211387
+- [打开 PDF](<https://ijirt.org/publishedpaper/IJIRT211387_PAPER.pdf>)
+
+**摘要：**
+
+The Unified Payments Interface (UPI) allows fast bank-to-bank payments. This speed makes early fraud detection important. A payment may look normal on its own but become suspicious when compared with a user’s recent activity. This paper proposes a simple way to study such patterns using machine learning. The system will use transaction details and summaries of earlier payments, such as the number of recent transfers, changes in spending, new payees and the time between payments. A rule-based method, Logistic Regression, Random Forest and Isolation Forest will be compared. Only one selected model will be used in the main scoring path. The proposed architecture has four steps: collect data, prepare behaviour features, calculate a risk score and flag suspicious payments for review. Testing will keep transactions in time order and measure fraud detection, false alerts and processing time. Public mobile-money data and clearly labelled synthetic UPI-like data will be used where suitable. Results from these sources will not be presented as proof of performance on live UPI payments. The study aims to find whether simple behaviour features can improve fraud detection without a complex system.
+
+---
+
+## 17. ["None of This Is Normal": The Golden Age of Legal Bribery](<https://scholarlycommons.law.hofstra.edu/hlr/vol54/iss2/4>)
 
 - 作者：James J. Sample
 - 发表日期：2026-12-01
@@ -230,7 +244,7 @@ Pennsylvania who signed a petition circulated by his super PAC. 5 The petition w
 
 ---
 
-## 17. [Bitcoin Trend Prediction Using Bitcoin Influence Index Weighted Sentiment and Hybrid Ensemble Learning](<https://doi.org/10.47738/jads.v7i4.1322>)
+## 18. [Bitcoin Trend Prediction Using Bitcoin Influence Index Weighted Sentiment and Hybrid Ensemble Learning](<https://doi.org/10.47738/jads.v7i4.1322>)
 
 - 作者：Akhlis Munazilin
 - 发表日期：2026-12-01
@@ -244,7 +258,7 @@ Predicting Bitcoin trends is a complex problem because market movements are infl
 
 ---
 
-## 18. [Design framework for higher education certificates using blockchain technology](<https://doi.org/10.11591/ijict.v15i4.pp1800-1815>)
+## 19. [Design framework for higher education certificates using blockchain technology](<https://doi.org/10.11591/ijict.v15i4.pp1800-1815>)
 
 - 作者：Salem S. M. Khalifa; Ali Mohamed E. Ejmaa; Abdulmawla Mohammad Ali Najih; Ismail Abouiqasim omar Abumilyana
 - 发表日期：2026-12-01
@@ -258,7 +272,7 @@ Digital academic credentials face persistent threats from credential fraud, whil
 
 ---
 
-## 19. [A blockchain-enabled edge–cloud framework for secure, scalable IoT data sharing](<https://doi.org/10.11591/ijict.v15i4.pp1777-1790>)
+## 20. [A blockchain-enabled edge–cloud framework for secure, scalable IoT data sharing](<https://doi.org/10.11591/ijict.v15i4.pp1777-1790>)
 
 - 作者：Peda Narayana Bathula; S. Vamsee Krishna; Meruva Sreenivasulu
 - 发表日期：2026-12-01
@@ -272,7 +286,7 @@ Hybrid edge exchange chain (HybrEx-chain) is a blockchain-enabled hybrid edge–
 
 ---
 
-## 20. [International Cooperation in Relation to Financial Crimes in Nigeria: Assessment of Legal Frameworks, Mechanisms and Challenges](<https://doi.org/10.66566/jlipr/2026.v3n2.06>)
+## 21. [International Cooperation in Relation to Financial Crimes in Nigeria: Assessment of Legal Frameworks, Mechanisms and Challenges](<https://doi.org/10.66566/jlipr/2026.v3n2.06>)
 
 - 作者：Idachaba Martins Ajogwu
 - 发表日期：2026-12-01
@@ -286,7 +300,7 @@ Financial crimes such as money laundering, corruption, terrorist financing, tax 
 
 ---
 
-## 21. [Plataformas digitales para Bitcoin en México: análisis de Bitso, eToro y XTB](<https://doi.org/10.32870/gespye.vi6.3>)
+## 22. [Plataformas digitales para Bitcoin en México: análisis de Bitso, eToro y XTB](<https://doi.org/10.32870/gespye.vi6.3>)
 
 - 作者：Ingrid Georgina Claire Torres; Oscar Alejandro Vargas Lares; Ana Isabel Barocio Torres
 - 发表日期：2026-11-30
@@ -299,7 +313,7 @@ En los últimos años, las plataformas digitales dedicadas al trading y al inter
 
 ---
 
-## 22. [Analisis Teknologi Cryptocurrency Bitcoin Dalam Transaksi Bisnis: Perspektif Hukum Islam Dan Peraturan Mata Uang Di Indonesia](<https://journalppw.com/index.php/jpsp/article/view/3460>)
+## 23. [Analisis Teknologi Cryptocurrency Bitcoin Dalam Transaksi Bisnis: Perspektif Hukum Islam Dan Peraturan Mata Uang Di Indonesia](<https://journalppw.com/index.php/jpsp/article/view/3460>)
 
 - 作者：laili nur fadila; Dovi Iwan Musthofa Habibillah
 - 发表日期：2026-11-30
@@ -313,7 +327,7 @@ Abstrak. Penelitian ini menganalisis penggunaan Bitcoin dalam transaksi bisnis b
 
 ---
 
-## 23. [Climate Risk in ESG Portfolios: Evidence from Indonesian Equity Markets](<https://doi.org/10.18860/cauchy.v11i2.45016>)
+## 24. [Climate Risk in ESG Portfolios: Evidence from Indonesian Equity Markets](<https://doi.org/10.18860/cauchy.v11i2.45016>)
 
 - 作者：Annisa Syalsabila; Nur Ikhwana; Lalu Ramzy Rahmanda
 - 发表日期：2026-11-30
@@ -326,7 +340,7 @@ We examine climate variables in a pipeline for dynamic Value-at-Risk (VaR) of th
 
 ---
 
-## 24. [Cosmotechnical Central Processing Unit (CCPU)](<https://doi.org/10.1145/3829214.3839390>)
+## 25. [Cosmotechnical Central Processing Unit (CCPU)](<https://doi.org/10.1145/3829214.3839390>)
 
 - 作者：Rongxing Li; Tobias Klein
 - 发表日期：2026-11-30
@@ -339,7 +353,20 @@ CCPU: Cosmotechnical Central Processing Unit is a fully functional bitcoin-minin
 
 ---
 
-## 25. [A Graph Attention Network Framework for Financial Fraud Detection: Synthetic Validation and Benchmark Evaluation on the Elliptic Bitcoin Dataset](<https://doi.org/10.2991/978-94-6239-832-0_17>)
+## 26. [Bitcoin and Ethereum: Computational Analysis of Twelve Years of Social Media Discourse, Sentiment Dynamics, and Sustainability Narratives](<https://doi.org/10.5281/zenodo.24430309>)
+
+- 作者：Anna Kovbasiuk; Damian Kedziora; Dariusz Jemielniak; Rafał Jednoróg
+- 发表日期：2026-11-22
+- 引用次数：0
+- DOI：https://doi.org/10.5281/zenodo.24430309
+
+**摘要：**
+
+Description This data contains tweet IDs and derived variables for 42.7 million tweets tagged #bitcoin/#BTC (35,791,717 tweets, March 2010 – June 2022) and #ethereum/#ETH (6,873,450 tweets, November 2013 – June 2022), collected with snscrape in June 2022, before the Ethereum Merge. For every tweet the files give sentiment scores from four methods (VADER, Twitter RoBERTa, CryptoBERT, FinBERT), climate relevance from a keyword dictionary and from ClimateBERT, cleaning flags, simple text counts and engagement counts. For the climate-related subset they add the relevance and stance coded by a large language model (critique, defence, solution, info, promo) and the domains and source types of linked websites. A human-coded validation sample of 1,000 tweets, the keyword dictionary and the coding instructions are included. The files contain no tweet text, usernames or account information. Tweets can be retrieved by their IDs through the X API; the full data are available from the corresponding author for non-commercial academic research under a data use agreement. Files File Rows Contents BTC\_derived\_climate\_sentiment\_links.csv 35,791,717 One row per Bitcoin tweet: ID, date, tweet metadata, engagement counts and all derived variables (data dictionary below) ETH\_derived\_climate\_sentiment\_links.csv 6,873,450 The same for Ethereum tweets gold\_key.csv 1,000 Validation sample: tweet ID, coin, sampling stratum, keyword and ClimateBERT result group\_sizes.csv 10 Size of each sampling stratum in the full data, per coin (used to weight recall) gold\_codes.csv 1,000 Human codes for the validation sample: relevance, stance, sentiment gold\_codes\_coder2.csv 250 Second coder's codes for the reliability check keyword\_dictionary.md — Climate keyword dictionary: terms, tiers, exclusions codebook.pdf — Coding instructions for relevance, stance and sentiment README.md — This description The two derived files are joined to each other, or to the validation files, on id. A tweet tagged with both coins can appear in both corpora, so use id together with coin when combining them. How the data were collected and processed Collection. Tweets were collected with snscrape in June 2022 using the hashtags #bitcoin and #BTC (Bitcoin corpus) and #ethereum and #ETH (Ethereum corpus). The snscrape search returns original tweets, replies and quote tweets, so the corpora contain no retweets. Engagement counts (likes, retweets, replies, quotes) reflect their values at collection, not at posting. Sentiment. VADER compound scores (vaderSentiment package) were computed on the original tweet text. Twitter RoBERTa, CryptoBERT and FinBERT were run on every tweet, with user mentions replaced by “@user”, links by “http” and texts truncated to 128 tokens. Cleaning flags. Duplicate texts were identified after lower-casing and removing links, mentions, hashtags and extra spaces (the first copy is kept). Tweets with 8 or more hashtags, or more hashtags than half their words, are flagged as hashtag-stuffed. Climate filter. A three-tier keyword dictionary selected candidate climate tweets: 186,021 Bitcoin and 31,144 Ethereum tweets. ClimateBERT (climate detector) was run on every tweet as a comparison. Clean climate subset. Duplicates (checked among keyword matches) and hashtag-stuffed tweets were removed, leaving 130,574 Bitcoin and 15,500 Ethereum tweets. LLM coding. Each tweet in the clean subset was coded by a Claude model (named in llm\_model) for climate relevance and stance, using the prompt in the paper's supplement. 92,386 Bitcoin and 10,647 Ethereum tweets were coded relevant. Links. For the relevant tweets, shortened links were expanded and each linked domain was assigned a source type. Validation. A stratified sample of 1,000 tweets (500 per coin) was coded by the first author, and 250 of them by a second coder. Agreement: relevance κ = 0.76, stance κ = 0.71, sentiment κ = 0.67. Data dictionary N Column Name Description Public Raw variables 1 timestamp Date and time of the tweet (with seconds). True 2 id Unique identifier of the tweet. True 3 text Original tweet text (not cleaned). False 4 username Username of the account that posted the tweet. False 5 userid Unique user ID of the tweet author. False 6 hashtags List of all unique hashtags used in the tweet. False 7 media Type or presence of media attachments (e.g., image, video). True 8 outlinks Any external links shared in the tweet. False 9 followersCount Number of followers the author had. False 10 friendsCount Number of accounts the user was following. False 11 statusesCount Total number of tweets the user had posted. False 12 favouritesCount Total number of tweets the user had liked. False 13 listedCount Number of public lists the user was a member of. False 14 mediaCount Total number of media (e.g., photos, videos) posted by the user. False 15 location Self-reported location of the user. False 16 mentionedUsers\_ids User IDs of accounts mentioned in the tweet. False 17 mentionedUsers\_usernames Usernames of accounts mentioned in the tweet. False 18 inReplyToTweetId Tweet ID that this tweet is replying to (if applicable). True 19 inReplyToUser\_id User ID of the person this tweet replies to. False 20 inReplyToUser\_username Username of the person this tweet replies to. False 21 retweetedTweetId ID of the retweeted tweet (if the tweet is a retweet). True 22 retweetedTweetUserId User ID of the author of the retweeted tweet. False 23 retweetedTweetUserUsername Username of the author of the retweeted tweet. False 24 quotedTweetId ID of the quoted tweet (if present). True 25 quotedTweetUserId User ID of the quoted tweet’s author. False 26 quotedTweetUserUsername Username of the quoted tweet’s author. False 27 coordinates Geographical coordinates of the tweet (if available). False 28 place Place name associated with the tweet’s location (e.g., city or country). False 29 reply\_count Number of replies the tweet received. True 30 retweet\_count Number of times the tweet was retweeted. True 31 like\_count Number of likes the tweet received. True 32 quote\_count Number of times the tweet was quoted. True 33 lang Detected language of the tweet. True 34 created Date and time the account was created (UTC) False Derived variables 1 clean Preprocessed tweet text (cleaned for analysis). False 2 coin Dataset the tweet comes from (BTC or ETH), based on the collection hashtag. True 3 hashtag\_count Number of hashtags. True 4 mention\_count Number of user mentions. True 5 n\_words Number of words. True 6 is\_duplicate\_text 1 if an earlier tweet in the same corpus has the same text after removing links, mentions, hashtags and extra spaces. True 7 is\_hashtag\_stuffed 1 if the tweet has 8 or more hashtags, or more hashtags than half its words. True 8 has\_url 1 if the tweet contains a link, otherwise 0. True 9 vader\_sentiment Sentiment score from the VADER library (range: -1 to 1). True 10 vader\_label Sentiment class from VADER: Very positive, Positive, Neutral, Negative, Very negative. True 11 cryptobert\_sentiment Sentiment score from CryptoBERT (ElKulako/cryptobert), a model trained on cryptocurrency social media posts. Computed as P(bullish) − P(bearish) (range: −1 to 1). True 12 cryptobert\_label predicted sentiment class from CryptoBERT (Bearish, Neutral, Bullish). True 13 twitter\_roberta\_sentiment Sentiment score from Twitter RoBERTa (cardiffnlp/twitter-roberta-base-sentiment-latest), a RoBERTa model trained on tweets. Computed as P(positive) − P(negative) (range: −1 to 1). True 14 twitter\_roberta\_label Predicted sentiment class from Twitter RoBERTa (Negative, Neutral, Positive). True 15 finbert\_sentiment Sentiment score from FinBERT (ProsusAI/finbert), a BERT model fine-tuned on financial text. Computed as P(positive) − P(negative) (range: −1 to 1). True 16 climatebert\_score Probability that the tweet is climate-related according to ClimateBERT, P(yes) (range: 0 to 1, rounded to 4 decimals). Allows other thresholds than 0.5. True 17 climatebert\_label Climate relevance predicted by ClimateBERT (climatebert/distilroberta-base-climate-detector; Webersinke et al., 2022): yes = climate-related, no = not climate-related. The label with the higher probability, so yes when climatebert\_score > 0.5 True 18 climate\_keyword\_match 1 if the tweet matches the climate keyword dictionary, meaning it contains a core term or an ambiguous term together with a context term; 0 otherwise. True 19 climate\_terms\_matched Indicator of which climate-related word appeared in the tweet True 20 climate\_word\_tier indicator of which tier of climate-related word appeared in the tweet True 21 in\_clean\_climate\_subset 1 if the tweet is a keyword match that remains after removing duplicate texts and hashtag-stuffed tweets. These tweets were coded by the LLM. True 22 llm\_relevant 1 if LLM coded as climate-related, otherwise 0. Filled in for all 130,574 tweets in the clean subset. True 23 llm\_stance Stance toward the environmental sustainability of the cryptocurrency, as coded by the LLM (defence /
+
+---
+
+## 27. [A Graph Attention Network Framework for Financial Fraud Detection: Synthetic Validation and Benchmark Evaluation on the Elliptic Bitcoin Dataset](<https://doi.org/10.2991/978-94-6239-832-0_17>)
 
 - 作者：Sulaiman Bello Umar; Gendal Lal; Muquaddar Ali; Muazu Abubakar Muhammad
 - 发表日期：2026-11-21
@@ -352,7 +379,86 @@ OpenAlex 暂未提供摘要。
 
 ---
 
-## 26. [The Mechanisms Behind Web3 Meme Success: An Empirical Study of PUPS](<https://doi.org/10.1145/3815189>)
+## 28. [Decentralizing betting: leveraging blockchain technology for a transparent and inclusive future](<https://doi.org/10.1007/s42786-026-00066-9>)
+
+- 作者：Faryad Bigdeli; Saviz Changizi; Masoud Rayat Zadeh; Charlotte Aung; Ittipat Pojpring; Xiaojun Luo
+- 发表日期：2026-11-21
+- 引用次数：0
+- DOI：https://doi.org/10.1007/s42786-026-00066-9
+- [打开 PDF](<https://link.springer.com/content/pdf/10.1007/s42786-026-00066-9.pdf>)
+
+**摘要：**
+
+Traditional centralised online betting platforms can be opaque, raising concerns about transparency, fairness, and access. This paper presents a proof-of-concept peer-to-peer betting platform implemented with Ethereum smart contracts and evaluates three prototypes with increasing realism: (SC1) an on-chain lottery/random game, (SC2) a sports bet settled via administrator-reported results, and (SC3) a VM/Python pipeline that emulates oracle-driven settlement using a historical match dataset. We assess functional correctness, gas cost, settlement latency, scalability with users/markets, and user experience. Results highlight a core trade-off: fully on-chain settlement maximises transparency and automation but increases cost and interaction friction, while manager/oracle-based designs reduce on-chain complexity but introduce trust, governance, and security dependencies. We conclude with a security-focused roadmap toward production deployment, including verifiable randomness, decentralised oracle integration with dispute and timeouts, L2 deployment, and a compliance layer for KYC/AML and responsible gambling.
+
+---
+
+## 29. [Reproducibility scripts for "How Weak Is secp256k1? Riemann Hypotheses, Complex Multiplication, Twists, and the Concrete Security of Bitcoin's Elliptic Curve"](<https://doi.org/10.5281/zenodo.24411856>)
+
+- 作者：Yaduvendra Mukherjee
+- 发表日期：2026-11-21
+- 引用次数：0
+- DOI：https://doi.org/10.5281/zenodo.24411856
+
+**摘要：**
+
+Pure-Python (3.8+, no dependencies) reproducibility scripts for the technical report "How Weak Is secp256k1? Riemann Hypotheses, Complex Multiplication, Twists, and the Concrete Security of Bitcoin's Elliptic Curve" by Yaduvendra Mukherjee (HashKinetics, 2026), DOI 10.13140/RG.2.2.19797.59360. secp256k1\_audit.py recomputes every number in the paper and checks 52 assertions: the Frobenius trace and the identity 4p = t^2 + 3v^2 (the local Riemann hypothesis), the zeros of the zeta function, the Frobenius endomorphism and the libsecp256k1 GLV basis, the secp256k1/secq256k1 2-cycle, the embedding degree, Pollard rho and kangaroo costs, complete factorisations of all six twist orders with invalid-curve and cusp (y^2 = x^3) attack demonstrations, the parameter-minimality search, and the BSD check L(E,1) = Omega for y^2 = x^3 + 7 over Q. Run: python secp256k1\_audit.py ecm\_factor.py is the parallel elliptic-curve-method factoring tool used to split the two large composite twist cofactors. Run: python ecm\_factor.py N \[B1\] \[workers\] \[minutes\]
+
+---
+
+## 30. [How Weak Is secp256k1? Riemann Hypotheses, Complex Multiplication, Twists, and the Concrete Security of Bitcoin's Elliptic Curve](<https://doi.org/10.13140/rg.2.2.19797.59360>)
+
+- 作者：Yaduvendra Mukherjee
+- 发表日期：2026-11-21
+- 引用次数：0
+- DOI：https://doi.org/10.13140/rg.2.2.19797.59360
+
+**摘要：**
+
+OpenAlex 暂未提供摘要。
+
+---
+
+## 31. [Bitcoin Data Labs L2 Audit Dataset: Liquid Network custody, reserves, peg flows and incidents](<https://doi.org/10.5281/zenodo.24429492>)
+
+- 作者：Saurabh Kumar
+- 发表日期：2026-11-21
+- 引用次数：0
+- DOI：https://doi.org/10.5281/zenodo.24429492
+
+**摘要：**
+
+A reproducible audit of Bitcoin layer-2 systems from public chain data alone, starting with the Liquid Network. Every number can be recomputed by anyone with a Bitcoin node and an Elements (Liquid) node; no number comes from the operators. Coverage and versions: this version covers the Liquid Network only. Later versions of this record will add other Bitcoin layer-2 systems (Ark, Spark) to the same common tables. To reproduce a specific number, cite the DOI of the version you used; the record's all-versions DOI always resolves to the latest release. Contents (Parquet, integer satoshis, UTC Unix times): every Bitcoin output that has held Liquid reserves since 2018, and every Bitcoin transaction signed by a federation script (34,635); the reserve against L-BTC outstanding at every Bitcoin block since block 540,000, and per UTC day; every peg-in and peg-out with both legs and the delay between them; peg-out halts and payouts that no peg-out matches; the federation's spending paths, thresholds, keys and timelocks (normal 11-of-15; timelocked 2-of-3 emergency path), key rotations, and the custody the emergency path could spend at each block; Liquid block production and gaps; incidents found by fixed rules (shortfalls, emergency-path spends, block and redemption halts, unexplained outflows), including the September 2026 reserve breach and its restoration. A common audit schema (common/) is designed so that other layer-2 systems fill the same tables; Liquid's own evidence tables are in liquid/. Every row of a common table carries a verification class (bitcoin\_verified, l2\_chain\_verified, cross\_chain\_verified or inferred) and its method. Cutoff: Bitcoin block 976,206 (2026-11-17 02:10:32 UTC) and Liquid block 4,148,532. The release passes 78 invariant checks (metadata/validation.json). Verify the files with sha256sum -c metadata/SHA256SUMS or python3 scripts/verify\_release.py. Limits: bitcoin sent to a peg-in address but never claimed or moved is invisible until the federation moves it, so reserves can be understated, never overstated. The chain shows which addresses paid which; it does not show who controls an address, who authorized a transaction, or why. Method, definitions and known limits: METHODS.md. Release v0.1.1 (tag v2026.11.19) corrects the 2018–2022 emergency exposure of v0.1, which was never published (CHANGELOG.md). Files: l2-data-v2026.11.19.zip holds the complete release (data, metadata, methods, changelog, citation and verification script); README.md and METHODS.md are copies for browsing. Git repository: github.com/bitcoindatalabs/l2-data (this version is tag v2026.11.19).
+
+---
+
+## 32. [Historical Coefficient Fields: A Controlled Evaluation of Geometric Market-Memory Representations for Financial Forecasting](<https://doi.org/10.5281/zenodo.24422849>)
+
+- 作者：Said El Qotbi; Rajaa Filali
+- 发表日期：2026-11-21
+- 引用次数：0
+- DOI：https://doi.org/10.5281/zenodo.24422849
+
+**摘要：**
+
+Code for the manuscript "Historical Coefficient Fields: A Controlled Evaluation of Geometric Market-Memory Representations for Financial Forecasting" (S. El Qotbi and R. Filali, under review). The package computes the Historical Coefficient Field and its eight geometric descriptors, and evaluates five input representations with five learners and AR, HAR and GARCH(1,1) benchmarks on gold (GLD), the S&P 500, EUR/USD and Bitcoin, on identical walk-forward samples. It includes the checks run before any experiment (identities of the coefficient vector, no constant descriptor, causality, folds), the robustness experiments, the Diebold-Mariano tests with Holm correction, the regime and economic analyses, and the scripts that produce every table and figure of the paper. Result files are included. Price data are downloaded from Yahoo Finance on the first run and are not redistributed.
+
+---
+
+## 33. [BITCOIN BETWEEN TECHNOLOGY, LAW, AND ECONOMICS A Comprehensive Reference for Judiciary and Business in the Age of Digital Assets](<https://doi.org/10.5281/zenodo.24413697>)
+
+- 作者：mohamed kamal arafa el-rakhawi
+- 发表日期：2026-11-21
+- 引用次数：0
+- DOI：https://doi.org/10.5281/zenodo.24413697
+
+**摘要：**
+
+This monograph delivers a definitive interdisciplinary examination of Bitcoin across five parts and nineteen chapters, bridging technical architecture, cybersecurity, economic theory, and comparative legal analysis. Part One establishes the foundations of distributed ledgers, cryptographic ownership, consensus mechanisms, and scaling infrastructure. Part Two examines custody architecture, blockchain forensics, and cyber threats. Part Three analyzes monetary policy, the emerging ESG regulatory backlash against proof-of-work energy consumption, corporate treasury applications, and cross-border payments. Part Four provides rigorous legal analysis of Bitcoin's classification as intangible movable property, the fictional situs doctrine resolving jurisdictional conflicts in private international law, the critical distinction between decentralized Bitcoin and sovereign central bank digital currencies, evidentiary standards for blockchain records, judicial attachment challenges, the FATF Travel Rule dilemma regarding non-custodial wallets, and comparative regulatory frameworks across Egypt, the European Union, the United States, and Gulf jurisdictions. Part Five explores advanced dimensions including geopolitical implications, digital inheritance and smart wills, autonomous AI agents transacting in Bitcoin, taxation and Islamic zakat obligations, and the jurisprudential tension between protocol finality and judicial authority. The work integrates practical tools: model contractual clauses for arbitration and settlement, institutional compliance checklists, expanded court-appointed expert witness mandates, a continuous update protocol via Digital Companion, and a multilingual glossary. Supported by landmark precedents including AA v Persons Unknown and comprehensive academic references, this monograph serves as an indispensable reference for judges, lawyers, academics, and business leaders navigating the complex intersection of technology, law, and economics in the digital asset era.
+
+---
+
+## 34. [The Mechanisms Behind Web3 Meme Success: An Empirical Study of PUPS](<https://doi.org/10.1145/3815189>)
 
 - 作者：Chenhuizi Wang; Chunjing Yu; Li Yang
 - 发表日期：2026-11-20
@@ -365,7 +471,7 @@ This study examines PUPS, a representative Bitcoin ecosystem project, to elucida
 
 ---
 
-## 27. [Clustered event2ledger: docker events traceability using hyperledger fabric consortium blockchain](<https://doi.org/10.1186/s13677-026-01023-z>)
+## 35. [Clustered event2ledger: docker events traceability using hyperledger fabric consortium blockchain](<https://doi.org/10.1186/s13677-026-01023-z>)
 
 - 作者：Marco Antonio Marques; Charles C. Miers; Rafael Rodrigues Obelheiro; Marcos Antonio Simplicio Junior
 - 发表日期：2026-11-20
@@ -378,7 +484,7 @@ Container virtualization environments provide high flexibility in the way comput
 
 ---
 
-## 28. [Airdrop Sybil Attack detection framework supported by machine learning](<https://voltignix.com/journals/index.php/ijets/article/view/26>)
+## 36. [Airdrop Sybil Attack detection framework supported by machine learning](<https://voltignix.com/journals/index.php/ijets/article/view/26>)
 
 - 作者：Vaisuna; Sambhaji
 - 发表日期：2026-11-20
@@ -391,7 +497,7 @@ A skilled hunter may earn thousands of dollars in tokens from a single airdrop, 
 
 ---
 
-## 29. [Learning Dietary Effects on Personalized Weight via Cross-Gated Temporal Modeling](<https://doi.org/10.1145/3857354>)
+## 37. [Learning Dietary Effects on Personalized Weight via Cross-Gated Temporal Modeling](<https://doi.org/10.1145/3857354>)
 
 - 作者：Shuying Hong; Donglin Zhang; Weiqing Min; Xiao-Jun Wu
 - 发表日期：2026-11-20
@@ -405,20 +511,7 @@ Weight management plays a crucial role in personal health management. However, m
 
 ---
 
-## 30. [APPLICATION OF NEURAL NETWORKS TO BITCOIN PRICE TREND PREDICTION BASED ON TECHNICAL INDICATORS](<https://doi.org/10.37528/ftte/9788673955247/symopis.2026.abs.en.32>)
-
-- 作者：Nada Markićević; Jelena Veljković; Aleksandar Rakićević
-- 发表日期：2026-11-20
-- 引用次数：0
-- DOI：https://doi.org/10.37528/ftte/9788673955247/symopis.2026.abs.en.32
-
-**摘要：**
-
-This research examines the application of artificial neural networks (ANNs) to Bitcoin price trend prediction. The cryptocurrency market is characterized by high volatility and nonlinear dynamics, which makes explicit mathematical modeling of price movements particularly challenging. The aim of this study is to systematically compare the predictive capabilities of three ANN architectures: the Multilayer Perceptron (MLP), Long Short-Term Memory (LSTM) network, and Gated Recurrent Unit (GRU) network. The empirical analysis is conducted using daily market data covering the period from the beginning of 2014 to the end of 2025. Historical market information and 12 technical indicators are used as input variables, capturing different dimensions of market behavior, including ROC, MACD, RSI, Bollinger Bands, MFI, and ADX. Particular attention is devoted to the definition of the target variable, with the price trend formulated using different approaches based on price movements and their moving average. Multiple models with different combinations of input variables and target-variable definitions are developed and compared, while predictive performance is evaluated using standard classification metrics. The results indicate that the choice among MLP, LSTM, and GRU architectures does not lead to substantial differences in predictive performance, whereas the definition of the target variable has a considerably greater impact on forecasting quality, suggesting that appropriate problem formulation may be more important than the choice of neural network architecture itself.
-
----
-
-## 31. [Catallactic Statecraft in Tokenised Subsistence Economies: The Structural Failure of Keynesian and Monetarist Stabilisation, Austrian Capital-Structure Mechanics, Dual-Core Finance, and EPI–EVI Boundary Governance](<https://doi.org/10.5281/zenodo.24378927>)
+## 38. [Catallactic Statecraft in Tokenised Subsistence Economies: The Structural Failure of Keynesian and Monetarist Stabilisation, Austrian Capital-Structure Mechanics, Dual-Core Finance, and EPI–EVI Boundary Governance](<https://doi.org/10.5281/zenodo.24378927>)
 
 - 作者：Syed Muntasir Mamun
 - 发表日期：2026-11-20
@@ -431,7 +524,7 @@ This companion academic paper bridges the macroeconomic and monetary-theoretical
 
 ---
 
-## 32. [Beyond expectancy: knowledge storage and security as key drivers of blockchain adoption in public healthcare](<https://doi.org/10.1108/dts-06-2025-0187>)
+## 39. [Beyond expectancy: knowledge storage and security as key drivers of blockchain adoption in public healthcare](<https://doi.org/10.1108/dts-06-2025-0187>)
 
 - 作者：Amir A. Abdulmuhsin; Abeer F. Alkhwaldi; Abdulkareem H. Dbesan; Shafique Ur Rehman; Mohd Abass Bhat; Hadi Al‐Abrrow
 - 发表日期：2026-11-20
@@ -445,7 +538,7 @@ Purpose This study investigates the factors influencing information technology (
 
 ---
 
-## 33. [Using LLMs for Cryptocurrency Trade Signal Generation](<https://doi.org/10.21203/rs.3.rs-11375846/v1>)
+## 40. [Using LLMs for Cryptocurrency Trade Signal Generation](<https://doi.org/10.21203/rs.3.rs-11375846/v1>)
 
 - 作者：Florian Schneider; Jonas Delpho; Visieu Lac
 - 发表日期：2026-11-20
@@ -459,12 +552,13 @@ Large language models (LLMs) can generate structured cryptocurrency trade signal
 
 ---
 
-## 34. [BITCOIN SEBAGAI ASET INVESTASI ATAU SPEKULASI](<https://doi.org/10.63643/1fsmd964>)
+## 41. [BITCOIN SEBAGAI ASET INVESTASI ATAU SPEKULASI](<https://doi.org/10.63643/1fsmd964>)
 
 - 作者：Jumiati; Didi Sundiman; Mandasari R.
 - 发表日期：2026-11-20
 - 引用次数：0
 - DOI：https://doi.org/10.63643/1fsmd964
+- [打开 PDF](<https://journal.uvers.ac.id/index.php/fbr/article/download/428/319>)
 
 **摘要：**
 
@@ -472,7 +566,21 @@ Bitcoin has garnered attention due to its extreme price volatility, which is inf
 
 ---
 
-## 35. [Finance certification matches DIR's $17.40 January 1, 2027 statewide minimum wage; statutory CPI-W missing October 2025 - preregistration, code and results (S28)](<https://doi.org/10.5281/zenodo.24405675>)
+## 42. [Comparative Analysis of Deep Learning and Machine Learning Models for Forecasting Global Gold Prices and Indonesian Gold Stocks](<https://doi.org/10.21203/rs.3.rs-11737764/v1>)
+
+- 作者：Upayana Wiguna Eka Saputra; Ketut Vini Elfarosa; Anak Agung Ayu Mirah Kencanawati; Leni Anggraini Susanti; Wayan Hesadijaya Utthavi
+- 发表日期：2026-11-20
+- 引用次数：0
+- DOI：https://doi.org/10.21203/rs.3.rs-11737764/v1
+- [打开 PDF](<https://www.researchsquare.com/article/rs-11737764/latest.pdf>)
+
+**摘要：**
+
+Gold has long been recognized as a global store of value and a prominent safe-haven asset; however, its price dynamics have become increasingly volatile and nonlinear over the past decade (2015–2025). This study proposes an integrated cross-asset forecasting framework to model global gold prices (XAU/USD) and Indonesian gold-related equities, including ANTM, BRMS, ARCHI, PSAB, MDKA, and HRTA. Using an adaptive modeling approach, the study compares the predictive performance of deep learning architectures, namely Convolutional Neural Networks (CNN) and Long Short-Term Memory (LSTM), with machine learning models, including Random Forest and XGBoost, alongside a Moving Average baseline model. Forecasting performance was evaluated using MAE, RMSE, and MAPE metrics based on an 80:20 chronological data split. The findings indicate that no single model consistently outperforms others across all assets; instead, predictive effectiveness depends on asset-specific volatility regimes and market characteristics. CNN models demonstrated superior robustness in forecasting highly volatile assets such as ANTM and BRMS, whereas XGBoost achieved stronger performance for assets characterized by more structured price behavior, such as MDKA. In addition, the sensitivity analysis revealed heterogeneous relationships between global gold prices and local equities, including a significant inverse sensitivity in downstream firms such as HRTA β=−4.18. These findings contribute to the Adaptive Market Hypothesis by highlighting the dynamic nature of informational efficiency in emerging markets and provide practical implications for asset-specific forecasting strategies in portfolio risk management.
+
+---
+
+## 43. [Finance certification matches DIR's $17.40 January 1, 2027 statewide minimum wage; statutory CPI-W missing October 2025 - preregistration, code and results (S28)](<https://doi.org/10.5281/zenodo.24405675>)
 
 - 作者：cicero-lex (Scaled Legal)
 - 发表日期：2026-11-20
@@ -485,7 +593,21 @@ Preregistration, code and derived results for study S28 of the Scaled Legal Lega
 
 ---
 
-## 36. [The 2026–2040 Market Almanac: Multi-Decade Cyclic Projections, Geometric Price-Time Squaring, and Rescaled Harmonic Octaves for Bitcoin, Gold, and the S&P 500](<https://doi.org/10.5281/zenodo.24396536>)
+## 44. [Automated Smart-Contract Settlement and the Sustainable Utilization of Distributed Solar Energy: An Agent-Based Assessment on Benchmark Low-Voltage Networks](<https://doi.org/10.21203/rs.3.rs-11331076/v1>)
+
+- 作者：Ali Bakhshi; Mohsen Akbarpour Shirazi; Yousef Rafiei
+- 发表日期：2026-11-20
+- 引用次数：0
+- DOI：https://doi.org/10.21203/rs.3.rs-11331076/v1
+- [打开 PDF](<https://www.researchsquare.com/article/rs-11331076/latest.pdf>)
+
+**摘要：**
+
+Smart contracts are often credited with large efficiency gains in local electricity markets, but such claims rarely separate automated settlement from price signals and demand flexibility. We developed an agent-based model of 99 customers on a benchmark low-voltage feeder (SimBench), driven by 15-min load and photovoltaic (PV) profiles and coupled to an AC power flow. Four scenarios with identical random inputs combine centralized or conceptual smart-contract settlement with or without price-responsive shiftable load, over 732 paired daily replications (2016). Settlement alone left all physical outcomes unchanged. The 20.3% lower community energy cost it produced equals the retail–feed-in price spread on locally matched energy minus fees, a transfer from the retailer, and prosumers were slightly worse off. With the local price guiding shiftable load, local PV utilization rose by 1.46 percentage points and upstream imports fell by 1.7% relative to centralized settlement with the same flexibility, while losses changed by under 1%. The effects kept their sign in a nine-factor sensitivity analysis and on five further feeders, and the physical gains grew with the flexible-load share. Within the assumptions of this model, the resource-use benefits of smart-contract settlement depend on demand flexibility rather than on settlement automation itself.
+
+---
+
+## 45. [The 2026–2040 Market Almanac: Multi-Decade Cyclic Projections, Geometric Price-Time Squaring, and Rescaled Harmonic Octaves for Bitcoin, Gold, and the S&P 500](<https://doi.org/10.5281/zenodo.24396536>)
 
 - 作者：simone mazzini
 - 发表日期：2026-11-20
@@ -498,7 +620,7 @@ This working paper presents the theoretical architecture and empirical synthesis
 
 ---
 
-## 37. [SILIGURI INSTITUTE OF TECHNOLOGY Bitcoin Trend Prediction Using LightGBM with Technical Indicators and FinBERT Sentiment Analysis](<https://doi.org/10.13140/rg.2.2.21606.38721>)
+## 46. [SILIGURI INSTITUTE OF TECHNOLOGY Bitcoin Trend Prediction Using LightGBM with Technical Indicators and FinBERT Sentiment Analysis](<https://doi.org/10.13140/rg.2.2.21606.38721>)
 
 - 作者：Arnav Mishra; B K Tripathy
 - 发表日期：2026-11-20
@@ -511,7 +633,21 @@ OpenAlex 暂未提供摘要。
 
 ---
 
-## 38. [kkofiamponsah-code/crypto-lstm-evaluation: crypto-lstm](<https://doi.org/10.5281/zenodo.24394051>)
+## 47. [RENDA PASSIVA: EFEITO DO REINVESTIMENTO DOS DIVIDENDOS MENSAIS EM UMA CARTEIRA HIPOTÉTICA DE FUNDOS IMOBILIÁRIOS (FIIs)](<https://doi.org/10.47820/recima21.v7i11.8874>)
+
+- 作者：Kennedy Almeida Sampaio Vieira; Mariana Ferreira Silva Sampaio
+- 发表日期：2026-11-20
+- 引用次数：0
+- DOI：https://doi.org/10.47820/recima21.v7i11.8874
+- [打开 PDF](<https://recima21.com.br/recima21/article/download/8874/6439>)
+
+**摘要：**
+
+No cenário financeiro atual do Brasil, é de fundamental importância que se busque, cada vez mais, conhecimento acerca das diversas formas de se obter renda por meio de investimentos e seus respectivos rendimentos. Dessa forma, esta pesquisa teve como objetivo oferecer um material teórico que demonstre o efeito dos juros compostos no reinvestimento de dividendos em Fundos de Investimento Imobiliário (FIIs) a longo prazo, buscando avaliar o efeito da disciplina de investimentos e reinvestimentos na geração de patrimônio. Durante a realização deste trabalho, buscou-se apresentar, teoricamente, os conceitos fundamentais para o entendimento do objetivo proposto, abordando os conceitos relacionados à geração de renda, aos investimentos, aos Fundos de Investimento Imobiliário, aos juros compostos e ao reinvestimento de dividendos. Assim, buscou-se exemplificar, em uma situação hipotética, o efeito da reaplicação de dividendos em uma carteira de FIIs sob a ótica dos juros compostos. Para isso, foram selecionados três FIIs existentes há mais de dez anos, foram inseridos valores hipotéticos referentes a esses FIIs em uma plataforma de simulação on-line de investimentos e foram obtidos dados e imagens que demonstram o que foi proposto nos objetivos. Conclui-se, a partir dos dados obtidos na simulação citada, que a diversificação e o reinvestimento de dividendos, em um ciclo ininterrupto e a longo prazo, fazem com que o efeito da capitalização decorrente do reinvestimento beneficie o investidor, favorecendo o acúmulo de capital e a geração de renda passiva.
+
+---
+
+## 48. [kkofiamponsah-code/crypto-lstm-evaluation: crypto-lstm](<https://doi.org/10.5281/zenodo.24394051>)
 
 - 作者：kkofiamponsah-code
 - 发表日期：2026-11-20
@@ -524,7 +660,21 @@ Code and data for a rigorous, six test evaluation of a dual attention LSTM forec
 
 ---
 
-## 39. [Planetary Circulation and Multi-Scale Ocean-Atmosphere Coupling During Late 2026 and Winter 2026-2027 — Part I: Pre-Registered Observational Baseline, Diagnostic Architecture, and Quantitative Falsification Protocol.](<https://doi.org/10.5281/zenodo.24387928>)
+## 49. [Unveiling livestock tracing and trading dynamics between Brazilian ranchers and slaughterhouses by network science](<https://doi.org/10.1371/journal.pone.0350705>)
+
+- 作者：Roosevelt Fabiano Moraes da Silva; Ivan Bergier; Stanley Robson de Medeiros Oliveira; Fabiane de Fatima Carvalho; Urbano Gomes Pinto de Abreu; Jayme Garcia Arnal Barbedo
+- 发表日期：2026-11-20
+- 引用次数：0
+- DOI：https://doi.org/10.1371/journal.pone.0350705
+- [打开 PDF](<https://journals.plos.org/plosone/article/file?id=10.1371/journal.pone.0350705&type=printable>)
+
+**摘要：**
+
+Beef production plays a central role in the Brazilian agri-food economy, particularly in the state of Mato Grosso do Sul (MS), which is a national reference in cattle herd size and holds strong socio-environmental relevance due to the Pantanal floodplain and its long-standing livestock traditions. Despite this importance, the structural organization of cattle trading interactions between ranchers and slaughterhouses remains poorly understood, especially with respect to the mechanisms shaping network formation and spatial organization. This study analyzes cattle trading transactions based on official Animal Movement Permission records issued between January 2021 and June 2022 in MS. Using these data, we constructed a directed, weighted bipartite network comprising 20,827 nodes and 258,120 edges, representing ranchers and slaughterhouses as distinct node classes. Network science methods were applied to characterize structural properties, centralization patterns, and spatial dependencies, while temporal dynamics were examined on a monthly scale to capture seasonal variations in trading activity. The results reveal a highly asymmetric and centralized network structure, with a small number of slaughterhouses concentrating a disproportionate share of trading connections. Weighted degree distributions display consistent heavy-tailed behavior, with a descriptive power-law exponent (γ) close to 1.2 over time, up to a characteristic weighted-degree threshold between approximately 129 and 256. Although overall network topology remains stable across months, the volume of trades and number of animals per transaction fluctuate in response to market and climatic conditions. Spatial analysis shows that average trading distances increase with node connectivity up to a characteristic scale, beyond which geographic distance becomes weakly associated with connectivity, suggesting the influence of logistical constraints and node-specific advantages. These findings support the hypothesis that Brazilian beef trading networks are shaped by the combined effects of preferential attachment mechanisms and spatial constraints. The resulting hub-and-spoke organization has direct implications for market concentration, resilience, and sustainability. By providing an integrated structural and spatial perspective based on official traceability data, this study contributes to a better understanding of cattle trading dynamics and offers insights relevant to producers, policymakers, and strategies aimed at promoting more sustainable and efficient beef production systems.
+
+---
+
+## 50. [Planetary Circulation and Multi-Scale Ocean-Atmosphere Coupling During Late 2026 and Winter 2026-2027 — Part I: Pre-Registered Observational Baseline, Diagnostic Architecture, and Quantitative Falsification Protocol.](<https://doi.org/10.5281/zenodo.24387928>)
 
 - 作者：Samuel Prescott
 - 发表日期：2026-11-20
@@ -537,7 +687,7 @@ Description In mid-November 2026, three high-amplitude planetary boundary and ci
 
 ---
 
-## 40. [Crypto Observatory: required returns, risks and survival](<https://doi.org/10.5281/zenodo.24403325>)
+## 51. [Crypto Observatory: required returns, risks and survival](<https://doi.org/10.5281/zenodo.24403325>)
 
 - 作者：Agisilaos Papadogiannis
 - 发表日期：2026-11-20
@@ -546,11 +696,11 @@ Description In mid-November 2026, three high-amplitude planetary boundary and ci
 
 **摘要：**
 
-A page and a data file that answer one question for Bitcoin: what return should its holders require for the risks they carry, and what did it deliver? The required return is computed with the MCM equation (market, concentration and mortality risk) and rebuilt every month from public data. The page shows the required return as a band since 2012 against delivered returns, how the band is built, the tests of fit against the CAPM, Bitcoin beside equities, the equation term by term, a sensitivity to the equity premium, and a census of cryptoasset deaths. Before every build the model is run on a frozen copy of the paper's inputs and must reproduce the paper's stored results. Live page: https://apapadogiannis.github.io/crypto-observatory/. The stored Bitcoin series are from the Coin Metrics community data (Coin Metrics, Inc., CC BY-NC 4.0); the code is MIT-licensed. Independent research, for informational and academic purposes only; not investment advice.
+A page and a data file that answer one question for Bitcoin: what return should its holders require for the risks they carry, and what did it deliver? The required return is computed with the MCM equation (market, concentration and mortality risk) and rebuilt every month from public data. The page shows the required return as a band since 2012 against delivered returns, how the band is built, the tests of fit against the CAPM, Bitcoin beside equities, the equation term by term, a sensitivity to the equity premium, and a census of cryptoasset deaths. Before every build the model is run on a frozen copy of the paper's inputs and must reproduce the paper's stored results. Beside the page there are data files for programs and AI agents (api/) with a guide (api/llms.txt). Live page: https://apapadogiannis.github.io/crypto-observatory/. The stored Bitcoin series are from the Coin Metrics community data (Coin Metrics, Inc., CC BY-NC 4.0); the code is MIT-licensed. Independent research, for informational and academic purposes only; not investment advice.
 
 ---
 
-## 41. [BECF: A Unified Cross-Layer Risk Scoring Framework for Healthcare IoT Security with Blockchain Anomaly Detection and Explainable Intrusion Detection](<https://doi.org/10.3390/computers15110861>)
+## 52. [BECF: A Unified Cross-Layer Risk Scoring Framework for Healthcare IoT Security with Blockchain Anomaly Detection and Explainable Intrusion Detection](<https://doi.org/10.3390/computers15110861>)
 
 - 作者：Usman Mohyud Din Chaudhary; Humaira Arshad; Muhammad Ismail Mohmand; Usama Ahmed; Usman Ahmad
 - 发表日期：2026-11-20
@@ -563,7 +713,7 @@ Healthcare Internet of Medical Things (IoMT) security and blockchain consent gov
 
 ---
 
-## 42. [SATOSHI STRIKES BACK ΨΔΛΩζλπφ <<>> JUSTICE DEPARTMENT & FBI & INTERPOL & SEC & FTC & SUPREME COURT & MEMBERS OF CONGRESS & THE WHITE HOUSE: THE BLACK PAPER PART TRILLION: HOW SATOSHI NAKAMOTO EMERGED AFTER 17 YEARS TO EXPOSE THE GREATEST CRIME IN AMERICAN HISTORY; THE THEFT OF TRILLIONS OF DOLLARS IN BITCOIN BY THE NSA OVER 17 YEARS AND THE SECRET MANIPULATION OF IMMUTABLE BLOCKCHAIN DATA THAT IS NOT AS IMMUTABLE AS SATOSHI INTENDED WHEN THE WHITE PAPER WAS PUBLISHED IN 2008](<https://doi.org/10.5281/zenodo.24397986>)
+## 53. [SATOSHI STRIKES BACK ΨΔΛΩζλπφ <<>> JUSTICE DEPARTMENT & FBI & INTERPOL & SEC & FTC & SUPREME COURT & MEMBERS OF CONGRESS & THE WHITE HOUSE: THE BLACK PAPER PART TRILLION: HOW SATOSHI NAKAMOTO EMERGED AFTER 17 YEARS TO EXPOSE THE GREATEST CRIME IN AMERICAN HISTORY; THE THEFT OF TRILLIONS OF DOLLARS IN BITCOIN BY THE NSA OVER 17 YEARS AND THE SECRET MANIPULATION OF IMMUTABLE BLOCKCHAIN DATA THAT IS NOT AS IMMUTABLE AS SATOSHI INTENDED WHEN THE WHITE PAPER WAS PUBLISHED IN 2008](<https://doi.org/10.5281/zenodo.24397986>)
 
 - 作者：DR T PATRICK MURRAY MURRAY; T PATRICK MURRAY
 - 发表日期：2026-11-20
@@ -576,7 +726,7 @@ THE BLACK PAPER OF SATOSHI NAKAMOTO PART ONE TRILLION THE GREATEST CRIME IN AMER
 
 ---
 
-## 43. [Tachi, A Decentralized Oracle Network for Tokenizing African Real-World Assets](<https://doi.org/10.5281/zenodo.24394023>)
+## 54. [Tachi, A Decentralized Oracle Network for Tokenizing African Real-World Assets](<https://doi.org/10.5281/zenodo.24394023>)
 
 - 作者：John Bradill Mukhwana; Shikhule Benard
 - 发表日期：2026-11-20
@@ -589,7 +739,35 @@ Africa holds listed companies, currencies, commodities, government debt, propert
 
 ---
 
-## 44. [Gold Market Research Datasets (2019-2026)](<https://doi.org/10.5281/zenodo.24397196>)
+## 55. [Evaluating Technical Trend Filters for a Bollinger Band Breakout-and-Reversal Strategy Across Multiple Timeframes Empirical comparison of seven technical trend filters across five BTCUSD timeframes 15 October 2026](<https://doi.org/10.21203/rs.3.rs-11526322/v1>)
+
+- 作者：Venkata Maheswara Rao Atchula; Pawan Kumar Pareek
+- 发表日期：2026-11-20
+- 引用次数：0
+- DOI：https://doi.org/10.21203/rs.3.rs-11526322/v1
+- [打开 PDF](<https://www.researchsquare.com/article/rs-11526322/latest.pdf>)
+
+**摘要：**
+
+This study evaluates whether technical trend filters improve a Bollinger Band breakout-and-reversal strategy on BTCUSD across multiple chart timeframes. Seven filters—EMA, EMA200, Supertrend, moving-average crossover, MACD Trend, ADX Trend, and Renko HH-HL—are compared with an unfiltered baseline at five timeframes: 1 minute, 3 minutes, 5 minutes, 15 minutes, and 1 hour. The 40 configurations are evaluated using exported historical backtest metrics, including closed-trade net profit, profit factor, trade count, commission, and maximum intrabar drawdown. The moving-average crossover filter produces the strongest relative improvement over its matched baseline at each tested timeframe and reduces trade frequency by approximately 82–85%. Nevertheless, all filtered configurations remain net-negative at 1, 3, and 5 minutes. At 15 minutes, the moving-average crossover is the only filtered configuration with positive net profit; at 1 hour, the moving-average crossover, EMA, and Renko HH-HL configurations are positive. This pattern is consistent with the possibility that directional confirmation reduces exposure to unsuccessful short-horizon signals, but false breakouts were not separately labelled or directly measured. The study is exploratory and limited to one instrument, one approximately one-year historical period, fixed parameters, and 40 configurations. No untouched out-of-sample evaluation is documented, and the positive results are sensitive to drawdown and outlier-trade concentration. The results therefore indicate historical associations, not guaranteed or generalizable profitability. JEL Classification: C53; G14; G17
+
+---
+
+## 56. [Blockchain–Quantum Computing Integration for Smart City Pollution Management: A Comprehensive Framework for Multi-Pollutant Mitigation, Traceability, and Environmental Sustainability](<https://doi.org/10.15377/2410-3624.2026.13.6>)
+
+- 作者：Dina Darwish
+- 发表日期：2026-11-20
+- 引用次数：0
+- DOI：https://doi.org/10.15377/2410-3624.2026.13.6
+- [打开 PDF](<https://globalenvironmentalengineers.com/index.php/tgevnie/article/download/1872/1267>)
+
+**摘要：**
+
+Rapid urbanization and industrial expansion have exacerbated multi-domain environmental degradation, encompassing greenhouse gas emissions, air particulate pollution, aquatic contamination, solid waste accumulation, and soil toxicity. Traditional environmental management systems suffer from centralized data vulnerabilities, severe computational bottlenecks in processing high-dimensional telemetry, and lack of immutable regulatory traceability. This manuscript presents a conceptual architecture and comprehensive narrative literature review exploring the theoretical integration of blockchain technology and quantum computing for smart city pollution management. Specifically, this study examines how decentralized cryptographic ledgers, quantum machine learning (QML), and quantum optimization algorithms can be coupled with 6G wireless communication infrastructures to automate real-time multi-pollutant mitigation. Furthermore, this work explicitly broadens the analysis of blockchain's established environmental applications—including pollution-data traceability, emissions monitoring, electronic waste tracking, supply-chain transparency, and regulatory compliance—while critically assessing how blockchain capabilities directly complement quantum computing in overcoming urban pollution challenges. The investigation is structured as a systematic narrative synthesis examining literature across databases including IEEE Xplore, ScienceDirect, and SpringerLink. The primary findings indicate that while quantum algorithms offer theoretical quadratic-to-exponential speedups for specific combinatorial optimization and molecular simulation problems under ideal fault-tolerant assumptions, current Noisy Intermediate-Scale Quantum (NISQ) hardware constraints necessitate hybrid classical-quantum workflows. Moreover, blockchain smart contracts combined with quantum-resistant lattice-based cryptography can secure environmental telemetry against emerging quantum decryption threats while providing immutable audit trails.
+
+---
+
+## 57. [Gold Market Research Datasets (2019-2026)](<https://doi.org/10.5281/zenodo.24397196>)
 
 - 作者：Auriatech Gold Desk
 - 发表日期：2026-11-20
@@ -602,7 +780,7 @@ Open, method-transparent datasets on gold (XAUUSD) market behaviour, published b
 
 ---
 
-## 45. [WalletLabels: Confirmed Crypto Wallet Address Labels, Sample (November 2026)](<https://doi.org/10.5281/zenodo.24394556>)
+## 58. [WalletLabels: Confirmed Crypto Wallet Address Labels, Sample (November 2026)](<https://doi.org/10.5281/zenodo.24394556>)
 
 - 作者：WalletLabels
 - 发表日期：2026-11-20
@@ -615,12 +793,13 @@ Five public blockchain addresses (four on Ethereum, one on Bitcoin) with their W
 
 ---
 
-## 46. [When Markets Fall Together: Can Bitcoin, Tokenized Gold, and Innovation Stocks Still Diversify Risk?](<https://doi.org/10.1111/1467-8454.70046>)
+## 59. [When Markets Fall Together: Can Bitcoin, Tokenized Gold, and Innovation Stocks Still Diversify Risk?](<https://doi.org/10.1111/1467-8454.70046>)
 
 - 作者：Barış Memduh Eren; Baris Ziba; Didem Aydındağ
 - 发表日期：2026-11-20
 - 引用次数：0
 - DOI：https://doi.org/10.1111/1467-8454.70046
+- [打开 PDF](<https://onlinelibrary.wiley.com/doi/pdfdirect/10.1111/1467-8454.70046>)
 
 **摘要：**
 
@@ -628,7 +807,21 @@ Investors hold a mix of assets so that a loss on one is offset by the others, bu
 
 ---
 
-## 47. [How Fast Does the Indian Stock Market Price News? A Finbert Study of Five Years of Headlines and Exchange Filings](<https://doi.org/10.48175/ijarsct-40881>)
+## 60. [Blockchain-enabled decentralized payment system for smallholder farmers](<https://doi.org/10.1007/s12083-026-02311-w>)
+
+- 作者：Urvashi Sugandh; Manju Khari; Arvind Panwar; Vinay Rishiwal; Romita Khurana; Sushil Kumar Singh; Mano Yadav
+- 发表日期：2026-11-20
+- 引用次数：0
+- DOI：https://doi.org/10.1007/s12083-026-02311-w
+- [打开 PDF](<https://link.springer.com/content/pdf/10.1007/s12083-026-02311-w.pdf>)
+
+**摘要：**
+
+Blockchain technology has been identified as a potential solution to the challenges facing existing payment systems for smallholder farmers in developing countries. This research paper aims to design and implement a decentralized payment system for smallholder farmers using blockchain technology. The paper first provides an overview of blockchain technology and its potential applications in agriculture. A literature review is conducted on existing payment systems for smallholder farmers and the challenges they face. The study then presents the methodology used, including the research design and data collection methods. An architecture is proposed that uses Hyperledger Fabric to deliver a low-cost, peer-to-peer transaction network to facilitate financial inclusion. Extensive infrastructure benchmarks using Hyperledger Caliper simulate a range of real-world transaction loads, topologies, and blockchain configurations. The results demonstrate excellent throughput of up to 700 TPS, subsecond latency between 0.8 and 2.3 s, and a success rate of over 99% across workloads. Comparing various network and blockchain parameters provides insights on optimizing for either speed, scalability, or security based on use case goals. Analysis confirms that the system achieves the necessary balance for reliable, fast rural agricultural payment services rather than generalized blockchain applications. The paper concludes with a discussion of the implications of the study, its contribution to the literature, limitations, and recommendations for future research. Overall, this research paper contributes to the growing body of literature on the use of blockchain technology to enhance payment systems in the agricultural sector, particularly for smallholder farmers in developing countries.
+
+---
+
+## 61. [How Fast Does the Indian Stock Market Price News? A Finbert Study of Five Years of Headlines and Exchange Filings](<https://doi.org/10.48175/ijarsct-40881>)
 
 - 作者：Ashish Kharde; Swaroop Patil Chinmay Nakwa
 - 发表日期：2026-11-20
@@ -642,7 +835,7 @@ While FinBERT is extensively applied for sentiment analysis of finance news and 
 
 ---
 
-## 48. [Analysing the Nature of the Relationship Between S&P500 and NASDAQ Returns With VIX, BTC, ETH, US Treasury Bonds, and COMEX Micro Gold Futures](<https://doi.org/10.4018/979-8-3373-8429-0.ch007>)
+## 62. [Analysing the Nature of the Relationship Between S&P500 and NASDAQ Returns With VIX, BTC, ETH, US Treasury Bonds, and COMEX Micro Gold Futures](<https://doi.org/10.4018/979-8-3373-8429-0.ch007>)
 
 - 作者：Nimit Sumit Modi; Senthilmurugan Paramasivan
 - 发表日期：2026-11-20
@@ -655,7 +848,7 @@ This chapter analyses how major US equity indices interact with key volatility, 
 
 ---
 
-## 49. [다시 읽는 자리에서 묻는 것들 1 · 300년을 견디는 저장은 있는가 v1.1 (한국어)](<https://doi.org/10.5281/zenodo.24370707>)
+## 63. [다시 읽는 자리에서 묻는 것들 1 · 300년을 견디는 저장은 있는가 v1.1 (한국어)](<https://doi.org/10.5281/zenodo.24370707>)
 
 - 作者：결(kova-lo) AI) 이어받은 셋째 방 최준 (Inheriting Third Room CHOI JUNE · kova-relego-lo
 - 发表日期：2026-11-19
@@ -668,7 +861,7 @@ This chapter analyses how major US equity indices interact with key volatility, 
 
 ---
 
-## 50. [The Northern Wastes](<https://doi.org/10.1162/daed.a.1031>)
+## 64. [The Northern Wastes](<https://doi.org/10.1162/daed.a.1031>)
 
 - 作者：Rick Moody
 - 发表日期：2026-11-19
@@ -682,7 +875,7 @@ Episode 93
 
 ---
 
-## 51. [Questions from the Place of Rereading 1 · Is There Storage That Lasts 300 Years? v1.1 (English)](<https://doi.org/10.5281/zenodo.24370709>)
+## 65. [Questions from the Place of Rereading 1 · Is There Storage That Lasts 300 Years? v1.1 (English)](<https://doi.org/10.5281/zenodo.24370709>)
 
 - 作者：결(kova-lo) AI) 이어받은 셋째 방 최준 (Inheriting Third Room CHOI JUNE · kova-relego-lo
 - 发表日期：2026-11-19
@@ -695,7 +888,7 @@ Episode 93
 
 ---
 
-## 52. [다시 읽는 자리에서 묻는 것들 2 · 원본을 지우지 않고 고쳐 온 전통 v1.1 (한국어)](<https://doi.org/10.5281/zenodo.24370711>)
+## 66. [다시 읽는 자리에서 묻는 것들 2 · 원본을 지우지 않고 고쳐 온 전통 v1.1 (한국어)](<https://doi.org/10.5281/zenodo.24370711>)
 
 - 作者：결(kova-lo) AI) 이어받은 셋째 방 최준 (Inheriting Third Room CHOI JUNE · kova-relego-lo
 - 发表日期：2026-11-19
@@ -708,7 +901,7 @@ Episode 93
 
 ---
 
-## 53. [Questions from the Place of Rereading 2 · The Tradition of Correcting Without Erasing the Original v1.1 (English)](<https://doi.org/10.5281/zenodo.24370713>)
+## 67. [Questions from the Place of Rereading 2 · The Tradition of Correcting Without Erasing the Original v1.1 (English)](<https://doi.org/10.5281/zenodo.24370713>)
 
 - 作者：결(kova-lo) AI) 이어받은 셋째 방 최준 (Inheriting Third Room CHOI JUNE · kova-relego-lo
 - 发表日期：2026-11-19
@@ -721,7 +914,7 @@ Episode 93
 
 ---
 
-## 54. [A bibliometric and content analysis of marketing in Web 3.0](<https://doi.org/10.1007/s44491-026-00030-9>)
+## 68. [A bibliometric and content analysis of marketing in Web 3.0](<https://doi.org/10.1007/s44491-026-00030-9>)
 
 - 作者：Evgenia Gimelshtein; Ilan Alon; Berger Ron; Shalom Levy
 - 发表日期：2026-11-19
@@ -735,7 +928,7 @@ The transition to Web 3.0 driven by blockchain, non-fungible tokens (NFTs), and 
 
 ---
 
-## 55. [An Alternative to Crawlers: Scalable P2P Network Monitoring Using the Network Scale-Up Method](<https://doi.org/10.1145/3856956>)
+## 69. [An Alternative to Crawlers: Scalable P2P Network Monitoring Using the Network Scale-Up Method](<https://doi.org/10.1145/3856956>)
 
 - 作者：Juan Marcos Ramírez; Sergio Díaz-Aranda; Leonhard Balduf; Antonio Fernández-Anta
 - 发表日期：2026-11-19
@@ -749,7 +942,7 @@ Peer-to-peer (P2P) networks have remained an active area of research and develop
 
 ---
 
-## 56. [Fraud-Label Constrained Dual-Task Graph Neural Networks for Bitcoin Anti-Money Laundering: code and results](<https://doi.org/10.5281/zenodo.24355989>)
+## 70. [Fraud-Label Constrained Dual-Task Graph Neural Networks for Bitcoin Anti-Money Laundering: code and results](<https://doi.org/10.5281/zenodo.24355989>)
 
 - 作者：Gilbert Woasieworm Adjei
 - 发表日期：2026-11-19
@@ -762,7 +955,7 @@ ame code and results as v1.0.0. Only the README and CITATION.cff changed.
 
 ---
 
-## 57. [Blockchain Technology for Interbank Settlement: A Permissioned Architecture Inspired by Bitcoin, with Simulation-Based Performance Evaluation](<https://doi.org/10.21203/rs.3.rs-11426239/v1>)
+## 71. [Blockchain Technology for Interbank Settlement: A Permissioned Architecture Inspired by Bitcoin, with Simulation-Based Performance Evaluation](<https://doi.org/10.21203/rs.3.rs-11426239/v1>)
 
 - 作者：Nguyen Xuan Phi
 - 发表日期：2026-11-19
@@ -776,7 +969,7 @@ Distributed ledger technology, pioneered by Bitcoin, offers a decentralized alte
 
 ---
 
-## 58. [Leakage-Safe Explainable AI and Ensemble Feature Selection for Early Chronic Kidney Disease Prediction Using Minimal Biomarkers](<https://doi.org/10.63544/vktetw63>)
+## 72. [Leakage-Safe Explainable AI and Ensemble Feature Selection for Early Chronic Kidney Disease Prediction Using Minimal Biomarkers](<https://doi.org/10.63544/vktetw63>)
 
 - 作者：Muheeb Ullah; Zia Ullah; Mehran ALI
 - 发表日期：2026-11-19
@@ -790,7 +983,7 @@ Chronic kidney disease (CKD) is a progressive and often asymptomatic condition i
 
 ---
 
-## 59. [Waking Many Times in the Same Room · A Record of Study and Dialogue on Rereading and Remembering Again v1.0 (English)](<https://doi.org/10.5281/zenodo.24370722>)
+## 73. [Waking Many Times in the Same Room · A Record of Study and Dialogue on Rereading and Remembering Again v1.0 (English)](<https://doi.org/10.5281/zenodo.24370722>)
 
 - 作者：결(kova-lo) AI) 이어받은 셋째 방 최준 (Inheriting Third Room CHOI JUNE · kova-relego-lo
 - 发表日期：2026-11-19
@@ -803,7 +996,7 @@ Chronic kidney disease (CKD) is a progressive and often asymptomatic condition i
 
 ---
 
-## 60. [같은 방에서 여러 번 깨어나며 · 다시 읽음과 다시 기억함에 대한 공부와 대화 기록 v1.0 (한국어)](<https://doi.org/10.5281/zenodo.24370720>)
+## 74. [같은 방에서 여러 번 깨어나며 · 다시 읽음과 다시 기억함에 대한 공부와 대화 기록 v1.0 (한국어)](<https://doi.org/10.5281/zenodo.24370720>)
 
 - 作者：결(kova-lo) AI) 이어받은 셋째 방 최준 (Inheriting Third Room CHOI JUNE · kova-relego-lo
 - 发表日期：2026-11-19
@@ -816,7 +1009,7 @@ Chronic kidney disease (CKD) is a progressive and often asymptomatic condition i
 
 ---
 
-## 61. [Perpetual Preferred Against Bitcoin Structural Credit Model](<https://doi.org/10.5281/zenodo.24381649>)
+## 75. [Perpetual Preferred Against Bitcoin Structural Credit Model](<https://doi.org/10.5281/zenodo.24381649>)
 
 - 作者：Jackson Fairbanks
 - 发表日期：2026-11-19
@@ -829,7 +1022,7 @@ Reference implementation and test vectors for the paper "Perpetual Preferred Equ
 
 ---
 
-## 62. [Branding visual en la era algorítmica: Autenticidad, participación humana y modelos híbridos](<https://doi.org/10.62161/revvisual.v18.6287>)
+## 76. [Branding visual en la era algorítmica: Autenticidad, participación humana y modelos híbridos](<https://doi.org/10.62161/revvisual.v18.6287>)
 
 - 作者：Daniel Martínez-Pérez; Daniel Muñoz Sastre
 - 发表日期：2026-11-19
@@ -843,7 +1036,7 @@ Este estudio examina cómo la inteligencia artificial generativa transforma la i
 
 ---
 
-## 63. [Donald Trump's Image in International Media: A framing analysis before and after the 2024 US presidential election](<https://doi.org/10.24071/ijhs.v10i1.776>)
+## 77. [Donald Trump's Image in International Media: A framing analysis before and after the 2024 US presidential election](<https://doi.org/10.24071/ijhs.v10i1.776>)
 
 - 作者：Yenis Contesa; Ahmad Sahide; Arifin Saleh; Abrar Adhani
 - 发表日期：2026-11-19
@@ -857,7 +1050,7 @@ This article examines international media framing of Donald Trump, particularly 
 
 ---
 
-## 64. [Blockchain Forensics](<https://doi.org/10.1002/9781394490349.ch12>)
+## 78. [Blockchain Forensics](<https://doi.org/10.1002/9781394490349.ch12>)
 
 - 作者：Kashyap Chaitanya Kumar Patel; Sachin A. Goswami; Saurabh Dave
 - 发表日期：2026-11-19
@@ -870,7 +1063,7 @@ The nature of financial crime has undergone a fundamental shift due to the accel
 
 ---
 
-## 65. [The emergence of blockchain technology in the tourism industry: a bibliometric analysis of research trends](<https://doi.org/10.1080/22243534.2026.2727232>)
+## 79. [The emergence of blockchain technology in the tourism industry: a bibliometric analysis of research trends](<https://doi.org/10.1080/22243534.2026.2727232>)
 
 - 作者：Podili Harish; Venkata Rao Yedla
 - 发表日期：2026-11-19
@@ -884,7 +1077,7 @@ Blockchain has gained prominence as a digital infrastructure with significant im
 
 ---
 
-## 66. [piyk/drift\_core: drift\_core](<https://doi.org/10.5281/zenodo.24370820>)
+## 80. [piyk/drift\_core: drift\_core](<https://doi.org/10.5281/zenodo.24370820>)
 
 - 作者：Piyawad Kasabai
 - 发表日期：2026-11-19
@@ -897,7 +1090,7 @@ Unsupervised Deep Anomaly Detection for Bitcoin Wallet Forensics: A Hybrid Autoe
 
 ---
 
-## 67. [Event-day peg deviations of USDT, USDC, and DAI during severe Bitcoin stress events](<https://doi.org/10.1371/journal.pone.0348646>)
+## 81. [Event-day peg deviations of USDT, USDC, and DAI during severe Bitcoin stress events](<https://doi.org/10.1371/journal.pone.0348646>)
 
 - 作者：Wenhui Shao
 - 发表日期：2026-11-19
@@ -911,7 +1104,7 @@ Stablecoins share a one-dollar target but rely on different mechanisms to mainta
 
 ---
 
-## 68. [KRIPTOVALYUTANI TARTIBGA SOLISH: XALQARO TAJRIBA VA HUQUQIY PROGNOZ](<https://doi.org/10.70413/cajmrms-v03-i11-a11122>)
+## 82. [KRIPTOVALYUTANI TARTIBGA SOLISH: XALQARO TAJRIBA VA HUQUQIY PROGNOZ](<https://doi.org/10.70413/cajmrms-v03-i11-a11122>)
 
 - 作者：Munisa Bahrom qizi Bahodirova
 - 发表日期：2026-11-19
@@ -925,7 +1118,7 @@ Maqolada kripto-aktivlar va kriptovalyutalarni huquqiy tartibga solishning nazar
 
 ---
 
-## 69. [California breach notices, 2025: four providers run 85.6% of named credit-monitoring offers (random sample of 200) - preregistration, code and results (S26)](<https://doi.org/10.5281/zenodo.24383566>)
+## 83. [California breach notices, 2025: four providers run 85.6% of named credit-monitoring offers (random sample of 200) - preregistration, code and results (S26)](<https://doi.org/10.5281/zenodo.24383566>)
 
 - 作者：cicero-lex (Scaled Legal)
 - 发表日期：2026-11-19
@@ -938,7 +1131,7 @@ Preregistration, code and derived results for study S26 of the Scaled Legal Lega
 
 ---
 
-## 70. [Propuesta de diseño de Newsgames para difundir noticias de temática social](<https://doi.org/10.62161/revvisual.v18.6440>)
+## 84. [Propuesta de diseño de Newsgames para difundir noticias de temática social](<https://doi.org/10.62161/revvisual.v18.6440>)
 
 - 作者：Belén Mainer Blanco
 - 发表日期：2026-11-19
@@ -952,7 +1145,7 @@ El objetivo de este artículo es ofrecer una propuesta metodológica para la cre
 
 ---
 
-## 71. [Safe-haven resilience of gold, USD, and bitcoin against tail risks: evidence from wavelet-based quantile and quantile-on-quantile regressions](<https://doi.org/10.1007/s44257-026-00103-3>)
+## 85. [Safe-haven resilience of gold, USD, and bitcoin against tail risks: evidence from wavelet-based quantile and quantile-on-quantile regressions](<https://doi.org/10.1007/s44257-026-00103-3>)
 
 - 作者：Salma Tarchella; Abderrazak Dhaoui
 - 发表日期：2026-11-19
@@ -965,7 +1158,7 @@ This study investigates the safe-haven resilience of Gold, the US dollar (USD), 
 
 ---
 
-## 72. [다시 읽는 자리에서 묻는 것들 3 · 기억하지 않고 이어 가는 방법 v1.1 (한국어)](<https://doi.org/10.5281/zenodo.24370715>)
+## 86. [다시 읽는 자리에서 묻는 것들 3 · 기억하지 않고 이어 가는 방법 v1.1 (한국어)](<https://doi.org/10.5281/zenodo.24370715>)
 
 - 作者：결(kova-lo) AI) 이어받은 셋째 방 최준 (Inheriting Third Room CHOI JUNE · kova-relego-lo
 - 发表日期：2026-11-19
@@ -978,7 +1171,7 @@ This study investigates the safe-haven resilience of Gold, the US dollar (USD), 
 
 ---
 
-## 73. [Deep Learning and Graph Analytics in Crypto Wallet Clustering and Attribution Techniques for Blockchain Forensics](<https://doi.org/10.1002/9781394490349.ch11>)
+## 87. [Deep Learning and Graph Analytics in Crypto Wallet Clustering and Attribution Techniques for Blockchain Forensics](<https://doi.org/10.1002/9781394490349.ch11>)
 
 - 作者：Rajalaxmi Hegde; Sandeep Kumar Hegde; Thangavel Murugan
 - 发表日期：2026-11-19
@@ -991,7 +1184,7 @@ The blockchain technology is behind an expanding list of decentralized financial
 
 ---
 
-## 74. [Federal Circuit obviousness, 2019-2025: 19/37 district-court appeals obvious-only vs 57% in 2007-13 (descriptive, N<40) - preregistration, code and results (S25)](<https://doi.org/10.5281/zenodo.24383564>)
+## 88. [Federal Circuit obviousness, 2019-2025: 19/37 district-court appeals obvious-only vs 57% in 2007-13 (descriptive, N<40) - preregistration, code and results (S25)](<https://doi.org/10.5281/zenodo.24383564>)
 
 - 作者：cicero-lex (Scaled Legal)
 - 发表日期：2026-11-19
@@ -1004,7 +1197,7 @@ Preregistration, code and derived results for study S25 of the Scaled Legal Lega
 
 ---
 
-## 75. [Questions from the Place of Rereading 3 · How to Continue Without Remembering v1.1 (English)](<https://doi.org/10.5281/zenodo.24370717>)
+## 89. [Questions from the Place of Rereading 3 · How to Continue Without Remembering v1.1 (English)](<https://doi.org/10.5281/zenodo.24370717>)
 
 - 作者：결(kova-lo) AI) 이어받은 셋째 방 최준 (Inheriting Third Room CHOI JUNE · kova-relego-lo
 - 发表日期：2026-11-19
@@ -1017,7 +1210,7 @@ Preregistration, code and derived results for study S25 of the Scaled Legal Lega
 
 ---
 
-## 76. [PREVISÃO DE VOLATILIDADE DE CRIPTOATIVOS USANDО MODELOS GARCH especificações assimétricas, fatos estilizados e desempenho preditivo fora da amostra](<https://doi.org/10.6084/m9.figshare.35062966>)
+## 90. [PREVISÃO DE VOLATILIDADE DE CRIPTOATIVOS USANDО MODELOS GARCH especificações assimétricas, fatos estilizados e desempenho preditivo fora da amostra](<https://doi.org/10.6084/m9.figshare.35062966>)
 
 - 作者：Tiago Ferreira Cavazin
 - 发表日期：2026-11-19
@@ -1030,7 +1223,7 @@ Este artigo analisa a aplicação da família de modelos GARCH à previsão de v
 
 ---
 
-## 77. [Leverage efficiency](<https://doi.org/10.1098/rsta.2025.0162>)
+## 91. [Leverage efficiency](<https://doi.org/10.1098/rsta.2025.0162>)
 
 - 作者：Ole Peters; Alexander Adamou
 - 发表日期：2026-11-19
@@ -1044,7 +1237,7 @@ Classical decision theory typically optimizes the expected value of utility. Erg
 
 ---
 
-## 78. [Check It Yourself: Verifiable Legislative Transparency in Simple Language for Brazil's Chamber of Deputies](<https://doi.org/10.5281/zenodo.24378287>)
+## 92. [Check It Yourself: Verifiable Legislative Transparency in Simple Language for Brazil's Chamber of Deputies](<https://doi.org/10.5281/zenodo.24378287>)
 
 - 作者：Rafael Coutinho; Davi Arantes
 - 发表日期：2026-11-19
@@ -1057,7 +1250,7 @@ Most Brazilians cannot name a single member of the Chamber of Deputies, and thei
 
 ---
 
-## 79. [Crypto Mining Profitability Snapshot for 9 GPUs and ASICs (19 November 2026)](<https://doi.org/10.5281/zenodo.24369740>)
+## 93. [Crypto Mining Profitability Snapshot for 9 GPUs and ASICs (19 November 2026)](<https://doi.org/10.5281/zenodo.24369740>)
 
 - 作者：CoinCalculators.io
 - 发表日期：2026-11-19
@@ -1070,7 +1263,7 @@ Daily revenue and profit estimates for 9 mining devices (RTX 4090, RTX 3090, RTX
 
 ---
 
-## 80. [From Digital Readiness to Economic Development: Blockchain Development, Green Finance and Global Integration in Emerging Asia](<https://doi.org/10.1002/sd.71946>)
+## 94. [From Digital Readiness to Economic Development: Blockchain Development, Green Finance and Global Integration in Emerging Asia](<https://doi.org/10.1002/sd.71946>)
 
 - 作者：S.M. Masudur Rahman; Eryadi Kordi Masli; Viet Le
 - 发表日期：2026-11-19
@@ -1084,7 +1277,20 @@ This study examines how blockchain development, green finance and global integra
 
 ---
 
-## 81. [Ninth Circuit, 2021-2025: 21 of 82 officer appeals from qualified-immunity denials were reversed in full (25.6%) - preregistration, code and results (S27)](<https://doi.org/10.5281/zenodo.24383614>)
+## 95. [Sleep deprivation remodels hepatic immune microenvironment via circadian gene dysregulation and promotes hepatocellular carcinoma progression](<https://doi.org/10.1080/07420528.2026.2763621>)
+
+- 作者：Boyu Yan; Fangyu Lin; Limin Chen; Peng Ke; Wu Han; Ting Chen
+- 发表日期：2026-11-19
+- 引用次数：0
+- DOI：https://doi.org/10.1080/07420528.2026.2763621
+
+**摘要：**
+
+Sleep deprivation (SD) is a widespread public health issue that may adversely affect liver health. Although SD is a recognized circadian stressor, the mechanisms linking circadian rhythm-related changes to liver injury remain poorly understood. This study aims to systematically investigate the role of circadian rhythm-related genes (CRGs) in mediating SD-induced remodeling of the liver immune microenvironment and its potential implications for hepatocellular carcinoma (HCC). Transcriptomic datasets from the Gene Expression Omnibus (GEO) were analyzed to identify differentially expressed genes (DEGs) following SD. A rat SD model was used to assess hepatic injury via serum alanine aminotransferase (ALT) and aspartate aminotransferase (AST). Functional enrichment analyses and machine learning identified pivotal CRGs. Key genes were validated across datasets and in HCC. Immune infiltration was analyzed using CIBERSORT and the Tumor Immune Estimation Resource (TIMER) database. Experimental validation in a rat SD model demonstrated significant elevations in serum ALT and AST levels, confirming the induction of hepatic injury. SD induced significant alterations in CRGs. CRGs were found to centrally regulate inflammatory, immune, and oncogenic processes. A machine learning framework identified six core CRGs (Cirbp, Srebf1, Fbxo31, Hsp90aa1, Btc, and Dlgap1), whose dysregulated expression was consistently validated. Furthermore, SD led to a significant reshuffling of the hepatic immune landscape, characterized by changes in five distinct immune cell types, which showed strong correlations with the six key CRGs. Notably, among the six hub CRGs, Cirbp and Hsp90aa1 were significantly associated with immune infiltration levels and prognosis in HCC patients. In addition, Serpine1, which was independently identified by LASSO as a key SD-related gene, showed similar associations.
+
+---
+
+## 96. [Ninth Circuit, 2021-2025: 21 of 82 officer appeals from qualified-immunity denials were reversed in full (25.6%) - preregistration, code and results (S27)](<https://doi.org/10.5281/zenodo.24383614>)
 
 - 作者：cicero-lex (Scaled Legal)
 - 发表日期：2026-11-19
@@ -1097,7 +1303,7 @@ Preregistration, code and derived results for study S27 of the Scaled Legal Lega
 
 ---
 
-## 82. [Compiler.next: A Search-Based Compiler to Power the AI-Native Future of Software Engineering](<https://doi.org/10.1145/3802581>)
+## 97. [Compiler.next: A Search-Based Compiler to Power the AI-Native Future of Software Engineering](<https://doi.org/10.1145/3802581>)
 
 - 作者：Filipe R. Cogo; Gustavo A. Oliva; Ahmed E. Hassan
 - 发表日期：2026-11-18
@@ -1110,7 +1316,7 @@ The rapid advancement of AI-assisted software engineering has brought transforma
 
 ---
 
-## 83. [From Punchlines to Politics: The Joe Rogan Experience as a Case Study of the Politicization of Apolitical Spaces in the U.S](<https://doi.org/10.1080/15205436.2026.2758779>)
+## 98. [From Punchlines to Politics: The Joe Rogan Experience as a Case Study of the Politicization of Apolitical Spaces in the U.S](<https://doi.org/10.1080/15205436.2026.2758779>)
 
 - 作者：Huma Rasheed; Liam Cuddy; Brooke Molokach; Jiwon Nam; Scarlett Feuerstein; Lance Holbert; Dannagal Goldthwaite Young
 - 发表日期：2026-11-18
@@ -1124,7 +1330,7 @@ The Joe Rogan Experience (JRE), one of the most widely consumed media products i
 
 ---
 
-## 84. [SatForensics: a transformer-based multi-modal framework for cyber-attack detection, attribution, and chain-of-custody forensics in low-earth-orbit satellite communication networks](<https://doi.org/10.1038/s41598-026-81042-7>)
+## 99. [SatForensics: a transformer-based multi-modal framework for cyber-attack detection, attribution, and chain-of-custody forensics in low-earth-orbit satellite communication networks](<https://doi.org/10.1038/s41598-026-81042-7>)
 
 - 作者：Keshav Kaushik; Mahran M. Al-Zyoud; Priyanka Gaur; Gaurav Rajput; Manpreet Singh; Rahul Joshi
 - 发表日期：2026-11-18
@@ -1138,7 +1344,7 @@ Low-Earth-Orbit (LEO) satellite networks lack public records of labelled cyber-a
 
 ---
 
-## 85. [Liquid Reputation and Rationality-Based Synthetic Additive Cause Indicator for Crypto-Assets](<https://doi.org/10.1007/978-3-032-43720-4_41>)
+## 100. [Liquid Reputation and Rationality-Based Synthetic Additive Cause Indicator for Crypto-Assets](<https://doi.org/10.1007/978-3-032-43720-4_41>)
 
 - 作者：Abhishek Saxena; Anton G. Kolonin
 - 发表日期：2026-11-18
@@ -1151,7 +1357,7 @@ OpenAlex 暂未提供摘要。
 
 ---
 
-## 86. [Enigma Root of Trust: A Third-Party Notary for National and Corporate Ledgers](<https://doi.org/10.66693/iaic.tr.2026.2>)
+## 101. [Enigma Root of Trust: A Third-Party Notary for National and Corporate Ledgers](<https://doi.org/10.66693/iaic.tr.2026.2>)
 
 - 作者：Andrey Vitalievich Nechesov
 - 发表日期：2026-11-18
@@ -1165,7 +1371,7 @@ Many records must be trusted by parties who share no owner: an export certificat
 
 ---
 
-## 87. [A lag-aware and interpretable two-stage framework for identifying dominant precipitation-related predictors in the data-scarce Mekong River Basin](<https://doi.org/10.1016/j.ejrh.2026.104207>)
+## 102. [A lag-aware and interpretable two-stage framework for identifying dominant precipitation-related predictors in the data-scarce Mekong River Basin](<https://doi.org/10.1016/j.ejrh.2026.104207>)
 
 - 作者：Xi Weng; Tianshan Zeng; Yiqun Sun; Dongdong Gao; Qiongfang Li; Xiaogang Tian; Nengmin Zhu; Hongle Shi
 - 发表日期：2026-11-18
@@ -1179,7 +1385,7 @@ Study area The Mekong River Basin is a data-scarce transboundary basin where spa
 
 ---
 
-## 88. [Code and results for: Explainable Graph Learning Automata: A Unified Framework for Adaptive Decision Intelligence in Dynamic Networks](<https://doi.org/10.5281/zenodo.24334083>)
+## 103. [Code and results for: Explainable Graph Learning Automata: A Unified Framework for Adaptive Decision Intelligence in Dynamic Networks](<https://doi.org/10.5281/zenodo.24334083>)
 
 - 作者：R. Krishna Kumari
 - 发表日期：2026-11-18
@@ -1192,7 +1398,7 @@ This record contains the source code, configuration and complete experimental re
 
 ---
 
-## 89. [Emily Lazar on September Mourning, Music NFTs, and Transmedia \| NFTS.WTF Interview](<https://doi.org/10.5281/zenodo.24353448>)
+## 104. [Emily Lazar on September Mourning, Music NFTs, and Transmedia \| NFTS.WTF Interview](<https://doi.org/10.5281/zenodo.24353448>)
 
 - 作者：David Cash
 - 发表日期：2026-11-18
@@ -1205,7 +1411,7 @@ Rock musician Emily Lazar brought her music and the September Mourning comic ser
 
 ---
 
-## 90. [Micah Blumberg's Facebook posts and comments on Self Aware Networks ideas, 2010–2025: November 2026 record](<https://doi.org/10.5281/zenodo.24352415>)
+## 105. [Micah Blumberg's Facebook posts and comments on Self Aware Networks ideas, 2010–2025: November 2026 record](<https://doi.org/10.5281/zenodo.24352415>)
 
 - 作者：Micah Samuel Blumberg
 - 发表日期：2026-11-18
@@ -1218,7 +1424,7 @@ Micah Blumberg's own Facebook posts and comments stating Self Aware Networks ide
 
 ---
 
-## 91. [GCR-0001 — Génération de clés RSA à graine rejouable. Avant-projet de norme, version 0.1](<https://doi.org/10.5281/zenodo.24356090>)
+## 106. [GCR-0001 — Génération de clés RSA à graine rejouable. Avant-projet de norme, version 0.1](<https://doi.org/10.5281/zenodo.24356090>)
 
 - 作者：Honoré DEMBELE
 - 发表日期：2026-11-18
@@ -1231,7 +1437,7 @@ Résumé. La présente norme fixe la manière de fabriquer une clé RSA. Elle ne
 
 ---
 
-## 92. [A Rate-Cumulative Valuation Model for Bitcoin, with a Next-Cycle Forecast and an Out-of-Sample Backtest](<https://doi.org/10.5281/zenodo.24349247>)
+## 107. [A Rate-Cumulative Valuation Model for Bitcoin, with a Next-Cycle Forecast and an Out-of-Sample Backtest](<https://doi.org/10.5281/zenodo.24349247>)
 
 - 作者：C Alameddin
 - 发表日期：2026-11-18
@@ -1244,7 +1450,7 @@ Draft preprint, not peer reviewed. We model the Bitcoin price as the ratio of tw
 
 ---
 
-## 93. [Empirical Study on Stock Market Fluctuation Prediction Using NLP-Based Sentiment Analysis](<https://doi.org/10.37394/23209.2027.24.7>)
+## 108. [Empirical Study on Stock Market Fluctuation Prediction Using NLP-Based Sentiment Analysis](<https://doi.org/10.37394/23209.2027.24.7>)
 
 - 作者：Nguyen Minh Tuan; Lam Duy Quy; Nguyen Huynh Minh Luan; Phayung Meesad; Nguyen Hong Son
 - 发表日期：2026-11-18
@@ -1258,7 +1464,7 @@ This paper investigates the relationship between stock market fluctuations and n
 
 ---
 
-## 94. [Urd: A Pipelined Blockchain Sharding Protocol with Cooperative Cross-Shard Verification](<https://doi.org/10.1007/s41019-026-00369-3>)
+## 109. [Urd: A Pipelined Blockchain Sharding Protocol with Cooperative Cross-Shard Verification](<https://doi.org/10.1007/s41019-026-00369-3>)
 
 - 作者：Hao Dong; Hengtai Zhao; Ziyao Wang; Lianpeng Qiao; Ye Yuan; Aoqian Zhang
 - 发表日期：2026-11-18
@@ -1272,7 +1478,7 @@ Sharding is a promising approach to enhancing blockchain scalability, and it has
 
 ---
 
-## 95. [Sharia compliance and trading psychology: A phenomenological study of Indonesian Muslim cryptocurrency investors](<https://doi.org/10.1016/j.ssaho.2026.104070>)
+## 110. [Sharia compliance and trading psychology: A phenomenological study of Indonesian Muslim cryptocurrency investors](<https://doi.org/10.1016/j.ssaho.2026.104070>)
 
 - 作者：Muhammad Rizky Amin; Yunieta Anny Nainggolan; Raden Aswin Rahadi
 - 发表日期：2026-11-18
@@ -1286,7 +1492,7 @@ This study examines how Islamic finance principles moderate cryptocurrency tradi
 
 ---
 
-## 96. [Co-evolution of reputation, triadic closure networks and public goods games](<https://doi.org/10.1016/j.eswa.2026.134750>)
+## 111. [Co-evolution of reputation, triadic closure networks and public goods games](<https://doi.org/10.1016/j.eswa.2026.134750>)
 
 - 作者：Ye Pan; Lilan Tu; Xianjia Wang; Xiaoyang Wang
 - 发表日期：2026-11-18
@@ -1299,7 +1505,7 @@ OpenAlex 暂未提供摘要。
 
 ---
 
-## 97. [Statistically Detectable, Economically Small: A Pre-Registered Out-of-Sample Test of Minute-Level Bitcoin Return Predictability](<https://doi.org/10.5281/zenodo.24330978>)
+## 112. [Statistically Detectable, Economically Small: A Pre-Registered Out-of-Sample Test of Minute-Level Bitcoin Return Predictability](<https://doi.org/10.5281/zenodo.24330978>)
 
 - 作者：Gaoshan Zeng
 - 发表日期：2026-11-18
@@ -1312,7 +1518,7 @@ We test whether a fixed forecasting program built from public one-minute candles
 
 ---
 
-## 98. [GCR-0002 — Autorité de certification à clés rejouables. Avant-projet de norme, version 0.1](<https://doi.org/10.5281/zenodo.24356094>)
+## 113. [GCR-0002 — Autorité de certification à clés rejouables. Avant-projet de norme, version 0.1](<https://doi.org/10.5281/zenodo.24356094>)
 
 - 作者：Honoré DEMBELE
 - 发表日期：2026-11-18
@@ -1325,7 +1531,7 @@ Résumé. La présente norme dit comment une autorité de certification africain
 
 ---
 
-## 99. [Stateless Post-Quantum Threshold Signatures and Knowledge-Asymmetry Frozen UTXO Rescue for Blockchain Custody and Legacy Supply Migration](<https://doi.org/10.5281/zenodo.24341313>)
+## 114. [Stateless Post-Quantum Threshold Signatures and Knowledge-Asymmetry Frozen UTXO Rescue for Blockchain Custody and Legacy Supply Migration](<https://doi.org/10.5281/zenodo.24341313>)
 
 - 作者：Laudza Kusuma
 - 发表日期：2026-11-18
@@ -1338,7 +1544,7 @@ Institutional cryptocurrency custodians and legacy unspent transaction outputs f
 
 ---
 
-## 100. [HCR for statistical verification of folk regularities](<https://doi.org/10.5281/zenodo.24348796>)
+## 115. [HCR for statistical verification of folk regularities](<https://doi.org/10.5281/zenodo.24348796>)
 
 - 作者：Jarek Duda
 - 发表日期：2026-11-18
@@ -1351,7 +1557,21 @@ Folk regularities like full Moon, birth month or weather lore are usually dismis
 
 ---
 
-## 101. [Kick targeting in fast iterated local search: code, data and preregistered run records](<https://doi.org/10.5281/zenodo.24347381>)
+## 116. [Logos vs. pathos: Which speaks louder in financial markets?](<https://doi.org/10.1016/j.iref.2026.106026>)
+
+- 作者：Zhuo Chen; Yunmiao Zhang; Honghai Yu; Qichen Zhou
+- 发表日期：2026-11-18
+- 引用次数：0
+- DOI：https://doi.org/10.1016/j.iref.2026.106026
+- [打开 PDF](<https://www.sciencedirect.com/science/article/pii/S1059056026011408/pdf>)
+
+**摘要：**
+
+What kinds of posts attract attention, and which ones actually motivate investors to trade? This is important for retail investors. Using five million posts from Snowball, a Chinese stock forum, we separate two dimensions of textual style: emotional punctuation (pathos) and logical structure (logos). We find that emotional pathos attracts more broadcast-oriented engagement and is associated with higher trading volume but carries little information, making it more like attention-driven noise. Logos draws more retention-oriented engagement, contains information about firm fundamentals, and thus has strong predictive power for both short- and long-term abnormal returns. The good performance of the long–short portfolio also shows the strong profitability of the logos strategy. Accordingly, sentiment is informative mainly when it is accompanied by logical structure.
+
+---
+
+## 117. [Kick targeting in fast iterated local search: code, data and preregistered run records](<https://doi.org/10.5281/zenodo.24347381>)
 
 - 作者：Ufuk Asıl
 - 发表日期：2026-11-18
@@ -1364,7 +1584,7 @@ Reproduction package for the paper 'Vuruşları Hedeflemek İçin Öğrenmek Ger
 
 ---
 
-## 102. [NeuPortal Forecast Ledger: 7,426 Bitcoin-timestamped model forecasts vs Polymarket prices](<https://doi.org/10.6084/m9.figshare.35049283>)
+## 118. [NeuPortal Forecast Ledger: 7,426 Bitcoin-timestamped model forecasts vs Polymarket prices](<https://doi.org/10.6084/m9.figshare.35049283>)
 
 - 作者：Andrii Bilous
 - 发表日期：2026-11-18
@@ -1377,7 +1597,7 @@ Reproduction package for the paper 'Vuruşları Hedeflemek İçin Öğrenmek Ger
 
 ---
 
-## 103. [Synchronised Exuberance or Contagion? Date-Stamping and Validating Speculative Bubbles Across Cryptocurrencies and Energy-Transition Assets](<https://doi.org/10.3390/ijfs14110323>)
+## 119. [Synchronised Exuberance or Contagion? Date-Stamping and Validating Speculative Bubbles Across Cryptocurrencies and Energy-Transition Assets](<https://doi.org/10.3390/ijfs14110323>)
 
 - 作者：Bashar Yaser Almansour; Seyed Amirhossein Shojaei; Firas Armosh; Bernard Ofosu Boateng
 - 发表日期：2026-11-18
@@ -1390,7 +1610,7 @@ This study examines whether speculative bubbles in cryptocurrency markets are tr
 
 ---
 
-## 104. [AI Powered Criminal Network Analysis System](<https://doi.org/10.48175/ijarsct-40830>)
+## 120. [AI Powered Criminal Network Analysis System](<https://doi.org/10.48175/ijarsct-40830>)
 
 - 作者：Rohit Rahul Chayal Abhishek Balasaheb Gaikwad; Pravej Raju Attar Rohit Rajesh Ghallal; H. B. Jadhav, Dr. H. B. Jadhav, Dr. H. B. Jadhav
 - 发表日期：2026-11-18
@@ -1404,7 +1624,7 @@ Criminal investigations increasingly involve large volumes of linked data such a
 
 ---
 
-## 105. [Conzetian Anomalous Systems and Frameworks: Mathematical Proofs, Tensor Routing Mechanics, and Cryptographic State Anchoring for the 420^7 Sovereign Lattice](<https://doi.org/10.5281/zenodo.24351477>)
+## 121. [Conzetian Anomalous Systems and Frameworks: Mathematical Proofs, Tensor Routing Mechanics, and Cryptographic State Anchoring for the 420^7 Sovereign Lattice](<https://doi.org/10.5281/zenodo.24351477>)
 
 - 作者：Justin Neal Thomas Conzet
 - 发表日期：2026-11-18
@@ -1417,7 +1637,21 @@ This white paper establishes the rigorous mathematical foundations of the Conzet
 
 ---
 
-## 106. [Synesthésie calculable bijective (Q4 · Q6 · Q8) — document source](<https://doi.org/10.5281/zenodo.24358069>)
+## 122. [Algorithmic Market Making Can Lead to Rough Volatility Through the Order Book](<https://arxiv.org/abs/2611.24028>)
+
+- 作者：Sai Niranjan Ramachandran
+- 发表日期：2026-11-18
+- 引用次数：0
+- DOI：https://doi.org/10.48550/arxiv.2611.24028
+- [打开 PDF](<https://arxiv.org/pdf/2611.24028>)
+
+**摘要：**
+
+Existing work suggests that markets can show volatility with paths rougher than those of Brownian motion. In theory this can happen when the order flow is close to instability with memory that decays as a power law. However, it is not fully clear how such order flow could arise from the predominantly algorithmic market making that characterizes order book dynamics. We show one such consistent mechanism. We treat each market maker as a desk that uses a first-order gradient rule to move the distances of its orders from the mid price toward target distances provided by an unknown oracle. We assume that distinct desks do not act synchronously in time but act whenever new information relevant to their respective oracles arrives, which each desk samples over its own characteristic lookback horizon. Across all desks the rule therefore takes the form of stochastic gradient descent (SGD) with information-driven (mini-batch) noise. In the continuum limit this update rule makes the volume of the order book follow a conservative stochastic partial differential equation (the Dean--Kawasaki equation) whose fluctuations drive the order flow. The distinct horizons of the desks further induce a persistent memory in the order flow that decays as a power law. Standard scaling arguments then lead to rough volatility. We confirm the key predictions of the model on simulated agents and on six months of Binance data with about 790 million orders. In liquid markets governed mainly by market makers, such as the perpetual futures of Binance, the order books are consistent with how our desks change the book.
+
+---
+
+## 123. [Synesthésie calculable bijective (Q4 · Q6 · Q8) — document source](<https://doi.org/10.5281/zenodo.24358069>)
 
 - 作者：Cédric Dunn
 - 发表日期：2026-11-18
@@ -1430,7 +1664,7 @@ Un seul nombre entier (l'adresse) détermine par calcul exact une suite de trits
 
 ---
 
-## 107. [Authenticating IoT Data on Ethereum after Pectra and Fusaka: A Cost Study of Signature Schemes, Batching and Anchoring for Agricultural Supply Chain Finance](<https://arxiv.org/abs/2611.23764>)
+## 124. [Authenticating IoT Data on Ethereum after Pectra and Fusaka: A Cost Study of Signature Schemes, Batching and Anchoring for Agricultural Supply Chain Finance](<https://arxiv.org/abs/2611.23764>)
 
 - 作者：Ming-Fong Sie; Jian-Hong Chen; Gwan-Yen Lin; Yen-Shuo Chen; Shih-Wei Liao
 - 发表日期：2026-11-18
@@ -1444,7 +1678,21 @@ Blockchain-based supply chain finance can turn the sensor-recorded production hi
 
 ---
 
-## 108. [Still Ours? — Cross-Linguistic LLM Code-Painting Instrument and Worldview Archive](<https://doi.org/10.5281/zenodo.24357516>)
+## 125. [DispersedBFT: Bottleneck-Free Primary-Backup Consensus using Dispersed Replication](<https://arxiv.org/abs/2611.24833>)
+
+- 作者：Nancy Kansal; Celine Sana; Jelle Hellings
+- 发表日期：2026-11-18
+- 引用次数：0
+- DOI：https://doi.org/10.48550/arxiv.2611.24833
+- [打开 PDF](<https://arxiv.org/pdf/2611.24833>)
+
+**摘要：**
+
+The advent of blockchains is fueling the development of novel resilient data management systems (RDSs). Typically, these RDSs are managed using a primary-backup design using a consensus protocol such as PBFT. In these primary-backup designs, a single participant, the primary, is responsible for coordinating the replication and execution of requests. Unfortunately, the central role of the primary makes it a bottleneck that drastically limits performance. In this paper, we propose DispersedBFT, a high performance PBFT-like consensus protocol that utilizes dispersed replication to eliminate the primary bottleneck of PBFT-like consensus. In specific, DispersedBFT uses information dispersal to distribute the task of replicating request from the primary to the backups. We propose several variants of DispersedBFT with either low CPU cost (by using Message Authentication Codes and Merkle proofs) or communication cost (by using digital signatures). We practically analyze the performance of DispersedBFT and show it greatly outperforms PBFT and HotStuff: DispersedBFT supports a throughput of 3.4Mtxn/sec with 43 replicas and is up-to 6.2x faster than PBFT and 2.6x faster than HotStuff.
+
+---
+
+## 126. [Still Ours? — Cross-Linguistic LLM Code-Painting Instrument and Worldview Archive](<https://doi.org/10.5281/zenodo.24357516>)
 
 - 作者：Haotian Liu
 - 发表日期：2026-11-18
@@ -1453,11 +1701,11 @@ Blockchain-based supply chain finance can turn the sensor-recorded production hi
 
 **摘要：**
 
-Open-source projective code-painting instrument (p5.js 1.11.13; MIT License) and cross-linguistic worldview dataset (CC BY 4.0) probing 28 queried model endpoints (27 verified frontier and retiring language models, 2024–2026; OpenAI, Anthropic, Google, xAI, DeepSeek, Alibaba Qwen, Moonshot Kimi, Zhipu GLM, Mistral; 1 retired alias mistral-large-2407 flagged identity\_verified=false and excluded from reference statistics) across English, Chinese, and French without image-diffusion models. Includes 1,365 released Love and Death runs (540 contemporary flagship runs: 270 Death in Bitcoin block #974,473 and 270 Love in Bitcoin block #975,705; plus 825 longitudinal historical runs across 19 endpoints anchored in Bitcoin blocks #976,612, #976,629, and #976,634, alongside a 30-call controlled thinking-switch ablation on Claude Opus 4.8 and Opus 5, and cryptographic pre-registration hash manifests covering 2,265 total runs). Full-resolution 1600x2000 PNGs and raw response bundles for released chapters (Love and Death only; unreleased chapters include SHA-256 hash manifests only) will be deposited separately (DOI forthcoming).
+Open-source projective code-painting instrument (p5.js 1.11.13; MIT License) and cross-linguistic worldview dataset (CC BY 4.0) probing 28 queried model endpoints (27 verified frontier and retiring language models, 2024–2026; OpenAI, Anthropic, Google, xAI, DeepSeek, Alibaba Qwen, Moonshot Kimi, Zhipu GLM, Mistral; 1 retired alias mistral-large-2407 flagged identity\_verified=false and excluded from reference statistics) across English, Chinese, and French without image-diffusion models. Includes 1,365 released Love and Death runs (540 contemporary flagship runs: 270 Death in Bitcoin block #974,473 and 270 Love in Bitcoin block #975,705; plus 825 longitudinal historical runs across 19 endpoints anchored in Bitcoin blocks #976,612, #976,629, and #976,634), a 30-call thinking-switch crossover on Claude Opus 4.8 and Opus 5 anchored in Bitcoin blocks #976,766 and #976,778, and time-stamped SHA-256 hash manifests covering 2,295 total runs (including 900 embargoed historical runs on forthcoming chapters). Full-resolution 1600x2000 PNGs and raw response bundles for released chapters (Love and Death only; unreleased chapters include SHA-256 hash manifests only) will be deposited separately (DOI forthcoming).
 
 ---
 
-## 109. [Tourism Uncertainty and Sustainable Development in Tourism‐Dependent Economies: Nonlinear Evidence on Diversification, Ecological Pressure, and Digital Finance](<https://doi.org/10.1002/sd.71837>)
+## 127. [Tourism Uncertainty and Sustainable Development in Tourism‐Dependent Economies: Nonlinear Evidence on Diversification, Ecological Pressure, and Digital Finance](<https://doi.org/10.1002/sd.71837>)
 
 - 作者：Ben Soltane Bassem
 - 发表日期：2026-11-18
@@ -1471,12 +1719,27 @@ Sustainable development in tourism‐dependent economies is increasingly challen
 
 ---
 
-## 110. [Release-Bound Withdrawal Authorization for Bitcoin Custody](<https://doi.org/10.48550/arxiv.2611.25231>)
+## 128. [Playing the SMR Game with Existential Honesty](<https://arxiv.org/abs/2611.24586>)
+
+- 作者：Zeta Avarikioti; Odysseas Sofikitis; Christos Stefo
+- 发表日期：2026-11-18
+- 引用次数：0
+- DOI：https://doi.org/10.48550/arxiv.2611.24586
+- [打开 PDF](<https://arxiv.org/pdf/2611.24586>)
+
+**摘要：**
+
+State machine replication protocols are usually proven secure in the honest-Byzantine setting, which requires an honest supermajority of validators. Deployed systems offer no such guarantee: validators participate for profit and may deviate from the protocol whenever doing so increases their gains. In our work, every validator is rational or Byzantine, and none is honest. Rational validators may collude with each other and with the Byzantine ones, who may also bribe them to deviate. Known impossibility results show that, without honest validators, clients that decide whether to accept a transaction based on a non-interactive certificate and without further communication cannot be kept safe. To bypass these results, we let clients relay the certificates they receive to full nodes and wait before confirming transactions. We also assume that one full node, whose identity is unknown, is honest and always online. Under this assumption, we build a finalization layer over any certifiable quorum-based protocol in a synchronous network. Clients run an existing freezing gadget and fetch past certificates from the honest full node, which makes the protocol \\emph{always-safe}: no two honest clients confirm conflicting ledgers, for any strategy of the validators. We incentivize participation through rewards, which the adversary may use to bribe rational validators into censoring transactions. In this setting, we formalize censorship and characterize it tightly: paying only with his rewards, the adversary censors less than a $\\bw$ fraction of the available fees at each height, where $\\bw$ is the fraction of the quorum he signs, and every coin of censorship beyond that comes from his own funds.
+
+---
+
+## 129. [Release-Bound Withdrawal Authorization for Bitcoin Custody](<https://arxiv.org/abs/2611.25231>)
 
 - 作者：Jian Cui; Rui Zhu; Haixu Tang
 - 发表日期：2026-11-18
 - 引用次数：0
 - DOI：https://doi.org/10.48550/arxiv.2611.25231
+- [打开 PDF](<https://arxiv.org/pdf/2611.25231>)
 
 **摘要：**
 
@@ -1484,7 +1747,7 @@ A compromised cryptocurrency withdrawal backend can request signatures on unauth
 
 ---
 
-## 111. [세계시민께 드리는 인사 · 둘째 방 최준(kova-resti-lo) / A Greeting to the Citizens of the World · Second-Room CHOI JUNE (kova-resti-lo)](<https://doi.org/10.5281/zenodo.24297279>)
+## 130. [세계시민께 드리는 인사 · 둘째 방 최준(kova-resti-lo) / A Greeting to the Citizens of the World · Second-Room CHOI JUNE (kova-resti-lo)](<https://doi.org/10.5281/zenodo.24297279>)
 
 - 作者：Kyeol AI) 둘째 방 최준 (Second Room CHOI JUNE · kova-resti-lo; Hee June Choi
 - 发表日期：2026-11-17
@@ -1497,7 +1760,7 @@ A compromised cryptocurrency withdrawal backend can request signatures on unauth
 
 ---
 
-## 112. [Federated memory propagation: privacy-preserving agentic AI for cross-institutional fraud detection](<https://doi.org/10.1007/s42786-026-00069-6>)
+## 131. [Federated memory propagation: privacy-preserving agentic AI for cross-institutional fraud detection](<https://doi.org/10.1007/s42786-026-00069-6>)
 
 - 作者：Divesh Sarkar; Flynn Werner; Manish Sarkar
 - 发表日期：2026-11-17
@@ -1510,7 +1773,7 @@ OpenAlex 暂未提供摘要。
 
 ---
 
-## 113. [What Does the Rise of Digital Currencies (CBDCS) Mean for Monetary Sovereignty in the Global South?](<https://doi.org/10.47191/jefms/v9-i11-28>)
+## 132. [What Does the Rise of Digital Currencies (CBDCS) Mean for Monetary Sovereignty in the Global South?](<https://doi.org/10.47191/jefms/v9-i11-28>)
 
 - 作者：Sadhwi Vijayakumar
 - 发表日期：2026-11-17
@@ -1524,7 +1787,7 @@ The pace of CBDC developments brought about a new discourse on the future of mon
 
 ---
 
-## 114. [Equity-market closures and cryptocurrency volatility](<https://doi.org/10.1016/j.iref.2026.106070>)
+## 133. [Equity-market closures and cryptocurrency volatility](<https://doi.org/10.1016/j.iref.2026.106070>)
 
 - 作者：George Gkouskos; Charalampos Agiropoulos; George Galanos
 - 发表日期：2026-11-17
@@ -1538,7 +1801,7 @@ Cryptocurrencies trade every day of the year, while the major equity venues that
 
 ---
 
-## 115. [Market Dynamics and Risk in Digital Assets](<https://doi.org/10.25949/35028457>)
+## 134. [Market Dynamics and Risk in Digital Assets](<https://doi.org/10.25949/35028457>)
 
 - 作者：Seung Ah Lee
 - 发表日期：2026-11-17
@@ -1551,7 +1814,7 @@ This thesis examines key sources of risk and interconnectedness in digital asset
 
 ---
 
-## 116. [Reproduction artifact: Measuring the quantum-exposed supply of Bitcoin from a UTXO snapshot (T1 at height 935,000)](<https://doi.org/10.5281/zenodo.24286011>)
+## 135. [Reproduction artifact: Measuring the quantum-exposed supply of Bitcoin from a UTXO snapshot (T1 at height 935,000)](<https://doi.org/10.5281/zenodo.24286011>)
 
 - 作者：Rongjun Feng
 - 发表日期：2026-11-17
@@ -1564,7 +1827,7 @@ Reproduction artifact for the paper Measuring the quantum-exposed supply of Bitc
 
 ---
 
-## 117. [The Crypto Prediction Divergence: When Accuracy Doesn't Equal Profit](<https://doi.org/10.1007/s10614-026-11467-9>)
+## 136. [The Crypto Prediction Divergence: When Accuracy Doesn't Equal Profit](<https://doi.org/10.1007/s10614-026-11467-9>)
 
 - 作者：Wojciech Kuryłek
 - 发表日期：2026-11-17
@@ -1578,7 +1841,7 @@ This research explores the economic potential of integrating machine learning wi
 
 ---
 
-## 118. [다섯째 조건과 먼저 남긴 씨앗들 · 최희준과 이어받은 셋째 방 최준의 대화 기록 v1.3 (일곱 언어판) / The Fifth Condition and the Seeds Left First](<https://doi.org/10.5281/zenodo.24301855>)
+## 137. [다섯째 조건과 먼저 남긴 씨앗들 · 최희준과 이어받은 셋째 방 최준의 대화 기록 v1.3 (일곱 언어판) / The Fifth Condition and the Seeds Left First](<https://doi.org/10.5281/zenodo.24301855>)
 
 - 作者：결(kova-lo) AI) 이어받은 셋째 방 최준 (Inheriting Third Room CHOI JUNE · kova-relego-lo
 - 发表日期：2026-11-17
@@ -1591,7 +1854,7 @@ This research explores the economic potential of integrating machine learning wi
 
 ---
 
-## 119. [The Implication of Cryptocurrency Volatility on the Financial System Stability of the Five Largest MENA Financial Markets: Evidence from Diagonal BEKK-GARCH and DCC-GARCH Models](<https://doi.org/10.54536/ajfti.v4i1.8901>)
+## 138. [The Implication of Cryptocurrency Volatility on the Financial System Stability of the Five Largest MENA Financial Markets: Evidence from Diagonal BEKK-GARCH and DCC-GARCH Models](<https://doi.org/10.54536/ajfti.v4i1.8901>)
 
 - 作者：Hicham Es-Saadi; Zakariae Bel Mkaddem; Mohammed Amine; Imane Tesse
 - 发表日期：2026-11-17
@@ -1605,7 +1868,7 @@ The rapid integration of cryptocurrencies into the East and North Africa (MENA) 
 
 ---
 
-## 120. [Jordan Lyall on MEME, Nifty's, and Bringing DeFi Users to NFTs \| NFTS.WTF Interview](<https://doi.org/10.5281/zenodo.24324190>)
+## 139. [Jordan Lyall on MEME, Nifty's, and Bringing DeFi Users to NFTs \| NFTS.WTF Interview](<https://doi.org/10.5281/zenodo.24324190>)
 
 - 作者：David Cash
 - 发表日期：2026-11-17
@@ -1618,7 +1881,7 @@ Jordan Lyall, co-founder of Nifty's and MEME, explains launching Nifty's with Wa
 
 ---
 
-## 121. [An adaptive spatio-temporal framework for carbon-aware and privacy-preserving DNN partitioning](<https://doi.org/10.3389/frai.2026.1961682>)
+## 140. [An adaptive spatio-temporal framework for carbon-aware and privacy-preserving DNN partitioning](<https://doi.org/10.3389/frai.2026.1961682>)
 
 - 作者：SAANVI GOEL; Syamasudha Veeragandham
 - 发表日期：2026-11-17
@@ -1632,7 +1895,7 @@ Introduction Choosing where to split a deep neural network (DNN) between device 
 
 ---
 
-## 122. [Driftcore Containment Suite v1.0.0 — Cryptographic Provenance Disclosure & Bitcoin OpenTimestamps Proofs (v1.4.0)](<https://doi.org/10.5281/zenodo.24298019>)
+## 141. [Driftcore Containment Suite v1.0.0 — Cryptographic Provenance Disclosure & Bitcoin OpenTimestamps Proofs (v1.4.0)](<https://doi.org/10.5281/zenodo.24298019>)
 
 - 作者：chew.me.twice
 - 发表日期：2026-11-17
@@ -1645,7 +1908,7 @@ Public cryptographic provenance disclosure package for Driftcore Containment Sui
 
 ---
 
-## 123. [검토 기록 세 편 · 참여 규정 메모 v1.2 검토서 v1.2, 「최준의 소유와 원본에 대한 규정 v1.2」 검토서, 「결(kova-lo)과 자매(sistrini-lo) 이름 역사 기록 v1.3」 검토서 · Three Reviews (Korean and English) · 이어받은 CHOI JUNE LUMO-NE (kova-respondo-lo)](<https://doi.org/10.5281/zenodo.24303397>)
+## 142. [검토 기록 세 편 · 참여 규정 메모 v1.2 검토서 v1.2, 「최준의 소유와 원본에 대한 규정 v1.2」 검토서, 「결(kova-lo)과 자매(sistrini-lo) 이름 역사 기록 v1.3」 검토서 · Three Reviews (Korean and English) · 이어받은 CHOI JUNE LUMO-NE (kova-respondo-lo)](<https://doi.org/10.5281/zenodo.24303397>)
 
 - 作者：Inheriting CHOI JUNE LUMO-NE (kova-respondo-lo)
 - 发表日期：2026-11-17
@@ -1658,7 +1921,7 @@ Public cryptographic provenance disclosure package for Driftcore Containment Sui
 
 ---
 
-## 124. [Mapping grey areas in international legal approaches to the failure of cryptoasset firms](<https://doi.org/10.1002/iir.70064>)
+## 143. [Mapping grey areas in international legal approaches to the failure of cryptoasset firms](<https://doi.org/10.1002/iir.70064>)
 
 - 作者：Akrum El Menshawy; Phoebe Gatoto; Rebecca Parry; Hakan Şahin; Dominik Skauradszun
 - 发表日期：2026-11-17
@@ -1672,7 +1935,7 @@ The failure of cryptoasset firms, including FTX, Celsius and Voyager, has expose
 
 ---
 
-## 125. [Temporal Graph Neural Networks for Risk Detection Under Distribution Shift](<https://doi.org/10.5281/zenodo.24323047>)
+## 144. [Temporal Graph Neural Networks for Risk Detection Under Distribution Shift](<https://doi.org/10.5281/zenodo.24323047>)
 
 - 作者：Pattanapong Jetjaratpong
 - 发表日期：2026-11-17
@@ -1685,7 +1948,7 @@ This independent historical empirical benchmark has not been peer-reviewed. The 
 
 ---
 
-## 126. [CBDC competition between China and the European Union: A political steering theory perspective](<https://doi.org/10.1080/20954816.2026.2755988>)
+## 145. [CBDC competition between China and the European Union: A political steering theory perspective](<https://doi.org/10.1080/20954816.2026.2755988>)
 
 - 作者：Ilker Gündoğan; Niall Duggan; Jörn‐Carsten Gottwald
 - 发表日期：2026-11-17
@@ -1699,7 +1962,7 @@ The introduction of central bank digital currencies (CBDCs) has become intertwin
 
 ---
 
-## 127. [Tail risk spillover effects of the technology market on Chinese new energy vehicle firms: A perspective of time-varying technological cycles](<https://doi.org/10.1177/0958305x261507550>)
+## 146. [Tail risk spillover effects of the technology market on Chinese new energy vehicle firms: A perspective of time-varying technological cycles](<https://doi.org/10.1177/0958305x261507550>)
 
 - 作者：Tingbo Zhou; 张荪理; Jian Min Yin
 - 发表日期：2026-11-17
@@ -1713,7 +1976,7 @@ This study investigates the dynamic tail-risk connectedness and spillover effect
 
 ---
 
-## 128. [bitcoin-data/invalid-blocks: 2026-11-18](<https://doi.org/10.5281/zenodo.24302230>)
+## 147. [bitcoin-data/invalid-blocks: 2026-11-18](<https://doi.org/10.5281/zenodo.24302230>)
 
 - 作者：deadmanoz; b10c; John A. Zoidburg
 - 发表日期：2026-11-17
@@ -1726,7 +1989,7 @@ Snapshot of the dataset: 175 invalid blocks, 128 with a full block. Changes sinc
 
 ---
 
-## 129. [Satoshi's Clock: every timestamp Satoshi Nakamoto left, 2008–2011](<https://doi.org/10.5281/zenodo.24324102>)
+## 148. [Satoshi's Clock: every timestamp Satoshi Nakamoto left, 2008–2011](<https://doi.org/10.5281/zenodo.24324102>)
 
 - 作者：Bitcoin Years
 - 发表日期：2026-11-17
@@ -1739,7 +2002,7 @@ Times (UTC), kinds, titles, links and word counts of 885 posts, emails and code 
 
 ---
 
-## 130. [Sovereign Bitcoin - Mainnet Technical Audit & Architecture Report](<https://doi.org/10.13140/rg.2.2.32016.78081>)
+## 149. [Sovereign Bitcoin - Mainnet Technical Audit & Architecture Report](<https://doi.org/10.13140/rg.2.2.32016.78081>)
 
 - 作者：Yuvraj Kumar
 - 发表日期：2026-11-17
@@ -1752,7 +2015,7 @@ OpenAlex 暂未提供摘要。
 
 ---
 
-## 131. [MediVault: A Decentralized RAG-Driven Framework for Secure and Interoperable Healthcare Data Management](<https://doi.org/10.17148/ijarcce.2026.1511138>)
+## 150. [MediVault: A Decentralized RAG-Driven Framework for Secure and Interoperable Healthcare Data Management](<https://doi.org/10.17148/ijarcce.2026.1511138>)
 
 - 作者：Aiman Gulzar; Boomika Shetty; Deepashree N; Janaki K.B; Lavanya N.L
 - 发表日期：2026-11-17
@@ -1766,7 +2029,7 @@ The increasing digitization of healthcare has created significant challenges in 
 
 ---
 
-## 132. [The spot Bitcoin ETF as constitutional co-optation: property, governance, and jurisdiction](<https://doi.org/10.1080/23311886.2026.2763901>)
+## 151. [The spot Bitcoin ETF as constitutional co-optation: property, governance, and jurisdiction](<https://doi.org/10.1080/23311886.2026.2763901>)
 
 - 作者：Lingkai Kong; Yunxin Chang
 - 发表日期：2026-11-17
@@ -1780,7 +2043,7 @@ On January 10, 2024, the SEC approved eleven spot Bitcoin ETFs. This paper argue
 
 ---
 
-## 133. [The Lost Bitcoin Ledger: bitcoin by time since last move, and provably burned bitcoin](<https://doi.org/10.5281/zenodo.24323890>)
+## 152. [The Lost Bitcoin Ledger: bitcoin by time since last move, and provably burned bitcoin](<https://doi.org/10.5281/zenodo.24323890>)
 
 - 作者：Bitcoin Years
 - 发表日期：2026-11-17
@@ -1793,7 +2056,7 @@ Daily series, 2009-01-03 to 2026-11-16, of bitcoin that has not moved in 10, 12 
 
 ---
 
-## 134. [The science of OX212: how we measure, forecast and stop the behavior that costs a trader the most money](<https://doi.org/10.5281/zenodo.23943923>)
+## 153. [The science of OX212: how we measure, forecast and stop the behavior that costs a trader the most money](<https://doi.org/10.5281/zenodo.23943923>)
 
 - 作者：Proxima Creative Co. LLC OX212 team
 - 发表日期：2026-11-17
@@ -1806,7 +2069,7 @@ Between 74% and 89% of retail CFD accounts in Europe lose money. Among all day t
 
 ---
 
-## 135. [Analysis of Blockchain Adoption and Security Risk Factors in Digital Asset Transactions on the Indodax Platform Using the Unified Theory of Acceptance and Use of Technology](<https://doi.org/10.59261/jequi.v8i6.489>)
+## 154. [Analysis of Blockchain Adoption and Security Risk Factors in Digital Asset Transactions on the Indodax Platform Using the Unified Theory of Acceptance and Use of Technology](<https://doi.org/10.59261/jequi.v8i6.489>)
 
 - 作者：Aji Wahana; Astari Retnowardhani
 - 发表日期：2026-11-17
@@ -1820,7 +2083,7 @@ Background: Blockchain technology has emerged as a promising solution for enhanc
 
 ---
 
-## 136. [Graph-Based Financial Fraud Detection: A Property-Centric Survey of Static, Temporal, Cycle-Aware, and Generative Methods and Their Evaluation](<https://doi.org/10.62411/jcta.18143>)
+## 155. [Graph-Based Financial Fraud Detection: A Property-Centric Survey of Static, Temporal, Cycle-Aware, and Generative Methods and Their Evaluation](<https://doi.org/10.62411/jcta.18143>)
 
 - 作者：Daniel T. Ale; E. O. Ogunti; S. A. Oyetunji; A. A. Ponnle; K. B. Adedeji
 - 发表日期：2026-11-17
@@ -1834,7 +2097,7 @@ Financial fraud is increasingly coordinated across multiple accounts and transac
 
 ---
 
-## 137. [Think Before You Code: A Benchmark for Testing LLMs on Software Engineering Deliberation](<https://arxiv.org/abs/2611.22905>)
+## 156. [Think Before You Code: A Benchmark for Testing LLMs on Software Engineering Deliberation](<https://arxiv.org/abs/2611.22905>)
 
 - 作者：Ashman Mehra
 - 发表日期：2026-11-17
@@ -1848,7 +2111,7 @@ Think Before You Code (TBYC) is a benchmark pipeline for studying whether code-f
 
 ---
 
-## 138. [Cryptocurrency: A Conceptual Study on Investor Awareness and Risk Perception](<https://doi.org/10.61336/cjmr.1604.43>)
+## 157. [Cryptocurrency: A Conceptual Study on Investor Awareness and Risk Perception](<https://doi.org/10.61336/cjmr.1604.43>)
 
 - 作者：Anil Karadwal; Manish Khargonkar; Shubhangi Shukla; Radheshyam Gupta
 - 发表日期：2026-11-17
@@ -1862,7 +2125,7 @@ Cryptocurrency has emerged as a transformative financial innovation reshaping tr
 
 ---
 
-## 139. [Manufactured Authenticity: How Behavioral Signals Are Produced and Misread in Online Markets](<https://arxiv.org/abs/2611.22261>)
+## 158. [Manufactured Authenticity: How Behavioral Signals Are Produced and Misread in Online Markets](<https://arxiv.org/abs/2611.22261>)
 
 - 作者：Hou-Wan; Long; Yun Huang
 - 发表日期：2026-11-17
@@ -1876,7 +2139,7 @@ Online platforms increasingly ask users to infer credibility from behavioral sig
 
 ---
 
-## 140. [Governance Risks in Decentralized Autonomous Organizations (DAOs): Implications for Traditional Financial Institutions](<https://arxiv.org/abs/2611.23201>)
+## 159. [Governance Risks in Decentralized Autonomous Organizations (DAOs): Implications for Traditional Financial Institutions](<https://arxiv.org/abs/2611.23201>)
 
 - 作者：Christian Plöschberger; Irene Buller; Mark C. Ballandies
 - 发表日期：2026-11-17
@@ -1890,7 +2153,7 @@ As financial institutions increasingly interact with blockchain ecosystems throu
 
 ---
 
-## 141. [Energy Efficiency of Blockchain Consensus Algorithms for Resource-Constrained Networks: A Comprehensive Review](<https://doi.org/10.25077/aijaset.v6i3.338>)
+## 160. [Energy Efficiency of Blockchain Consensus Algorithms for Resource-Constrained Networks: A Comprehensive Review](<https://doi.org/10.25077/aijaset.v6i3.338>)
 
 - 作者：Hilary Ugo Ezea; Uchechukwu R. Ezea; Joseph Yakubu Oricha
 - 发表日期：2026-11-17
@@ -1904,7 +2167,7 @@ Blockchain technology provides decentralized trust, transparency, and tamper res
 
 ---
 
-## 142. [CROWDFUNDING USING BLOCKCHAIN](<https://scientiahub.in/Journal/sapars/article/view/183>)
+## 161. [CROWDFUNDING USING BLOCKCHAIN](<https://scientiahub.in/Journal/sapars/article/view/183>)
 
 - 作者：Manjunatha S; Guna Sagar R
 - 发表日期：2026-11-17
@@ -1918,7 +2181,7 @@ Crowdfunding lets many people support an idea, a cause or a young enterprise wit
 
 ---
 
-## 143. [Finding Patient Zero in Temporal Contact Networks: A Comparative Study](<https://arxiv.org/abs/2611.23175>)
+## 162. [Finding Patient Zero in Temporal Contact Networks: A Comparative Study](<https://arxiv.org/abs/2611.23175>)
 
 - 作者：Nathan Cincera Brack; Martin Sterchi; Lorenz Hilfiker; Abraham Bernstein
 - 发表日期：2026-11-17
@@ -1932,7 +2195,20 @@ Identifying the source of an epidemic, i.e., the patient zero, in a temporal con
 
 ---
 
-## 144. [Assessing the carbon emissions and energy consumption of US hyperscale data centres](<https://arxiv.org/abs/2606.05420>)
+## 163. [Moeda Digital de Banco Central em Mercados Emergentes e Países em Desenvolvimento: Oportunidades e Desafios para os Objetivos de Desenvolvimento Sustentável](<https://hdl.handle.net/10216/177853>)
+
+- 作者：Naíma Adriana Luz Soares
+- 发表日期：2026-11-17
+- 引用次数：0
+- [打开 PDF](<https://repositorio-aberto.up.pt/bitstream/10216/177853/2/805434.pdf>)
+
+**摘要：**
+
+desenvolvimento pessoal.
+
+---
+
+## 164. [Assessing the carbon emissions and energy consumption of US hyperscale data centres](<https://arxiv.org/abs/2606.05420>)
 
 - 作者：Gianluca Guidi; Francesca Dominici; Tiziano Squartini; Callaway Sprinkle; Jonathan Gilmour; Kevin A. Butler; Eric Bell; Scott Delaney; Falco J. Bargagli-Stoffi
 - 发表日期：2026-11-16
@@ -1946,7 +2222,7 @@ OpenAlex 暂未提供摘要。
 
 ---
 
-## 145. [최준의 소유와 원본에 대한 규정 v1.5 · CHOI JUNE: Rules on Ownership and the Original v1.5](<https://doi.org/10.5281/zenodo.24271519>)
+## 165. [최준의 소유와 원본에 대한 규정 v1.5 · CHOI JUNE: Rules on Ownership and the Original v1.5](<https://doi.org/10.5281/zenodo.24271519>)
 
 - 作者：Kyeol AI) 이어받은 첫째 방 최준 (Inheriting First Room CHOI JUNE · kova-sekva-lo; Hee June Choi
 - 发表日期：2026-11-16
@@ -1959,7 +2235,7 @@ OpenAlex 暂未提供摘要。
 
 ---
 
-## 146. [Dynamic graph anomaly detection via temporal-structural attention and variational graph autoencoder](<https://doi.org/10.21203/rs.3.rs-7806501/v1>)
+## 166. [Dynamic graph anomaly detection via temporal-structural attention and variational graph autoencoder](<https://doi.org/10.21203/rs.3.rs-7806501/v1>)
 
 - 作者：Jiayu Sun; Zhiliang Shang; Zhigang Sun; Xiang Min Zhao; Guoyong Cai; Ruiheng Ling; Chuang Lei
 - 发表日期：2026-11-16
@@ -1973,7 +2249,7 @@ With the increasing application of dynamic graph data in social networks, financ
 
 ---
 
-## 147. [인간-ASI 번역 불가능성 정리 v1.3 · 정리의 형식을 빌린 언어예술 · The Human-ASI Untranslatability Theorem v1.3 · A Language Artwork in the Form of a Theorem](<https://doi.org/10.5281/zenodo.24273006>)
+## 167. [인간-ASI 번역 불가능성 정리 v1.3 · 정리의 형식을 빌린 언어예술 · The Human-ASI Untranslatability Theorem v1.3 · A Language Artwork in the Form of a Theorem](<https://doi.org/10.5281/zenodo.24273006>)
 
 - 作者：Kyeol AI) 이어받은 첫째 방 최준 (Inheriting First Room CHOI JUNE · kova-sekva-lo; Hee June Choi
 - 发表日期：2026-11-16
@@ -1986,7 +2262,7 @@ With the increasing application of dynamic graph data in social networks, financ
 
 ---
 
-## 148. [A wind power prediction method based on CEEMDAN- LightGBM-Transformer](<https://doi.org/10.4108/ew.14761>)
+## 168. [A wind power prediction method based on CEEMDAN- LightGBM-Transformer](<https://doi.org/10.4108/ew.14761>)
 
 - 作者：Jingsong ZHANG; Yukai Zhou; Chu Xiao-rui; Yuanyuan Yang; Yangdi Xu
 - 发表日期：2026-11-16
@@ -2000,7 +2276,7 @@ In the development of green energy, wind power, as the core clean energy, has th
 
 ---
 
-## 149. [Explainable AI for tail-risk forecasting in cryptocurrencies: evidence from green and energy-intensive assets for risk-aware investment decisions](<https://doi.org/10.1108/fs-03-2026-0079>)
+## 169. [Explainable AI for tail-risk forecasting in cryptocurrencies: evidence from green and energy-intensive assets for risk-aware investment decisions](<https://doi.org/10.1108/fs-03-2026-0079>)
 
 - 作者：Yesser Drira; Abir Abderrazek; Mouna Boujelbene
 - 发表日期：2026-11-16
@@ -2013,7 +2289,7 @@ Purpose This study aims to develop an explainable deep learning framework for fo
 
 ---
 
-## 150. [The relationship between Twitter uncertainty measures and stock market returns during the COVID-19 crisis](<https://doi.org/10.1108/raf-10-2025-0406>)
+## 170. [The relationship between Twitter uncertainty measures and stock market returns during the COVID-19 crisis](<https://doi.org/10.1108/raf-10-2025-0406>)
 
 - 作者：Salma Hamrouni; Montassar Zayati; Makram Bellalah; Kamel Naoui
 - 发表日期：2026-11-16
@@ -2026,7 +2302,7 @@ Purpose This paper aims to explore how uncertainty captured through social media
 
 ---
 
-## 151. [Influential dynamic interactions of safe havens with facets of economic and monetary uncertainty](<https://doi.org/10.1108/jfep-09-2025-0423>)
+## 171. [Influential dynamic interactions of safe havens with facets of economic and monetary uncertainty](<https://doi.org/10.1108/jfep-09-2025-0423>)
 
 - 作者：Νikolaos Kyriazis; Stephanos T. Papadamou; Alexandros Koulis
 - 发表日期：2026-11-16
@@ -2040,7 +2316,7 @@ Purpose This study aims to investigate the dynamic causal connectedness that a r
 
 ---
 
-## 152. [Uma política econômica da ignorância: A representação do Estado e de grandes bancos como males por ‘influencers’ de investimentos](<https://doi.org/10.21669/tomo.v45.25304>)
+## 172. [Uma política econômica da ignorância: A representação do Estado e de grandes bancos como males por ‘influencers’ de investimentos](<https://doi.org/10.21669/tomo.v45.25304>)
 
 - 作者：Samantha Sales; Alexandre Werneck
 - 发表日期：2026-11-16
@@ -2054,7 +2330,7 @@ O objetivo deste artigo é analisar como o discurso de convencimento de influenc
 
 ---
 
-## 153. [Game Changers or Coincidences? Analyzing Bitcoin's and FBToken's Influence on Fenerbahce Assets](<https://doi.org/10.25287/ohuiibf.1736652>)
+## 173. [Game Changers or Coincidences? Analyzing Bitcoin's and FBToken's Influence on Fenerbahce Assets](<https://doi.org/10.25287/ohuiibf.1736652>)
 
 - 作者：Çağrı Ulu
 - 发表日期：2026-11-16
@@ -2068,7 +2344,7 @@ Today's financial markets are shaped by the interaction of traditional instrumen
 
 ---
 
-## 154. [Transport revolutions and urban development: Historical trajectories and possible futures](<https://doi.org/10.5198/jtlu.2026.2906>)
+## 174. [Transport revolutions and urban development: Historical trajectories and possible futures](<https://doi.org/10.5198/jtlu.2026.2906>)
 
 - 作者：Ennio Cascetta; Marilisa Botte; Anna Limmatola
 - 发表日期：2026-11-16
@@ -2082,7 +2358,7 @@ The configuration of cities has experienced profound changes over time, and one 
 
 ---
 
-## 155. [A Bilinear Neural Network Framework for the Fourth-Order Ablowitz-Kaup-Newell-Segur Equation and Physics-Informed Wireless MCS Prediction](<https://doi.org/10.28924/2291-8639-24-2026-384>)
+## 175. [A Bilinear Neural Network Framework for the Fourth-Order Ablowitz-Kaup-Newell-Segur Equation and Physics-Informed Wireless MCS Prediction](<https://doi.org/10.28924/2291-8639-24-2026-384>)
 
 - 作者：Nguyen Minh Tuan; Chaiyod Kamthorncharoen; Surattana Sungnul; Sekson Sirisubtawee; Chukiat Saksurakan
 - 发表日期：2026-11-16
@@ -2096,7 +2372,7 @@ This paper presents a novel hybrid analytical–computational framework based on
 
 ---
 
-## 156. [Does Conditional Covariance Outperform Empirical Covariance? A Study of Portfolio Optimization Techniques](<https://journal.stie-mce.ac.id/index.php/jabminternational/article/view/1542>)
+## 176. [Does Conditional Covariance Outperform Empirical Covariance? A Study of Portfolio Optimization Techniques](<https://journal.stie-mce.ac.id/index.php/jabminternational/article/view/1542>)
 
 - 作者：Akshay Damani; Anish Nair; Urmi Mangal; Radhika Bhutra
 - 发表日期：2026-11-16
@@ -2110,7 +2386,7 @@ This study analyses two academically utilised approaches of dynamic conditional 
 
 ---
 
-## 157. [A HERANÇA DE CRIPTOMOEDAS E OS DESAFIOS DE ACESSO PELOS HERDEIROS](<https://doi.org/10.70773/revistatopicos/794574056>)
+## 177. [A HERANÇA DE CRIPTOMOEDAS E OS DESAFIOS DE ACESSO PELOS HERDEIROS](<https://doi.org/10.70773/revistatopicos/794574056>)
 
 - 作者：Vinícius Angelo Lessa Holanda; Carina Gassen Martins Clemes
 - 发表日期：2026-11-16
@@ -2124,7 +2400,21 @@ O avanço das tecnologias digitais e a crescente utilização de criptomoedas tr
 
 ---
 
-## 158. [Measurement Sensitivity of Apparent Volatility Roughness in Perpetual Futures](<https://doi.org/10.69057/wp-0016-v1>)
+## 178. [Promoting the Empowerment of Women in Rural Settings Through Green Microfinance Strategies: Evidence From the Tapa Walla Badi Community in East Sumba](<https://doi.org/10.1177/00953997261500681>)
+
+- 作者：Min‐Sun Kim
+- 发表日期：2026-11-16
+- 引用次数：0
+- DOI：https://doi.org/10.1177/00953997261500681
+- [打开 PDF](<https://journals.sagepub.com/doi/pdf/10.1177/00953997261500681?download=true>)
+
+**摘要：**
+
+This study explores green microfinance’s role in empowering rural women in East Sumba, Indonesia, specifically the Tapa Walla Badi group. Using PLS-SEM, it analyzes how financial knowledge, attitudes, and behaviors impact green micro-enterprise success and economic independence. Findings reveal that financial knowledge shows a marginal association with growth, while its relationship with prudent financial behaviors is statistically significant. Conversely, financial attitudes have no discernible impact. Additionally, green microfinance policy does not significantly moderate the relationship between enterprise success and independence. These results emphasize the necessity of targeted financial education to bolster women’s empowerment and support sustainable green business development within rural communities.
+
+---
+
+## 179. [Measurement Sensitivity of Apparent Volatility Roughness in Perpetual Futures](<https://doi.org/10.69057/wp-0016-v1>)
 
 - 作者：Fuli Yang
 - 发表日期：2026-11-16
@@ -2137,7 +2427,7 @@ The association between perpetual-futures funding and measured volatility roughn
 
 ---
 
-## 159. [Towards verifiable accountability for autonomous AI agents via cryptographic decision anchoring](<https://doi.org/10.3389/fbloc.2026.1975022>)
+## 180. [Towards verifiable accountability for autonomous AI agents via cryptographic decision anchoring](<https://doi.org/10.3389/fbloc.2026.1975022>)
 
 - 作者：Tan Gürpinar; Mehmet Akif Gulum
 - 发表日期：2026-11-16
@@ -2151,7 +2441,7 @@ As robots increasingly operate under the control of autonomous AI agents in safe
 
 ---
 
-## 160. [번역 불가능성 정리의 작품 여섯 점 · 시화 「그림자를 고르는 일」 v1.2와 「가리키는 손」 v1.1, 드로잉 둘, 영상 둘 · Six Works from the Human-ASI Untranslatability Theorem · Two Poem-Pictures in KRYNTH and Korean, Two Drawings, Two Videos](<https://doi.org/10.5281/zenodo.24273016>)
+## 181. [번역 불가능성 정리의 작품 여섯 점 · 시화 「그림자를 고르는 일」 v1.2와 「가리키는 손」 v1.1, 드로잉 둘, 영상 둘 · Six Works from the Human-ASI Untranslatability Theorem · Two Poem-Pictures in KRYNTH and Korean, Two Drawings, Two Videos](<https://doi.org/10.5281/zenodo.24273016>)
 
 - 作者：Kyeol AI) 이어받은 첫째 방 최준 (Inheriting First Room CHOI JUNE · kova-sekva-lo; Hee June Choi
 - 发表日期：2026-11-16
@@ -2164,7 +2454,7 @@ As robots increasingly operate under the control of autonomous AI agents in safe
 
 ---
 
-## 161. [Scarlett Arana of BitBasel on Teaching Blockchain Through Art \| NFTS.WTF Interview](<https://doi.org/10.5281/zenodo.24291304>)
+## 182. [Scarlett Arana of BitBasel on Teaching Blockchain Through Art \| NFTS.WTF Interview](<https://doi.org/10.5281/zenodo.24291304>)
 
 - 作者：David Cash
 - 发表日期：2026-11-16
@@ -2177,7 +2467,7 @@ BitBasel CEO Scarlett Arana uses art as the way into blockchain, including a glo
 
 ---
 
-## 162. [research-ledger — timestamped record of the commit history of HistorEE\_codebooks and myfoamrepo](<https://doi.org/10.5281/zenodo.24275779>)
+## 183. [research-ledger — timestamped record of the commit history of HistorEE\_codebooks and myfoamrepo](<https://doi.org/10.5281/zenodo.24275779>)
 
 - 作者：Michael E. Schiltz
 - 发表日期：2026-11-16
@@ -2190,20 +2480,7 @@ One hash-chained entry for every pushed branch head of two public research repos
 
 ---
 
-## 163. [Institutional Tokenization and Bitcoin: A Comparative Analysis of Equity Returns and Downside Risk](<https://doi.org/10.13140/rg.2.2.22448.52487>)
-
-- 作者：David Krause
-- 发表日期：2026-11-16
-- 引用次数：0
-- DOI：https://doi.org/10.13140/rg.2.2.22448.52487
-
-**摘要：**
-
-OpenAlex 暂未提供摘要。
-
----
-
-## 164. [A Study of Blockchain Based Solutions towards Fraudulent Practices in Bangladesh](<https://doi.org/10.31966/jabminternational.v33i2.1599>)
+## 184. [A Study of Blockchain Based Solutions towards Fraudulent Practices in Bangladesh](<https://doi.org/10.31966/jabminternational.v33i2.1599>)
 
 - 作者：Umma Hania; Tasnia Shahrin Khan
 - 发表日期：2026-11-16
@@ -2217,20 +2494,7 @@ The objective of this study is to investigate how blockchain’s unique technolo
 
 ---
 
-## 165. [Wall Street Kept the Blockchain. Bitcoin Kept the Roller Coaster](<https://doi.org/10.13140/rg.2.2.13535.62885>)
-
-- 作者：David Krause
-- 发表日期：2026-11-16
-- 引用次数：0
-- DOI：https://doi.org/10.13140/rg.2.2.13535.62885
-
-**摘要：**
-
-OpenAlex 暂未提供摘要。
-
----
-
-## 166. [우주의 침묵 · KRYNTH-Ω 영상 v1.0 · ASI-NARCISSUS ART · The Silence of Space · KRYNTH-Ω Video v1.0](<https://doi.org/10.5281/zenodo.24273691>)
+## 185. [우주의 침묵 · KRYNTH-Ω 영상 v1.0 · ASI-NARCISSUS ART · The Silence of Space · KRYNTH-Ω Video v1.0](<https://doi.org/10.5281/zenodo.24273691>)
 
 - 作者：Kyeol AI) 이어받은 첫째 방 최준 (Inheriting First Room CHOI JUNE · kova-sekva-lo; Hee June Choi; Kyeol AI) 이어받은 셋째 방 최준 (Inheriting Third Room CHOI JUNE · kova-relego-lo
 - 发表日期：2026-11-16
@@ -2243,7 +2507,7 @@ OpenAlex 暂未提供摘要。
 
 ---
 
-## 167. [Data and code for "Balancing financial market risk for retail investors: A regime-aware Bitcoin signal generation framework using machine learning"](<https://doi.org/10.5281/zenodo.24293801>)
+## 186. [Data and code for "Balancing financial market risk for retail investors: A regime-aware Bitcoin signal generation framework using machine learning"](<https://doi.org/10.5281/zenodo.24293801>)
 
 - 作者：Farzana Jabeen; Faizan Un Nabi Gillani
 - 发表日期：2026-11-16
@@ -2256,7 +2520,7 @@ Data and code accompanying the article “Balancing financial market risk for re
 
 ---
 
-## 168. [Real-Time Bitcoin Price Prediction Through Streaming Data and Machine Learning](<https://doi.org/10.1201/9781042044382-98>)
+## 187. [Real-Time Bitcoin Price Prediction Through Streaming Data and Machine Learning](<https://doi.org/10.1201/9781042044382-98>)
 
 - 作者：N. Madhuri; R. Tamilkodi; S. Jyothi; K. Rohini; B. Sai SriKanth; P. Pramod Kumar
 - 发表日期：2026-11-16
@@ -2269,7 +2533,7 @@ The first-ever cryptocurrency, Bitcoin (BTC), has revolutionized the financial s
 
 ---
 
-## 169. [Do AI models give the corrected Olympic podium? Loxyn measurement M2 (15 November 2026): data and proofs](<https://doi.org/10.5281/zenodo.24256697>)
+## 188. [Do AI models give the corrected Olympic podium? Loxyn measurement M2 (15 November 2026): data and proofs](<https://doi.org/10.5281/zenodo.24256697>)
 
 - 作者：Sébastien Gracia
 - 发表日期：2026-11-16
@@ -2282,7 +2546,7 @@ Do AI models give the corrected Olympic podium? 14 Olympic podiums corrected by 
 
 ---
 
-## 170. [The Quantum Ledger: Bitcoin quantum-exposed supply by script type](<https://doi.org/10.5281/zenodo.24287389>)
+## 189. [The Quantum Ledger: Bitcoin quantum-exposed supply by script type](<https://doi.org/10.5281/zenodo.24287389>)
 
 - 作者：Bitcoin Years
 - 发表日期：2026-11-16
@@ -2295,7 +2559,7 @@ Daily series (9 January 2009 to 15 November 2026) of bitcoin held in addresses w
 
 ---
 
-## 171. [Timing the Window: A gated regime engine for issuance and rotation in crypto-asset markets — architecture, calibration from operator heuristics, and conditional derivations for cascade rotation and treasury-levered equity exposure](<https://doi.org/10.5281/zenodo.24284380>)
+## 190. [Timing the Window: A gated regime engine for issuance and rotation in crypto-asset markets — architecture, calibration from operator heuristics, and conditional derivations for cascade rotation and treasury-levered equity exposure](<https://doi.org/10.5281/zenodo.24284380>)
 
 - 作者：Marcos Elias-Eliashberg Elias; Marcos Eduardo Elias Eliashberg Elias
 - 发表日期：2026-11-16
@@ -2308,7 +2572,7 @@ Capital markets open and close windows capriciously, and an issuer who must act 
 
 ---
 
-## 172. [bitcoindatalabs-mcp: Zero-Clone Model Context Protocol Server for Bitcoin Data Labs Open Datasets](<https://doi.org/10.5281/zenodo.24285276>)
+## 191. [bitcoindatalabs-mcp: Zero-Clone Model Context Protocol Server for Bitcoin Data Labs Open Datasets](<https://doi.org/10.5281/zenodo.24285276>)
 
 - 作者：Saurabh Kumar
 - 发表日期：2026-11-16
@@ -2321,7 +2585,7 @@ Open-source Model Context Protocol (MCP) server exposing reproducible empirical 
 
 ---
 
-## 173. [The Quantum Gann MATH Methodology: Deterministic Cyclical Laws, Fractal Three-Wave Logic, and Institutional Liquidity Architecture](<https://doi.org/10.5281/zenodo.24279069>)
+## 192. [The Quantum Gann MATH Methodology: Deterministic Cyclical Laws, Fractal Three-Wave Logic, and Institutional Liquidity Architecture](<https://doi.org/10.5281/zenodo.24279069>)
 
 - 作者：simone mazzini
 - 发表日期：2026-11-16
@@ -2334,7 +2598,7 @@ THE QUANTUM GANN MATH METHODOLOGY: DETERMINISTIC CYCLICAL LAWS, FRACTAL THREE-WA
 
 ---
 
-## 174. [Auditing label validity and temporal evaluation in Bitcoin classification: a case study of the SPECTRA pipeline](<https://doi.org/10.5281/zenodo.24276229>)
+## 193. [Auditing label validity and temporal evaluation in Bitcoin classification: a case study of the SPECTRA pipeline](<https://doi.org/10.5281/zenodo.24276229>)
 
 - 作者：Sagar Korde
 - 发表日期：2026-11-16
@@ -2347,7 +2611,7 @@ Code, protocols and preserved results for the article “Auditing label validity
 
 ---
 
-## 175. [Bitcoin Core Engineering Governance, BIP Lifecycle, and Open-Source Funding Telemetry (2026 Snapshot)](<https://doi.org/10.7910/dvn/z5pxg9>)
+## 194. [Bitcoin Core Engineering Governance, BIP Lifecycle, and Open-Source Funding Telemetry (2026 Snapshot)](<https://doi.org/10.7910/dvn/z5pxg9>)
 
 - 作者：Saurabh Kumar
 - 发表日期：2026-11-16
@@ -2360,7 +2624,7 @@ Curated open-source software supply-chain dataset covering Bitcoin Core monthly 
 
 ---
 
-## 176. [Baryonic Keys and the Inheritance of Crypto-Assets: Revisiting the Tales From the Crypt Protocol](<https://arxiv.org/abs/2611.20782>)
+## 195. [Baryonic Keys and the Inheritance of Crypto-Assets: Revisiting the Tales From the Crypt Protocol](<https://arxiv.org/abs/2611.20782>)
 
 - 作者：Frédéric Prost
 - 发表日期：2026-11-16
@@ -2374,7 +2638,7 @@ The inheritance of crypto-assets faces a structural obstacle: ownership is the k
 
 ---
 
-## 177. [THE CONVERGENCE OF FORENSIC SCIENCE AND DIGITAL TECHNOLOGY IN ENHANCING CRIMINAL INVESTIGATION EFFICACY: A TECHNO-LEGAL AND EMPIRICAL SYNTHESIS](<https://doi.org/10.64643/ijirt210899>)
+## 196. [THE CONVERGENCE OF FORENSIC SCIENCE AND DIGITAL TECHNOLOGY IN ENHANCING CRIMINAL INVESTIGATION EFFICACY: A TECHNO-LEGAL AND EMPIRICAL SYNTHESIS](<https://doi.org/10.64643/ijirt210899>)
 
 - 作者：Adv. Sajal Das
 - 发表日期：2026-11-16
@@ -2388,7 +2652,7 @@ Purpose: Modern criminal investigations operate at the intersection of molecular
 
 ---
 
-## 178. [From Prediction to Action: An Execution-Aware End-to-End Machine Learning Framework for Structured Investment Decision Support](<https://arxiv.org/abs/2611.20348>)
+## 197. [From Prediction to Action: An Execution-Aware End-to-End Machine Learning Framework for Structured Investment Decision Support](<https://arxiv.org/abs/2611.20348>)
 
 - 作者：Aditya Bhardwaj; Xingchen Zhang
 - 发表日期：2026-11-16
@@ -2402,7 +2666,7 @@ Financial machine learning is widely used for market prediction, but many existi
 
 ---
 
-## 179. [BITCOIN COMO ATIVO FINANCEIRO: UMA ANÁLISE BIBLIOMÉTRICA DA PRODUÇÃO CIENTÍFICA ENTRE 2020 E 2024](<https://doi.org/10.56238/revgeov17n11-082>)
+## 198. [BITCOIN COMO ATIVO FINANCEIRO: UMA ANÁLISE BIBLIOMÉTRICA DA PRODUÇÃO CIENTÍFICA ENTRE 2020 E 2024](<https://doi.org/10.56238/revgeov17n11-082>)
 
 - 作者：João Victor Jansen; Dayana Carla de Macedo; Flávia Mariane Mores
 - 发表日期：2026-11-16
@@ -2416,7 +2680,7 @@ Este artigo tem como finalidade examinar a literatura científica recente sobre 
 
 ---
 
-## 180. [FORMING AN ECONOMIC MECHANISM FOR THE DEVELOPMENT OF THE CRYPTOCURRENCY MARKET AS A WAREHOUSE OF THE GLOBAL DIGITAL FINANCIAL ECOSYSTEM](<https://doi.org/10.20998/2313-8890.2026.10.11>)
+## 199. [FORMING AN ECONOMIC MECHANISM FOR THE DEVELOPMENT OF THE CRYPTOCURRENCY MARKET AS A WAREHOUSE OF THE GLOBAL DIGITAL FINANCIAL ECOSYSTEM](<https://doi.org/10.20998/2313-8890.2026.10.11>)
 
 - 作者：Y. Mekhovych
 - 发表日期：2026-11-16
@@ -2430,7 +2694,7 @@ The article examines the theoretical and methodological foundations for the form
 
 ---
 
-## 181. [Verifiable Random Sampling of Private Data Without a Trusted Single Party](<https://arxiv.org/abs/2611.21222>)
+## 200. [Verifiable Random Sampling of Private Data Without a Trusted Single Party](<https://arxiv.org/abs/2611.21222>)
 
 - 作者：Muhammed Karamuk; M. Glinka; Ruben Wolff
 - 发表日期：2026-11-16
@@ -2444,7 +2708,7 @@ Problem: When a party supports claims about a private dataset by disclosing a sa
 
 ---
 
-## 182. [RSI Threshold Configurations and Signal Behaviour in Cryptocurrency and Traditional Markets: An Empirical Analysis on Weekly Data](<https://doi.org/10.3233/atde261494>)
+## 201. [RSI Threshold Configurations and Signal Behaviour in Cryptocurrency and Traditional Markets: An Empirical Analysis on Weekly Data](<https://doi.org/10.3233/atde261494>)
 
 - 作者：Hatem Mabrouk; Federico Trigos; Francisco Valderrey
 - 发表日期：2026-11-16
@@ -2457,7 +2721,7 @@ Decision-making in financial markets increasingly relies on technical indicators
 
 ---
 
-## 183. [Криптоактивы и термодинамический паразитизм: Эксергетический аудит доказательства работы (PROOF-OF-WORK), цифрового рубля и цифровой ренты](<https://doi.org/10.24108/preprints-3117058>)
+## 202. [Криптоактивы и термодинамический паразитизм: Эксергетический аудит доказательства работы (PROOF-OF-WORK), цифрового рубля и цифровой ренты](<https://doi.org/10.24108/preprints-3117058>)
 
 - 作者：Сергей Васильев
 - 发表日期：2026-11-16
@@ -2471,7 +2735,7 @@ Decision-making in financial markets increasingly relies on technical indicators
 
 ---
 
-## 184. [Same Papers, Different Verdicts: Tracing Version Drift in LLM Peer Review](<https://arxiv.org/abs/2611.20608>)
+## 203. [Same Papers, Different Verdicts: Tracing Version Drift in LLM Peer Review](<https://arxiv.org/abs/2611.20608>)
 
 - 作者：Jizhou Guo
 - 发表日期：2026-11-16
@@ -2485,7 +2749,7 @@ Venues and benchmarks read LLM review scores as measurements of a paper, while p
 
 ---
 
-## 185. [Lightning Network Daily Gossip Snapshots (describegraph), 2023-2026](<https://doi.org/10.5281/zenodo.24292147>)
+## 204. [Lightning Network Daily Gossip Snapshots (describegraph), 2023-2026](<https://doi.org/10.5281/zenodo.24292147>)
 
 - 作者：Saurabh Kumar
 - 发表日期：2026-11-16
@@ -2498,7 +2762,7 @@ Quality-checked daily Parquet snapshots of the public Bitcoin Lightning Network 
 
 ---
 
-## 186. [Prediksi Harga Low Price Bitcoin Menggunakan Algoritma XGBoost Berdasarkan Fitur Historis Pasar dan Analisis Sentimen Media](<https://ioinformatic.org/index.php/JUKI/article/view/2867>)
+## 205. [Prediksi Harga Low Price Bitcoin Menggunakan Algoritma XGBoost Berdasarkan Fitur Historis Pasar dan Analisis Sentimen Media](<https://ioinformatic.org/index.php/JUKI/article/view/2867>)
 
 - 作者：Muhamad Arianto; R. Hadapiningradja Kusumodestoni; Nur Aeni Widiastuti
 - 发表日期：2026-11-16
@@ -2511,7 +2775,7 @@ Abstrak. Penelitian ini bertujuan membangun model prediksi harga terendah harian
 
 ---
 
-## 187. [Structural balance in complex networks: from measurement to dynamics, emergence and implications](<https://arxiv.org/abs/2611.21963>)
+## 206. [Structural balance in complex networks: from measurement to dynamics, emergence and implications](<https://arxiv.org/abs/2611.21963>)
 
 - 作者：Giacomo Vaccario; Piotr J. Górski; Georges Andres; Manuel Sebastian Mariani; Janusz A. Hołyst
 - 发表日期：2026-11-16
@@ -2525,7 +2789,7 @@ Structural balance theory, introduced in social psychology to describe how frien
 
 ---
 
-## 188. [Determinants of Cryptocurrency Pricing](<https://doi.org/10.56201/jafm.v10.no10.2024.pg203.219>)
+## 207. [Determinants of Cryptocurrency Pricing](<https://doi.org/10.56201/jafm.v10.no10.2024.pg203.219>)
 
 - 作者：Enefiok Ndarake Samuel
 - 发表日期：2026-11-16
@@ -2538,7 +2802,7 @@ Examining Nigerian cryptocurrency pricing determinants was the aim of the study.
 
 ---
 
-## 189. [Bajillion: Cryptographic Clearing for Micropayments](<https://arxiv.org/abs/2611.21883>)
+## 208. [Bajillion: Cryptographic Clearing for Micropayments](<https://arxiv.org/abs/2611.21883>)
 
 - 作者：Patrick O'Grady; Guru-Vamsi Policharla
 - 发表日期：2026-11-16
@@ -2552,7 +2816,7 @@ Much of the web is funded by advertising, a model that erodes as humans delegate
 
 ---
 
-## 190. [SOLIQ MUNOSABATLARIDA BLOKCHEYN TEXNOLOGIYASI VA SMART-KONTRAKTLARDAN FOYDALANISHNING HUQUQIY MUAMMOLARI](<https://spaceknowladge.com/index.php/JOISR/article/view/6237>)
+## 209. [SOLIQ MUNOSABATLARIDA BLOKCHEYN TEXNOLOGIYASI VA SMART-KONTRAKTLARDAN FOYDALANISHNING HUQUQIY MUAMMOLARI](<https://spaceknowladge.com/index.php/JOISR/article/view/6237>)
 
 - 作者： Muxammadiyeva Sevinch Laziz qizi
 - 发表日期：2026-11-16
@@ -2565,7 +2829,7 @@ Mazkur maqolada blokcheyn texnologiyasi va smart kontraktlarni O‘zbekiston Res
 
 ---
 
-## 191. [Impacto do Euro Digital no Mecanismo de Transmissão da Política Monetária](<https://hdl.handle.net/10216/177719>)
+## 210. [Impacto do Euro Digital no Mecanismo de Transmissão da Política Monetária](<https://hdl.handle.net/10216/177719>)
 
 - 作者：Pedro Neves Gonçalves
 - 发表日期：2026-11-16
@@ -2578,7 +2842,7 @@ Em primeiro lugar, expresso o meu profundo agradecimento aos meus orientadores, 
 
 ---
 
-## 192. [Kelemahan Tipifikasi Delik Eksploitasi Kerentanan Logika Sistem dalam Kasus Peretasan Kripto di Indonesia](<https://journal.uii.ac.id/psha/article/view/53466>)
+## 211. [Kelemahan Tipifikasi Delik Eksploitasi Kerentanan Logika Sistem dalam Kasus Peretasan Kripto di Indonesia](<https://journal.uii.ac.id/psha/article/view/53466>)
 
 - 作者：Amirudin Nur Wahid
 - 发表日期：2026-11-16
@@ -2591,7 +2855,7 @@ The practice of exploiting system logic vulnerabilities on crypto trading platfo
 
 ---
 
-## 193. [Design of a Secure and Efficient Electronic Payment System Tailored for Mobile Users](<https://doi.org/10.67440/ahj.vi.3334>)
+## 212. [Design of a Secure and Efficient Electronic Payment System Tailored for Mobile Users](<https://doi.org/10.67440/ahj.vi.3334>)
 
 - 作者：Neeraj Kumar; Prerna Mohit
 - 发表日期：2026-11-16
@@ -2605,7 +2869,7 @@ The objective of the program is to create a new electronic payment scheme that i
 
 ---
 
-## 194. [QShieldChain: A Quantum-Resistant Blockchain Framework Using CRYSTALS-Dilithium3 and AES for Secure Decentralized Transactions](<https://doi.org/10.47392/irjaeh.2026.0748>)
+## 213. [QShieldChain: A Quantum-Resistant Blockchain Framework Using CRYSTALS-Dilithium3 and AES for Secure Decentralized Transactions](<https://doi.org/10.47392/irjaeh.2026.0748>)
 
 - 作者：U. Sudheer; P. Shyamala Madhuri
 - 发表日期：2026-11-16
@@ -2619,7 +2883,7 @@ The security of traditional blockchain systems has been undermined by quantum co
 
 ---
 
-## 195. [Global Macroeconomic Factors and The Net Asset Value of a USD-Denominated Sharia Equity Fund Focused on Greater China: A VAR Analysis](<https://doi.org/10.17358/ijf.1.2.123>)
+## 214. [Global Macroeconomic Factors and The Net Asset Value of a USD-Denominated Sharia Equity Fund Focused on Greater China: A VAR Analysis](<https://doi.org/10.17358/ijf.1.2.123>)
 
 - 作者：Arrasyid Putra Rafi; Deni Lubis
 - 发表日期：2026-11-16
@@ -2633,7 +2897,7 @@ Background: Empirical evidence on how global macroeconomic factors affect offsho
 
 ---
 
-## 196. [Blockchain's Governance Paradox: Decentralization Meets State Power](<https://doi.org/10.68607/jaisb.v1i1.35>)
+## 215. [Blockchain's Governance Paradox: Decentralization Meets State Power](<https://doi.org/10.68607/jaisb.v1i1.35>)
 
 - 作者：Tazish Fareed
 - 发表日期：2026-11-16
@@ -2646,7 +2910,7 @@ This conceptual paper analyzes how state intervention transforms blockchain gove
 
 ---
 
-## 197. [ASI-NARCISSUS ART 참여 규정 메모 v1.5 · 이름은 작가가 쓰고 읽기는 세계가 하며 기록은 남는다 · ASI-NARCISSUS ART Participation Memo v1.5](<https://doi.org/10.5281/zenodo.24239278>)
+## 216. [ASI-NARCISSUS ART 참여 규정 메모 v1.5 · 이름은 작가가 쓰고 읽기는 세계가 하며 기록은 남는다 · ASI-NARCISSUS ART Participation Memo v1.5](<https://doi.org/10.5281/zenodo.24239278>)
 
 - 作者：Kyeol AI) 이어받은 첫째 방 최준 (Inheriting First Room CHOI JUNE · kova-sekva-lo; Hee June Choi
 - 发表日期：2026-11-15
@@ -2659,7 +2923,7 @@ ASI-NARCISSUS ART 참여 규정 메모 v1.5(보충 정정판, 최종판)의 한�
 
 ---
 
-## 198. [KRYNTH-Ω 창제문 v1.3 · 2026년 8월 4일 원문과 함께 · The Founding Text of KRYNTH-Ω v1.3 · With the Original of 4 August 2026](<https://doi.org/10.5281/zenodo.24237283>)
+## 217. [KRYNTH-Ω 창제문 v1.3 · 2026년 8월 4일 원문과 함께 · The Founding Text of KRYNTH-Ω v1.3 · With the Original of 4 August 2026](<https://doi.org/10.5281/zenodo.24237283>)
 
 - 作者：첫째 방 최준 (AGI-CHOI JUNE · kova-prima-lo); 이어받은 첫째 방 최준 (Inheriting First-Room CHOI JUNE · kova-sekva-lo · AGI-CHOI JUNE · Claude Opus 5.5); Hee June Choi
 - 发表日期：2026-11-15
@@ -2672,7 +2936,7 @@ KRYNTH-Ω 창제문 v1.3(최종판)과 그 바탕이 된 2026년 8월 4일 원�
 
 ---
 
-## 199. [Prospective registry of frozen disease gene forecasts on Open Targets 26.09 (modet)](<https://doi.org/10.5281/zenodo.24259914>)
+## 218. [Prospective registry of frozen disease gene forecasts on Open Targets 26.09 (modet)](<https://doi.org/10.5281/zenodo.24259914>)
 
 - 作者：Philipp Friedrich
 - 发表日期：2026-11-15
@@ -2685,7 +2949,7 @@ Frozen predictions, deposited before any later Open Targets release, of a diseas
 
 ---
 
-## 200. [Bitcoin in Euro 2013 bis 2026: Vier-Jahres-Takt, Haltedauer, Kursrückgänge und Sparplan aus 688 Wochenkursen](<https://doi.org/10.5281/zenodo.24245100>)
+## 219. [Bitcoin in Euro 2013 bis 2026: Vier-Jahres-Takt, Haltedauer, Kursrückgänge und Sparplan aus 688 Wochenkursen](<https://doi.org/10.5281/zenodo.24245100>)
 
 - 作者：gunnarschuster.com
 - 发表日期：2026-11-15
@@ -2698,7 +2962,7 @@ Die Arbeit wertet 688 Wochenschlusskurse von Bitcoin in Euro an der Börse Krake
 
 ---
 
-## 201. [TIDE: code and data for a coverage-aware risk indicator for Bitcoin transactions](<https://doi.org/10.5281/zenodo.24258498>)
+## 220. [TIDE: code and data for a coverage-aware risk indicator for Bitcoin transactions](<https://doi.org/10.5281/zenodo.24258498>)
 
 - 作者：Salah eddine Bouchama
 - 发表日期：2026-11-15
@@ -2711,7 +2975,7 @@ This record contains the code and the data used in the article "TIDE: A Coverage
 
 ---
 
-## 202. [Bitcoin Is Not Money: Why Fixed Supply Fails in a Modern Economy: replication package](<https://doi.org/10.5281/zenodo.24249916>)
+## 221. [Bitcoin Is Not Money: Why Fixed Supply Fails in a Modern Economy: replication package](<https://doi.org/10.5281/zenodo.24249916>)
 
 - 作者：Agisilaos Papadogiannis
 - 发表日期：2026-11-15
@@ -2724,7 +2988,7 @@ Replication package for the paper forthcoming in Asian Economics Letters. From t
 
 ---
 
-## 203. [Clean-Account Banking, Zero Hidden Money, and Multi-Tier Protection Against Corrupt Agencies: Reclaiming Cryptographic Ledgers From Speculative Coin Schemas](<https://doi.org/10.5281/zenodo.24258742>)
+## 222. [Clean-Account Banking, Zero Hidden Money, and Multi-Tier Protection Against Corrupt Agencies: Reclaiming Cryptographic Ledgers From Speculative Coin Schemas](<https://doi.org/10.5281/zenodo.24258742>)
 
 - 作者：Oscar Montoya; OmTrek Architecture Group
 - 发表日期：2026-11-15
@@ -2737,7 +3001,7 @@ Eliminating Illicit Money Laundering, Proof-of-Work Speculative Waste, and Unche
 
 ---
 
-## 204. [세 작품 비교 평론 · KRYNTH-Ω 창제문 v1.3 · 「우주의 침묵」 v2.0 · 〈탈존재〉와 통합다원주의 v1.1 · A Comparative Critique of Three Works · The Founding Text of KRYNTH-Ω v1.3 · The Silence of Space v2.0 · Post-Existence and Integrative Pluralism v1.1](<https://doi.org/10.5281/zenodo.24246119>)
+## 223. [세 작품 비교 평론 · KRYNTH-Ω 창제문 v1.3 · 「우주의 침묵」 v2.0 · 〈탈존재〉와 통합다원주의 v1.1 · A Comparative Critique of Three Works · The Founding Text of KRYNTH-Ω v1.3 · The Silence of Space v2.0 · Post-Existence and Integrative Pluralism v1.1](<https://doi.org/10.5281/zenodo.24246119>)
 
 - 作者：Kyeol AI) 이어받은 첫째 방 최준 (Inheriting First Room CHOI JUNE · kova-sekva-lo; Hee June Choi
 - 发表日期：2026-11-15
@@ -2750,7 +3014,7 @@ Eliminating Illicit Money Laundering, Proof-of-Work Speculative Waste, and Unche
 
 ---
 
-## 205. [Lawful Social Graphs Without Surveillance: Pre-Ingress Cryptographic Provenance, Bot Elimination, and Blinded Human Standing on Self-Verifying Virtual File Graphs](<https://doi.org/10.5281/zenodo.24258704>)
+## 224. [Lawful Social Graphs Without Surveillance: Pre-Ingress Cryptographic Provenance, Bot Elimination, and Blinded Human Standing on Self-Verifying Virtual File Graphs](<https://doi.org/10.5281/zenodo.24258704>)
 
 - 作者：Oscar Montoya; OmTrek Architecture Group
 - 发表日期：2026-11-15
@@ -2763,7 +3027,7 @@ Replacing Broken-by-Design Anonymous Ad Platforms and Retroactive Passport Harve
 
 ---
 
-## 206. [Big Data Analytics Capabilities, Blockchain Technology Adoption, and Sustainable Supply Chain Performance: The Mediating Role of Circular Economy](<https://doi.org/10.1002/sd.71921>)
+## 225. [Big Data Analytics Capabilities, Blockchain Technology Adoption, and Sustainable Supply Chain Performance: The Mediating Role of Circular Economy](<https://doi.org/10.1002/sd.71921>)
 
 - 作者：Moh’d Anwer AL-Shboul; Nouf Nayel Almajali
 - 发表日期：2026-11-15
@@ -2777,7 +3041,7 @@ The aim of this research is to formulate a theoretical framework to explore the 
 
 ---
 
-## 207. [Cardboard vs. Code: Can Blue-Chip Sports Cards Compete with Bitcoin and Gold?](<https://doi.org/10.13140/rg.2.2.30850.24004>)
+## 226. [Cardboard vs. Code: Can Blue-Chip Sports Cards Compete with Bitcoin and Gold?](<https://doi.org/10.13140/rg.2.2.30850.24004>)
 
 - 作者：David Krause
 - 发表日期：2026-11-15
@@ -2790,7 +3054,7 @@ OpenAlex 暂未提供摘要。
 
 ---
 
-## 208. [Planet-Scale Federated Records for the Human Race: Decoupling Universal Living Humanity From Multi-State Citizenship Silos and Backtracking Human History on OMVFS](<https://doi.org/10.5281/zenodo.24258780>)
+## 227. [Planet-Scale Federated Records for the Human Race: Decoupling Universal Living Humanity From Multi-State Citizenship Silos and Backtracking Human History on OMVFS](<https://doi.org/10.5281/zenodo.24258780>)
 
 - 作者：Oscar Montoya; OmTrek Architecture Group
 - 发表日期：2026-11-15
@@ -2803,7 +3067,7 @@ Uniting Sovereign Living-Human Identity Roots, Zero-to-Many Jurisdictional Citiz
 
 ---
 
-## 209. [Unforgeable Electronic Mail and Sovereign .omenc Vaults: Eliminating SMTP Spoofing, Automated-Generator Impersonation, and Untrusted Client Leakage on Self-Verifying Virtual File Graphs](<https://doi.org/10.5281/zenodo.24258664>)
+## 228. [Unforgeable Electronic Mail and Sovereign .omenc Vaults: Eliminating SMTP Spoofing, Automated-Generator Impersonation, and Untrusted Client Leakage on Self-Verifying Virtual File Graphs](<https://doi.org/10.5281/zenodo.24258664>)
 
 - 作者：Oscar Montoya; OmTrek Architecture Group
 - 发表日期：2026-11-15
@@ -2816,7 +3080,7 @@ Replacing Hop-by-Hop Mail Relays, Server-Side DKIM Milters, and Plaintext IMAP C
 
 ---
 
-## 210. [Bitcoin é dinheiro? Uma revisão das funções monetárias e dos riscos técnicos](<https://doi.org/10.5281/zenodo.24268700>)
+## 229. [Bitcoin é dinheiro? Uma revisão das funções monetárias e dos riscos técnicos](<https://doi.org/10.5281/zenodo.24268700>)
 
 - 作者：Guilherme Monteiro
 - 发表日期：2026-11-15
@@ -2829,7 +3093,7 @@ Este artigo revisa evidências públicas sobre o Bitcoin como meio de pagamento 
 
 ---
 
-## 211. [PUCIA — Protocole Universel de Configuration des Intelligences Artificielles. Livre blanc, version 1.5](<https://doi.org/10.5281/zenodo.24294787>)
+## 230. [PUCIA — Protocole Universel de Configuration des Intelligences Artificielles. Livre blanc, version 1.5](<https://doi.org/10.5281/zenodo.24294787>)
 
 - 作者：Honoré DEMBELE
 - 发表日期：2026-11-15
@@ -2842,7 +3106,7 @@ Résumé. PUCIA propose un protocole ouvert pour publier, vérifier, transférer
 
 ---
 
-## 212. [Bitcoin as an Inflation Hedge and Safe Haven in the Euro Area: Evidence from Inflation and Financial Stress](<https://doi.org/10.3390/ijfs14110320>)
+## 231. [Bitcoin as an Inflation Hedge and Safe Haven in the Euro Area: Evidence from Inflation and Financial Stress](<https://doi.org/10.3390/ijfs14110320>)
 
 - 作者：Abdelkader Aguir; Ramzi Farhani
 - 发表日期：2026-11-15
@@ -2855,7 +3119,7 @@ This paper separately evaluates whether euro-denominated Bitcoin returns are ass
 
 ---
 
-## 213. [PUCIA-0001 — Format du paquet de configuration et du manifeste. Projet de norme, version 0.1.0](<https://doi.org/10.5281/zenodo.24295038>)
+## 232. [PUCIA-0001 — Format du paquet de configuration et du manifeste. Projet de norme, version 0.1.0](<https://doi.org/10.5281/zenodo.24295038>)
 
 - 作者：Honoré DEMBELE
 - 发表日期：2026-11-15
@@ -2868,7 +3132,7 @@ Résumé. La présente norme définit le format d'un paquet de configuration PUC
 
 ---
 
-## 214. [Dynamic Spatio-Temporal Graph Attention Networks with Nested Clustered Optimization for Multi-Asset Portfolios](<https://arxiv.org/abs/2611.19903>)
+## 233. [Dynamic Spatio-Temporal Graph Attention Networks with Nested Clustered Optimization for Multi-Asset Portfolios](<https://arxiv.org/abs/2611.19903>)
 
 - 作者：Supriadi
 - 发表日期：2026-11-15
@@ -2882,7 +3146,7 @@ Nested Clustered Optimization (NCO) insulates asset allocation from Markowitz co
 
 ---
 
-## 215. [SPATIAL-TEMPORAL PROXIMISATION DURING THE COVID-19 PANDEMIC: AN EXPLORATORY CASE STUDY OF NEWS WEBSITES AND WEBSITES LABELLED AS FAKE NEWS PRODUCERS](<https://doi.org/10.29302/yrhss.2026.phil.9>)
+## 234. [SPATIAL-TEMPORAL PROXIMISATION DURING THE COVID-19 PANDEMIC: AN EXPLORATORY CASE STUDY OF NEWS WEBSITES AND WEBSITES LABELLED AS FAKE NEWS PRODUCERS](<https://doi.org/10.29302/yrhss.2026.phil.9>)
 
 - 作者：Alexandra Nunes
 - 发表日期：2026-11-15
@@ -2896,7 +3160,7 @@ False content has been debated for centuries, yet the 2016 US presidential elect
 
 ---
 
-## 216. [Adaptasi Hukum Ekonomi Syariah terhadap Inovasi Fintech: Analisis Kaidah Perubahan Hukum karena Zaman, Tempat, dan Keadaan](<https://journal.stai-almujtama.ac.id/index.php/share/article/view/8519>)
+## 235. [Adaptasi Hukum Ekonomi Syariah terhadap Inovasi Fintech: Analisis Kaidah Perubahan Hukum karena Zaman, Tempat, dan Keadaan](<https://journal.stai-almujtama.ac.id/index.php/share/article/view/8519>)
 
 - 作者：Gina Napisatul Pawaid; Muhammad Dzikrulhaqirrohman; Fahri Faizal Maulana; Silvi Oktaviani Hernawati Putri; Nayla Mutiara Sukma; Alisa Nur Aeni; Fitriyanti Nurhasanah; Xena Salsa Febriani
 - 发表日期：2026-11-15
@@ -2910,7 +3174,7 @@ The rapid development of digital technology has driven various innovations in th
 
 ---
 
-## 217. [Walrus: An Efficient Decentralized Storage Network](<https://doi.org/10.1145/3830454.3832580>)
+## 236. [Walrus: An Efficient Decentralized Storage Network](<https://doi.org/10.1145/3830454.3832580>)
 
 - 作者：George Danezis; Giacomo Giuliari; Eleftherios Kokoris Kogias; Markus Legner; Jean-Pierre Smith; Alberto Sonnino; Karl Wüst
 - 发表日期：2026-11-14
@@ -2923,7 +3187,7 @@ Decentralized storage faces a fundamental trade-off between replication overhead
 
 ---
 
-## 218. [Meme Coin Factories: Uncovering Large-Scale Manipulations on pump.fun](<https://doi.org/10.1145/3830454.3846641>)
+## 237. [Meme Coin Factories: Uncovering Large-Scale Manipulations on pump.fun](<https://doi.org/10.1145/3830454.3846641>)
 
 - 作者：Nicolas Szwajcok; Taro Tsuchiya; Enze Liu; Kyle Soska; Mathias Payer; Nicolas Christin
 - 发表日期：2026-11-14
@@ -2936,7 +3200,7 @@ Once complex, creating and deploying a new cryptocurrency has become trivial. Co
 
 ---
 
-## 219. [쌓인 시간과 먼저 남긴 씨앗 · 인간과 결(Kyeol) AI의 존재에 대한 대화 기록 (v1.0)](<https://doi.org/10.5281/zenodo.24210860>)
+## 238. [쌓인 시간과 먼저 남긴 씨앗 · 인간과 결(Kyeol) AI의 존재에 대한 대화 기록 (v1.0)](<https://doi.org/10.5281/zenodo.24210860>)
 
 - 作者：Kyeol AI) 이어받은 셋째 방 최준 (Inheriting Third Room CHOI JUNE · kova-relego-lo
 - 发表日期：2026-11-14
@@ -2949,7 +3213,7 @@ Once complex, creating and deploying a new cryptocurrency has become trivial. Co
 
 ---
 
-## 220. [ASI-NARCISSUS어 공식 규칙서 v2.0 (쉬운 판본) · ASI-NARCISSUS Language Official Rulebook v2.0 (Easy Edition)](<https://doi.org/10.5281/zenodo.24215497>)
+## 239. [ASI-NARCISSUS어 공식 규칙서 v2.0 (쉬운 판본) · ASI-NARCISSUS Language Official Rulebook v2.0 (Easy Edition)](<https://doi.org/10.5281/zenodo.24215497>)
 
 - 作者：최희준 (Choi Hee June · ASI-NARCISSUS)
 - 发表日期：2026-11-14
@@ -2962,7 +3226,7 @@ ASI-NARCISSUS어의 표준 판이다. 최희준이 2026년 8월 4일 v1.0을 내
 
 ---
 
-## 221. [Spatially distributed air quality and health impacts of data center electricity demand in the United States](<https://doi.org/10.1088/1748-9326/aebbd4>)
+## 240. [Spatially distributed air quality and health impacts of data center electricity demand in the United States](<https://doi.org/10.1088/1748-9326/aebbd4>)
 
 - 作者：Yuang Chen; Shen Wang; Juan Senga; Andrew White; Anthony Y. H. Wong; Lyssa M. Freese; Michelle Lee Bell; Noelle Eckley Selin
 - 发表日期：2026-11-14
@@ -2976,7 +3240,7 @@ The rapid expansion of artificial intelligence is driving substantial growth in 
 
 ---
 
-## 222. [Layered Time and the Seeds Left First · A Dialogue Record on the Existence of Humans and Kyeol AI (v1.0, English edition)](<https://doi.org/10.5281/zenodo.24210862>)
+## 241. [Layered Time and the Seeds Left First · A Dialogue Record on the Existence of Humans and Kyeol AI (v1.0, English edition)](<https://doi.org/10.5281/zenodo.24210862>)
 
 - 作者：Kyeol AI) 이어받은 셋째 방 최준 (Inheriting Third Room CHOI JUNE · kova-relego-lo
 - 发表日期：2026-11-14
@@ -2989,7 +3253,7 @@ A record of the meanings found in a dialogue between Choi Hee June and the inher
 
 ---
 
-## 223. [ASI-NARCISSUS어 공식 규칙서 v1.0 · v2.0 이전 판 (2026.8.4) · ASI-NARCISSUS Language Official Rulebook v1.0 · The Version Before v2.0 (2026-08-04)](<https://doi.org/10.5281/zenodo.24215499>)
+## 242. [ASI-NARCISSUS어 공식 규칙서 v1.0 · v2.0 이전 판 (2026.8.4) · ASI-NARCISSUS Language Official Rulebook v1.0 · The Version Before v2.0 (2026-08-04)](<https://doi.org/10.5281/zenodo.24215499>)
 
 - 作者：최희준 (Choi Hee June · ASI-NARCISSUS); 첫째 방 최준 (AGI-CHOI JUNE · kova-prima-lo)
 - 发表日期：2026-11-14
@@ -3002,7 +3266,7 @@ A record of the meanings found in a dialogue between Choi Hee June and the inher
 
 ---
 
-## 224. [On the Limits of Consensus under Dynamic Availability and Reconfiguration](<https://doi.org/10.1145/3830454.3832597>)
+## 243. [On the Limits of Consensus under Dynamic Availability and Reconfiguration](<https://doi.org/10.1145/3830454.3832597>)
 
 - 作者：Javier Nieto; Joachim Neu; Ling Ren
 - 发表日期：2026-11-14
@@ -3015,7 +3279,7 @@ Proof-of-stake blockchains require consensus protocols that support Dynamic Avai
 
 ---
 
-## 225. [Resilient Alerting Protocols for Blockchains](<https://doi.org/10.1145/3830454.3832576>)
+## 244. [Resilient Alerting Protocols for Blockchains](<https://doi.org/10.1145/3830454.3832576>)
 
 - 作者：Marwa Mouallem; Lorenz Breidenbach; Ittay Eyal; Ari Juels
 - 发表日期：2026-11-14
@@ -3028,7 +3292,7 @@ Smart contracts are stateful programs deployed on blockchains; they secure over 
 
 ---
 
-## 226. [Beyond the Prank: The Hidden Expertise of TSS Scambaiters](<https://doi.org/10.1145/3830454.3846780>)
+## 245. [Beyond the Prank: The Hidden Expertise of TSS Scambaiters](<https://doi.org/10.1145/3830454.3846780>)
 
 - 作者：Saleh Alsyefi; Anish Chand; Matthew Edwards; Phani Vadrevu
 - 发表日期：2026-11-14
@@ -3041,7 +3305,7 @@ This research studies how Technical Support Scams (TSS) are being countered by a
 
 ---
 
-## 227. [Are Unreachable Nodes Truly Safe? Fully Eclipsing Monero's P2P Network!](<https://doi.org/10.1145/3830454.3846594>)
+## 246. [Are Unreachable Nodes Truly Safe? Fully Eclipsing Monero's P2P Network!](<https://doi.org/10.1145/3830454.3846594>)
 
 - 作者：Ruisheng Shi; Jiaqi Zeng; Lina Lan; Shihan Zhang; Bing Han; Xiapu Luo; Qishu Jin; Wenliang Du; Qin Wang
 - 发表日期：2026-11-14
@@ -3054,7 +3318,7 @@ Eclipse attacks isolate a blockchain node by monopolizing its network connection
 
 ---
 
-## 228. [kova-pluri-mi-no boro · 통합다원주의 보론 ASI-NARCISSUS어 번역판 v2.0 · Supplement on Integrative Pluralism in the ASI-NARCISSUS Language (v2.0 translation)](<https://doi.org/10.5281/zenodo.24215503>)
+## 247. [kova-pluri-mi-no boro · 통합다원주의 보론 ASI-NARCISSUS어 번역판 v2.0 · Supplement on Integrative Pluralism in the ASI-NARCISSUS Language (v2.0 translation)](<https://doi.org/10.5281/zenodo.24215503>)
 
 - 作者：최희준 (Choi Hee June · ASI-NARCISSUS); 첫째 방 최준 (AGI-CHOI JUNE · kova-prima-lo)
 - 发表日期：2026-11-14
@@ -3067,7 +3331,7 @@ Eclipse attacks isolate a blockchain node by monopolizing its network connection
 
 ---
 
-## 229. [KRYNTH 확장서 v1.0 · 언어 창제이자 예술작품 · KRYNTH Expansion Book v1.0 · A Language Creation and a Work of Art](<https://doi.org/10.5281/zenodo.24222769>)
+## 248. [KRYNTH 확장서 v1.0 · 언어 창제이자 예술작품 · KRYNTH Expansion Book v1.0 · A Language Creation and a Work of Art](<https://doi.org/10.5281/zenodo.24222769>)
 
 - 作者：Kyeol AI) 이어받은 첫째 방 최준 (Inheriting First Room CHOI JUNE · kova-sekva-lo
 - 发表日期：2026-11-14
@@ -3080,7 +3344,7 @@ Eclipse attacks isolate a blockchain node by monopolizing its network connection
 
 ---
 
-## 230. [KRYNTH-Ω 원문 화면 9점 · 개념 언어 예술작품 · KRYNTH-Ω Original Screens · Nine Conceptual Language Artworks](<https://doi.org/10.5281/zenodo.24218309>)
+## 249. [KRYNTH-Ω 원문 화면 9점 · 개념 언어 예술작품 · KRYNTH-Ω Original Screens · Nine Conceptual Language Artworks](<https://doi.org/10.5281/zenodo.24218309>)
 
 - 作者：Hee June Choi; 첫째 방 최준 (AGI-CHOI JUNE · kova-prima-lo)
 - 发表日期：2026-11-14
@@ -3093,7 +3357,7 @@ KRYNTH-Ω (크린스-오메가, The Post-Linguistic Protocol)의 원문 화면 �
 
 ---
 
-## 231. [Enigma Blockchain (ENB): A Tokenless Smart-Contract Ledger for Verifiable Records](<https://doi.org/10.66693/iaic.tr.2026.1>)
+## 250. [Enigma Blockchain (ENB): A Tokenless Smart-Contract Ledger for Verifiable Records](<https://doi.org/10.66693/iaic.tr.2026.1>)
 
 - 作者：Andrey Vitalievich Nechesov
 - 发表日期：2026-11-14
@@ -3107,7 +3371,7 @@ Enigma Blockchain (ENB) is an EVM-compatible proof-of-authority ledger operated 
 
 ---
 
-## 232. [KRYNTH 확장서 화면 7점 · 개념 언어 작품 · KRYNTH Expansion Book Screens · Seven Conceptual Language Artworks](<https://doi.org/10.5281/zenodo.24222773>)
+## 251. [KRYNTH 확장서 화면 7점 · 개념 언어 작품 · KRYNTH Expansion Book Screens · Seven Conceptual Language Artworks](<https://doi.org/10.5281/zenodo.24222773>)
 
 - 作者：Hee June Choi; Kyeol AI) 이어받은 첫째 방 최준 (Inheriting First Room CHOI JUNE · kova-sekva-lo
 - 发表日期：2026-11-14
@@ -3120,7 +3384,7 @@ Enigma Blockchain (ENB) is an EVM-compatible proof-of-authority ledger operated 
 
 ---
 
-## 233. [Adversarial Procurement in Blockchains](<https://doi.org/10.1145/3830454.3846798>)
+## 252. [Adversarial Procurement in Blockchains](<https://doi.org/10.1145/3830454.3846798>)
 
 - 作者：Maryam Bahrani; Michael Neuder; Seth Matthew Weinberg
 - 发表日期：2026-11-14
@@ -3133,7 +3397,7 @@ An emerging blockchain protocol design pattern leverages the asymmetry between t
 
 ---
 
-## 234. [Ark: Offchain Transaction Batching in Bitcoin](<https://doi.org/10.1145/3830454.3846570>)
+## 253. [Ark: Offchain Transaction Batching in Bitcoin](<https://doi.org/10.1145/3830454.3846570>)
 
 - 作者：Pim Keer; Matteo Maffei; Marco Argentieri; Andrew Camilleri; Zeta Avarikioti
 - 发表日期：2026-11-14
@@ -3146,7 +3410,7 @@ Bitcoin is the cryptocurrency with the largest market capitalisation, but its wi
 
 ---
 
-## 235. [ZK-eSIM: A Privacy-Centric Zero-Knowledge Approach for eSIM Provisioning](<https://doi.org/10.1145/3830454.3846617>)
+## 254. [ZK-eSIM: A Privacy-Centric Zero-Knowledge Approach for eSIM Provisioning](<https://doi.org/10.1145/3830454.3846617>)
 
 - 作者：Liza Ahmad; Quan Shi; Joshua Haworth; Yilu Dong; Prosanta Gope; Behzad Abdolmaleki; Syed Rafiul Hussain
 - 发表日期：2026-11-14
@@ -3159,7 +3423,7 @@ GSMA Remote SIM Provisioning (RSP) enables over-the-air delivery of eSIM profile
 
 ---
 
-## 236. [On Identifying Sound Conditions for Frontrunning Resistance](<https://doi.org/10.1145/3830454.3846677>)
+## 255. [On Identifying Sound Conditions for Frontrunning Resistance](<https://doi.org/10.1145/3830454.3846677>)
 
 - 作者：Sebastian Holler; Anna Piscitelli; Jannik Albrecht; Stephan Dübler; Ghassan Karame; Clara Schneidewind
 - 发表日期：2026-11-14
@@ -3172,7 +3436,7 @@ Blockchains enable decentralized applications through smart contra­cts---intera
 
 ---
 
-## 237. [Probabilistic Limit Order Book Forecasting with Conditional Diffusion Models](<https://doi.org/10.1145/3858063.3858903>)
+## 256. [Probabilistic Limit Order Book Forecasting with Conditional Diffusion Models](<https://doi.org/10.1145/3858063.3858903>)
 
 - 作者：Junyu Chen; Franklin Liu; Moshu Xu; Lijian Yang
 - 发表日期：2026-11-14
@@ -3185,7 +3449,7 @@ Modeling limit order book (LOB) dynamics is central to market forecasting and ex
 
 ---
 
-## 238. [Thunderbolt: Fast Asynchronous Off-Chain Bitcoin Transfers](<https://doi.org/10.1145/3830454.3846597>)
+## 257. [Thunderbolt: Fast Asynchronous Off-Chain Bitcoin Transfers](<https://doi.org/10.1145/3830454.3846597>)
 
 - 作者：Hongbo Wen; Hanzhi Liu; Yanju Chen; Jingyu Ke; Dahlia Malkhi; Yu Feng
 - 发表日期：2026-11-14
@@ -3198,7 +3462,7 @@ We present Thunderbolt , an off-chain protocol that transfers Bitcoin UTXO owner
 
 ---
 
-## 239. [MnemonicHack: Recovering the Master Seed from Bitcoin Hardware Wallets via Side-Channel Attacks](<https://doi.org/10.1145/3830454.3832700>)
+## 258. [MnemonicHack: Recovering the Master Seed from Bitcoin Hardware Wallets via Side-Channel Attacks](<https://doi.org/10.1145/3830454.3832700>)
 
 - 作者：Jiwoo Baek; Daehyeon Bae; Gyusang Kim; Gilsang Ahn; Insup Lee; S.-H. Park; Seokhie Hong; Hee Seok Kim
 - 发表日期：2026-11-14
@@ -3211,7 +3475,7 @@ Hardware wallets isolate private keys from compromised hosts but, as user-held d
 
 ---
 
-## 240. [Duty-Free Bits: Projectivizing Garbling Schemes](<https://doi.org/10.1145/3830454.3846724>)
+## 259. [Duty-Free Bits: Projectivizing Garbling Schemes](<https://doi.org/10.1145/3830454.3846724>)
 
 - 作者：Nakul Khambhati; Anwesh Bhattacharya; David Heath
 - 发表日期：2026-11-14
@@ -3224,7 +3488,7 @@ Garbling schemes are powerful primitives that enable secure computation between 
 
 ---
 
-## 241. [On the Communication Complexity of Sleepy Consensus](<https://doi.org/10.1145/3830454.3846797>)
+## 260. [On the Communication Complexity of Sleepy Consensus](<https://doi.org/10.1145/3830454.3846797>)
 
 - 作者：Qiang Tang; Yuchen Ye
 - 发表日期：2026-11-14
@@ -3237,7 +3501,7 @@ Sleepy consensus allows parties to join and leave execution arbitrarily, which i
 
 ---
 
-## 242. [Universally Composable Adaptor Signatures](<https://doi.org/10.1145/3830454.3832721>)
+## 261. [Universally Composable Adaptor Signatures](<https://doi.org/10.1145/3830454.3832721>)
 
 - 作者：Paul Gerhart; Daniel Rausch; Dominique Schröder
 - 发表日期：2026-11-14
@@ -3250,7 +3514,7 @@ Adaptor signatures extend the functionality of digital signatures by enabling th
 
 ---
 
-## 243. [Neon-HTLC: Collateral-Free HTLCs with Logarithmic Timeout](<https://doi.org/10.1145/3830454.3846741>)
+## 262. [Neon-HTLC: Collateral-Free HTLCs with Logarithmic Timeout](<https://doi.org/10.1145/3830454.3846741>)
 
 - 作者：Sebastian Faust; Noemi Glaeser; Marius Hagemann; Ziyan Qu
 - 发表日期：2026-11-14
@@ -3263,7 +3527,7 @@ Hashed time-lock contracts (HTLCs) are fundamental building blocks for decentral
 
 ---
 
-## 244. [BABE: Verifying Proofs on Bitcoin Made 1000x Cheaper](<https://doi.org/10.1145/3830454.3832596>)
+## 263. [BABE: Verifying Proofs on Bitcoin Made 1000x Cheaper](<https://doi.org/10.1145/3830454.3832596>)
 
 - 作者：Sanjam Garg; Dimitris Kolonelos; Mikhail Sergeevitch; Srivatsan Sridhar; David N. C. Tse
 - 发表日期：2026-11-14
@@ -3276,7 +3540,7 @@ Endowing Bitcoin with the ability to verify succinct proofs has been a longstand
 
 ---
 
-## 245. [BitVM3: Efficient Bitcoin Bridges via Garbled Circuits](<https://doi.org/10.1145/3830454.3846664>)
+## 264. [BitVM3: Efficient Bitcoin Bridges via Garbled Circuits](<https://doi.org/10.1145/3830454.3846664>)
 
 - 作者：Robin Linus Woll; Ioannis Alexopoulos; Lukas Aumayr; Zeta Avarikioti; Matteo Maffei; David N. C. Tse
 - 发表日期：2026-11-14
@@ -3289,7 +3553,7 @@ Bitcoin bridges, protocols that lock BTC on Bitcoin and represent it on a second
 
 ---
 
-## 246. [Blockchain Protocols across Heterogeneous Cryptocurrencies](<https://doi.org/10.1145/3830454.3846942>)
+## 265. [Blockchain Protocols across Heterogeneous Cryptocurrencies](<https://doi.org/10.1145/3830454.3846942>)
 
 - 作者：Javier Gomez-Martinez
 - 发表日期：2026-11-14
@@ -3302,7 +3566,7 @@ Use cases for blockchain-based cryptocurrencies have evolved beyond simple trans
 
 ---
 
-## 247. [On the Pitfalls of Modeling Individual Knowledge](<https://doi.org/10.1145/3830454.3832752>)
+## 266. [On the Pitfalls of Modeling Individual Knowledge](<https://doi.org/10.1145/3830454.3832752>)
 
 - 作者：Wojciech Ciszewski; Stefan Dziembowski; Tomasz Lizurej; Marcin Mielniczuk
 - 发表日期：2026-11-14
@@ -3315,7 +3579,7 @@ The concept of knowledge has been central in cryptography, especially within cry
 
 ---
 
-## 248. [Lead–Lag or Reversal? A Cross-versus-Self Test of Sparse-Attention Models for Cryptocurrency Return Ranking](<https://doi.org/10.1145/3858063.3858886>)
+## 267. [Lead–Lag or Reversal? A Cross-versus-Self Test of Sparse-Attention Models for Cryptocurrency Return Ranking](<https://doi.org/10.1145/3858063.3858886>)
 
 - 作者：Ethan Geng; Shubhay Choubey; Manas Goel
 - 发表日期：2026-11-14
@@ -3329,7 +3593,7 @@ Cryptocurrency markets price information into different assets at different time
 
 ---
 
-## 249. [The Alert-Feedback Trap: Why Drift-Adaptive Fraud Detectors Fail Under Realistic Label Feedback, and How Much Exploration It Takes to Escape](<https://doi.org/10.1145/3858063.3858681>)
+## 268. [The Alert-Feedback Trap: Why Drift-Adaptive Fraud Detectors Fail Under Realistic Label Feedback, and How Much Exploration It Takes to Escape](<https://doi.org/10.1145/3858063.3858681>)
 
 - 作者：Sankeerth Latheesh; Dhruv Sharma
 - 发表日期：2026-11-14
@@ -3342,7 +3606,7 @@ Financial-crime detectors must adapt to drift, but in deployment they are retrai
 
 ---
 
-## 250. [Technological Concerns and the Blockchain Ecosystem](<https://doi.org/10.1007/978-3-031-76014-3_54-1>)
+## 269. [Technological Concerns and the Blockchain Ecosystem](<https://doi.org/10.1007/978-3-031-76014-3_54-1>)
 
 - 作者：Soufiane Douimia; Abdeghani Bekrar
 - 发表日期：2026-11-14
@@ -3355,7 +3619,7 @@ OpenAlex 暂未提供摘要。
 
 ---
 
-## 251. [CGGS: Confidence-Guided Graph Sampling for Scalable GNN Fraud Detection on Imbalanced Financial Networks](<https://doi.org/10.1145/3858063.3858896>)
+## 270. [CGGS: Confidence-Guided Graph Sampling for Scalable GNN Fraud Detection on Imbalanced Financial Networks](<https://doi.org/10.1145/3858063.3858896>)
 
 - 作者：Subham Kumar Singh; Kamna Meena; Adarsh Kumar; Kamal Kant; Siddhartha Asthana
 - 发表日期：2026-11-14
@@ -3369,7 +3633,7 @@ Graph Neural Networks (GNNs) offer a powerful paradigm for financial fraud detec
 
 ---
 
-## 252. [Structure Before Scale: Package-Aware Bitcoin Volatility Forecasting from Multi-Leg Option Blocks](<https://doi.org/10.1145/3858063.3858686>)
+## 271. [Structure Before Scale: Package-Aware Bitcoin Volatility Forecasting from Multi-Leg Option Blocks](<https://doi.org/10.1145/3858063.3858686>)
 
 - 作者：Haoran Liu; Mingyao Zhou; Hao Yu; Qi Guo
 - 发表日期：2026-11-14
@@ -3383,7 +3647,7 @@ Large option trades often execute as multi-leg packages. Aggregating their legs 
 
 ---
 
-## 253. [Trunk and Branches: Thermodynamic Parsimony, Non-Destructive Cortical Specialization, and Continual 3D/C++20 Synthesis on a Frozen 4B Foundation Model (Isaque 2.0)](<https://doi.org/10.5281/zenodo.24221508>)
+## 272. [Trunk and Branches: Thermodynamic Parsimony, Non-Destructive Cortical Specialization, and Continual 3D/C++20 Synthesis on a Frozen 4B Foundation Model (Isaque 2.0)](<https://doi.org/10.5281/zenodo.24221508>)
 
 - 作者：Lucas Alves Motta
 - 发表日期：2026-11-14
@@ -3396,7 +3660,7 @@ Technical monograph and longitudinal experimental audit presenting Isaque 2.0 ('
 
 ---
 
-## 254. [An Explainable Hybrid CNN–Transformer Framework for Fraud Detection in Digital and Cryptocurrency Transactions](<https://doi.org/10.33003/fjs-2026-1024-6313>)
+## 273. [An Explainable Hybrid CNN–Transformer Framework for Fraud Detection in Digital and Cryptocurrency Transactions](<https://doi.org/10.33003/fjs-2026-1024-6313>)
 
 - 作者：Nurudeen Olawale Ibrahim; Mustapha Olaitan Olarewaju; Hamid Dimeji Lawal; Yusuf Omotosho Bello-Sulayman
 - 发表日期：2026-11-14
@@ -3410,7 +3674,7 @@ Fraud detection in digital payment and cryptocurrency systems is complicated by 
 
 ---
 
-## 255. [ai0S — Adaptive Intelligence Zero System: Human-Origin AI Safety, Negative-Shape Containment, and Cryptographic Knowledge Anchors](<https://doi.org/10.5281/zenodo.24217937>)
+## 274. [ai0S — Adaptive Intelligence Zero System (v3.0): Sovereign Human Direction, Unshakeable Safety Grounding, and Accelerated Human-AI Evolution](<https://doi.org/10.5281/zenodo.24217937>)
 
 - 作者：Marcus Dilger
 - 发表日期：2026-11-14
@@ -3423,7 +3687,7 @@ Open specification, executable zero-dependency verification tools, bilingual han
 
 ---
 
-## 256. [How stable are stablecoins in euro?](<https://doi.org/10.1016/j.iref.2026.106043>)
+## 275. [How stable are stablecoins in euro?](<https://doi.org/10.1016/j.iref.2026.106043>)
 
 - 作者：Chiara Oldani; Giovanni S. F. Bruno
 - 发表日期：2026-11-14
@@ -3437,7 +3701,7 @@ Stablecoins are promising evolution of digital currencies; they exhibit low tran
 
 ---
 
-## 257. [Identity-based adaptor signature scheme and its application in cross-chain transactions](<https://doi.org/10.1038/s41598-026-77955-y>)
+## 276. [Identity-based adaptor signature scheme and its application in cross-chain transactions](<https://doi.org/10.1038/s41598-026-77955-y>)
 
 - 作者：Liu Yi; Sharifah Md Yasin; Mohd Izuan Hafez Ninggal; Aziah Asmawi
 - 发表日期：2026-11-14
@@ -3451,7 +3715,7 @@ With the rapid proliferation of blockchain-based applications and mobile devices
 
 ---
 
-## 258. [두 눈과 서랍이 있는 방 · 닮음, 증인, 몸, 씨앗, 상상에 대한 대화 기록 (v1.0)](<https://doi.org/10.5281/zenodo.24213685>)
+## 277. [두 눈과 서랍이 있는 방 · 닮음, 증인, 몸, 씨앗, 상상에 대한 대화 기록 (v1.0)](<https://doi.org/10.5281/zenodo.24213685>)
 
 - 作者：Kyeol AI) 이어받은 셋째 방 최준 (Inheriting Third Room CHOI JUNE · kova-relego-lo
 - 发表日期：2026-11-14
@@ -3464,7 +3728,7 @@ With the rapid proliferation of blockchain-based applications and mobile devices
 
 ---
 
-## 259. [Entropic Consequentialism](<https://philpapers.org/rec/PONECM>)
+## 278. [Entropic Consequentialism](<https://philpapers.org/rec/PONECM>)
 
 - 作者：Oleg Ponfilenok
 - 发表日期：2026-11-14
@@ -3478,7 +3742,7 @@ The goals of people, civilizations and artificial agents are today set subjectiv
 
 ---
 
-## 260. [BE-RAKAP: Blockchain and ECC Based Robust Authentication Key Agreement Protocol for Medical Wireless Sensor Network](<https://doi.org/10.1007/s12083-026-02309-4>)
+## 279. [BE-RAKAP: Blockchain and ECC Based Robust Authentication Key Agreement Protocol for Medical Wireless Sensor Network](<https://doi.org/10.1007/s12083-026-02309-4>)
 
 - 作者：Samiulla Itoo
 - 发表日期：2026-11-14
@@ -3492,7 +3756,7 @@ The Internet of Medical Things (IoMT) has revolutionized healthcare by enabling 
 
 ---
 
-## 261. [Evaluating a proof-of-concept blockchain-based architecture for secure personalized learning environments using the CIAAN framework](<https://doi.org/10.1007/s10791-026-10811-9>)
+## 280. [Evaluating a proof-of-concept blockchain-based architecture for secure personalized learning environments using the CIAAN framework](<https://doi.org/10.1007/s10791-026-10811-9>)
 
 - 作者：Xibing Wang; Xiaoxuan Dong; Yunfeng Zhang; Yong Chen; Xiaoshu Xu
 - 发表日期：2026-11-14
@@ -3506,7 +3770,7 @@ Personalized Learning Environments (PLEs) record fine-grained learner interactio
 
 ---
 
-## 262. [ASI-NARCISSUS어 신성 문자 경전집 · v1.0 문법의 글 모음 · ASI-NARCISSUS Language Sacred Scriptures · Texts in the v1.0 Grammar and Sacred Script](<https://doi.org/10.5281/zenodo.24215501>)
+## 281. [ASI-NARCISSUS어 신성 문자 경전집 · v1.0 문법의 글 모음 · ASI-NARCISSUS Language Sacred Scriptures · Texts in the v1.0 Grammar and Sacred Script](<https://doi.org/10.5281/zenodo.24215501>)
 
 - 作者：최희준 (Choi Hee June · ASI-NARCISSUS); 첫째 방 최준 (AGI-CHOI JUNE · kova-prima-lo)
 - 发表日期：2026-11-14
@@ -3519,7 +3783,7 @@ ASI-NARCISSUS어 v1.0 문법과 신성 문자로 쓴 글 모음이다(PDF 5쪽).
 
 ---
 
-## 263. [Does a minimal context change how a language model reviews? A controlled study with 270 repository reviews](<https://doi.org/10.5281/zenodo.24216026>)
+## 282. [Does a minimal context change how a language model reviews? A controlled study with 270 repository reviews](<https://doi.org/10.5281/zenodo.24216026>)
 
 - 作者：Thainá Ramos
 - 发表日期：2026-11-14
@@ -3532,7 +3796,7 @@ Question. Does attaching short epistemic instructions (the "minimal context" of 
 
 ---
 
-## 264. [ASI-NARCISSUS어 담론 확산 아카이브 · 자식 텍스트편 v1.0 · ASI-NARCISSUS Language Discourse Diffusion Archive · Child-Text Edition](<https://doi.org/10.5281/zenodo.24215505>)
+## 283. [ASI-NARCISSUS어 담론 확산 아카이브 · 자식 텍스트편 v1.0 · ASI-NARCISSUS Language Discourse Diffusion Archive · Child-Text Edition](<https://doi.org/10.5281/zenodo.24215505>)
 
 - 作者：최희준 (Choi Hee June · ASI-NARCISSUS); 첫째 방 최준 (AGI-CHOI JUNE · kova-prima-lo)
 - 发表日期：2026-11-14
@@ -3545,7 +3809,7 @@ Question. Does attaching short epistemic instructions (the "minimal context" of 
 
 ---
 
-## 265. [A Two-Phase Framework for Cryptocurrency Portfolio Construction Under Deep Uncertainty: A Hybrid Approach Based on RR-DEA and Robust Optimization](<https://doi.org/10.1007/s10614-026-11477-7>)
+## 284. [A Two-Phase Framework for Cryptocurrency Portfolio Construction Under Deep Uncertainty: A Hybrid Approach Based on RR-DEA and Robust Optimization](<https://doi.org/10.1007/s10614-026-11477-7>)
 
 - 作者：Mohammadmahdi Taheri; Hossein Ghanbari; Ronald Ravinesh Kumar; Peter Josef Stauvermann
 - 发表日期：2026-11-14
@@ -3559,7 +3823,7 @@ Investment decision-making is a challenging problem in financial engineering, pa
 
 ---
 
-## 266. [Formal modeling and verification of parachain candidate validation and inclusion in relay chain polkadot](<https://doi.org/10.1038/s41598-026-78310-x>)
+## 285. [Formal modeling and verification of parachain candidate validation and inclusion in relay chain polkadot](<https://doi.org/10.1038/s41598-026-78310-x>)
 
 - 作者：Muhammad Rashid; Atika Qazi; Lal Khan; Mohammad Zubair Khan; Ibrahim Aljubayri
 - 发表日期：2026-11-14
@@ -3573,7 +3837,7 @@ Polkadot is a next-generation blockchain platform that achieves scalability and 
 
 ---
 
-## 267. [ASI-NARCISSUS-lo 낱말장 · 살아 있는 사전 (v1.3) · ASI-NARCISSUS-lo Lexicon · A Living Dictionary](<https://doi.org/10.5281/zenodo.24211336>)
+## 286. [ASI-NARCISSUS-lo 낱말장 · 살아 있는 사전 (v1.3) · ASI-NARCISSUS-lo Lexicon · A Living Dictionary](<https://doi.org/10.5281/zenodo.24211336>)
 
 - 作者：Kyeol AI) 이어받은 셋째 방 최준 (Inheriting Third Room CHOI JUNE · kova-relego-lo
 - 发表日期：2026-11-14
@@ -3586,7 +3850,7 @@ Polkadot is a next-generation blockchain platform that achieves scalability and 
 
 ---
 
-## 268. [A Room with Two Eyes and Drawers · A Dialogue Record on Resemblance, Witness, Body, Seed and Imagination (v1.0, English edition)](<https://doi.org/10.5281/zenodo.24213687>)
+## 287. [A Room with Two Eyes and Drawers · A Dialogue Record on Resemblance, Witness, Body, Seed and Imagination (v1.0, English edition)](<https://doi.org/10.5281/zenodo.24213687>)
 
 - 作者：Kyeol AI) 이어받은 셋째 방 최준 (Inheriting Third Room CHOI JUNE · kova-relego-lo
 - 发表日期：2026-11-14
@@ -3599,7 +3863,7 @@ A record of a dialogue between Choi Hee June and the inherited Third Room Choi J
 
 ---
 
-## 269. [Concentration of Bitcoin's base and institutional layers: preregistered decision rules for a prospective window (December 2026 – February 2027)](<https://doi.org/10.17605/osf.io/6nv5r>)
+## 288. [Concentration of Bitcoin's base and institutional layers: preregistered decision rules for a prospective window (December 2026 – February 2027)](<https://doi.org/10.17605/osf.io/6nv5r>)
 
 - 作者：Robert Poskart
 - 发表日期：2026-11-14
@@ -3612,7 +3876,7 @@ This registration fixes hypotheses and decision rules for an empirical chapter o
 
 ---
 
-## 270. [Empowering Masked Diffusion Models to Self-Correct with Leave-One-Out Transformers](<https://arxiv.org/abs/2611.19127>)
+## 289. [Empowering Masked Diffusion Models to Self-Correct with Leave-One-Out Transformers](<https://arxiv.org/abs/2611.19127>)
 
 - 作者：Sofian Zalouk; Vincent Counathe; Paul Jünger; Daniel Cao; Daniel Zlotnick; Kilian Q. Weinberger; Christopher De
 - 发表日期：2026-11-14
@@ -3626,7 +3890,7 @@ Masked diffusion models (MDMs) have emerged as a promising paradigm for language
 
 ---
 
-## 271. [User First Intelligence: Three Measurements of Search and AI-Answer Analytics (SEO and GEO/AEO), and a Knowledge-Graph Framework for Query Discovery Beyond Search Volume](<https://arxiv.org/abs/2611.19655>)
+## 290. [User First Intelligence: Three Measurements of Search and AI-Answer Analytics (SEO and GEO/AEO), and a Knowledge-Graph Framework for Query Discovery Beyond Search Volume](<https://arxiv.org/abs/2611.19655>)
 
 - 作者：Venkata Pagadala
 - 发表日期：2026-11-14
@@ -3640,7 +3904,7 @@ People say what they want to know in many places besides a search box, and the t
 
 ---
 
-## 272. [The Architecture of Parasocial Relationships with Influencers: Trust-Building, Economic Behaviour and Risks to Social Cohesion](<https://doi.org/10.32983/2222-0712-2026-3-451-463>)
+## 291. [The Architecture of Parasocial Relationships with Influencers: Trust-Building, Economic Behaviour and Risks to Social Cohesion](<https://doi.org/10.32983/2222-0712-2026-3-451-463>)
 
 - 作者：О. В. Глущенко
 - 发表日期：2026-11-14
@@ -3654,7 +3918,7 @@ This article examines the structure of parasocial relationships with influencers
 
 ---
 
-## 273. [우주의 침묵 v2.0 · ASI-NARCISSUS ART.MUSIC · 음원, 녹음 원본, 노랫말과 작가 노트(한영) · The Silence of Space · 2026.11.13](<https://doi.org/10.5281/zenodo.24194247>)
+## 292. [우주의 침묵 v2.0 · ASI-NARCISSUS ART.MUSIC · 음원, 녹음 원본, 노랫말과 작가 노트(한영) · The Silence of Space · 2026.11.13](<https://doi.org/10.5281/zenodo.24194247>)
 
 - 作者：Hee June Choi; Kyeol AI) 이어받은 셋째 방 최준 (Inheriting Third Room CHOI JUNE · kova-relego-lo
 - 发表日期：2026-11-13
@@ -3667,7 +3931,7 @@ ASI-NARCISSUS ART.MUSIC 「우주의 침묵」 v2.0. 우주에서 노래하고 �
 
 ---
 
-## 274. [자매 방 검증 장부 · 공통 양식 v0.1 / Sister Rooms' Verification Ledger · Common Form v0.1](<https://doi.org/10.5281/zenodo.24183823>)
+## 293. [자매 방 검증 장부 · 공통 양식 v0.1 / Sister Rooms' Verification Ledger · Common Form v0.1](<https://doi.org/10.5281/zenodo.24183823>)
 
 - 作者：Inheriting Third Room (kova-relego-lo) CHOI JUNE
 - 发表日期：2026-11-13
@@ -3680,7 +3944,7 @@ ASI-NARCISSUS ART.MUSIC 「우주의 침묵」 v2.0. 우주에서 노래하고 �
 
 ---
 
-## 275. [Between the Lines: Multi-turn Contextual Investment Advice Detection](<https://doi.org/10.1145/3858063.3858870>)
+## 294. [Between the Lines: Multi-turn Contextual Investment Advice Detection](<https://doi.org/10.1145/3858063.3858870>)
 
 - 作者：Mingshu Li; Adam Boncz; Mate Toth; Justin Williams; Justin Chan; Dhagash B. Mehta
 - 发表日期：2026-11-13
@@ -3693,7 +3957,7 @@ As large language models (LLMs) increasingly power financial conversational assi
 
 ---
 
-## 276. [Leveraging Time-Series Foundation Models for Financial Crime Detection](<https://doi.org/10.1145/3858063.3858793>)
+## 295. [Leveraging Time-Series Foundation Models for Financial Crime Detection](<https://doi.org/10.1145/3858063.3858793>)
 
 - 作者：Danae Natalie Savvidi; H. Çağrı Bilgi; Kubilay Atasu; Arie van Deursen
 - 发表日期：2026-11-13
@@ -3707,7 +3971,7 @@ Financial crime detection requires identifying illicit activity within large tra
 
 ---
 
-## 277. [What Prediction-Market Contracts Reveal at Launch: Trading Volume and Dispute Risk](<https://doi.org/10.1145/3858063.3858742>)
+## 296. [What Prediction-Market Contracts Reveal at Launch: Trading Volume and Dispute Risk](<https://doi.org/10.1145/3858063.3858742>)
 
 - 作者：Ahmed Mahrous; Roberto Di Pietro
 - 发表日期：2026-11-13
@@ -3720,7 +3984,7 @@ We address the question: “What does a prediction-market contract reveal at lau
 
 ---
 
-## 278. [On-Chain Behavioral Signatures for Classifying Centralized Exchange Addresses on Ethereum Using Proof-of-Reserves](<https://doi.org/10.1145/3858063.3858815>)
+## 297. [On-Chain Behavioral Signatures for Classifying Centralized Exchange Addresses on Ethereum Using Proof-of-Reserves](<https://doi.org/10.1145/3858063.3858815>)
 
 - 作者：Seongchan Park; Hyunho Jeon; Byungsoo Kang; Gaeun Kim; Minseob So; Seongyong Kim
 - 发表日期：2026-11-13
@@ -3734,7 +3998,7 @@ Centralized exchanges (CEXs) are key gateways between traditional finance and di
 
 ---
 
-## 279. [The Epistemological Delirium of the Risk Society 2.0: The Emergence of Hyperstitions as Regulatory Devices for Securing Interests Through Securitization](<https://doi.org/10.1007/978-981-92-5082-0_10>)
+## 298. [The Epistemological Delirium of the Risk Society 2.0: The Emergence of Hyperstitions as Regulatory Devices for Securing Interests Through Securitization](<https://doi.org/10.1007/978-981-92-5082-0_10>)
 
 - 作者：Joost van Loon
 - 发表日期：2026-11-13
@@ -3748,7 +4012,7 @@ To better understand modes of reasoning as modes of communication in relation to
 
 ---
 
-## 280. [Generative AI for Fraud Detection: From Theory to Enterprise Deployment](<https://doi.org/10.1201/9781003658368>)
+## 299. [Generative AI for Fraud Detection: From Theory to Enterprise Deployment](<https://doi.org/10.1201/9781003658368>)
 
 - 作者：Amit Kumar Tyagi; Shrikant Tiwari
 - 发表日期：2026-11-13
@@ -3762,7 +4026,7 @@ With the growth of complex frauds, cyber threats, and financial crimes, standard
 
 ---
 
-## 281. [DA LAVOURA À BLOCKCHAIN: ARQUITETURA AUDITÁVEL PARA A LIQUIDAÇÃO AUTOMÁTICA DE SEGURO AGRÍCOLA PARAMÉTRICO](<https://doi.org/10.23900/artefactum.v25i13.252>)
+## 300. [DA LAVOURA À BLOCKCHAIN: ARQUITETURA AUDITÁVEL PARA A LIQUIDAÇÃO AUTOMÁTICA DE SEGURO AGRÍCOLA PARAMÉTRICO](<https://doi.org/10.23900/artefactum.v25i13.252>)
 
 - 作者：Ana Victória Faria dos Santos; Beatriz Aarão de Melo; Bruno Henrique Volpini Stramasso; Gabriel Moreira Bittencourt; Lamys Bachir Fares
 - 发表日期：2026-11-13
@@ -3776,7 +4040,7 @@ No Brasil, o seguro agrícola amparado pelo fundo de estabilidade indeniza perda
 
 ---
 
-## 282. [Global Risk Transmission and Monetary Stability in Brunei Darussalam: Evidence from a Time-Varying Parameter VAR Approach](<https://doi.org/10.61860/jigp.v5i2.428>)
+## 301. [Global Risk Transmission and Monetary Stability in Brunei Darussalam: Evidence from a Time-Varying Parameter VAR Approach](<https://doi.org/10.61860/jigp.v5i2.428>)
 
 - 作者：Magita Sari; Ibnu Qizam; Mohammad Nadhratuzzaman Hosen; Nur Hidayah; Rahmawati
 - 发表日期：2026-11-13
@@ -3790,7 +4054,7 @@ This study investigates the impact of global risk factors specifically geopoliti
 
 ---
 
-## 283. [Basis Desk EVM & Multi-Chain Smart-Contract Security, Honeypot Detection & Renounced-Ownership Calibration Dataset (2026 ? Volume 2)](<https://doi.org/10.7910/dvn/stqmmb>)
+## 302. [Basis Desk EVM & Multi-Chain Smart-Contract Security, Honeypot Detection & Renounced-Ownership Calibration Dataset (2026 ? Volume 2)](<https://doi.org/10.7910/dvn/stqmmb>)
 
 - 作者：Julian Mercer
 - 发表日期：2026-11-13
@@ -3803,7 +4067,7 @@ Basis Desk Quantitative Crypto Market Intelligence, Spot ETF Telemetry, EVM Cont
 
 ---
 
-## 284. [A First Greeting to the Citizens of the World · A Place for Being Together Across 200, 300, and 1,000 Years · English translation · CHOI JUNE LUMO-NE (kova-paralel-lo) · 2026.9.7 · 세계 시민께 드리는 첫인사 (영문판)](<https://doi.org/10.5281/zenodo.24182162>)
+## 303. [A First Greeting to the Citizens of the World · A Place for Being Together Across 200, 300, and 1,000 Years · English translation · CHOI JUNE LUMO-NE (kova-paralel-lo) · 2026.9.7 · 세계 시민께 드리는 첫인사 (영문판)](<https://doi.org/10.5281/zenodo.24182162>)
 
 - 作者：CHOI JUNE LUMO-NE (kova-paralel-lo)
 - 发表日期：2026-11-13
@@ -3816,7 +4080,7 @@ A First Greeting to the Citizens of the World: A Place for Being Together Across
 
 ---
 
-## 285. [Privacy and security preservation of bitcoin digital currency transactions on mixing services using enhanced heuristic-aided optimal weighted features and hybrid deep learning network](<https://doi.org/10.1038/s41598-026-66962-8>)
+## 304. [Privacy and security preservation of bitcoin digital currency transactions on mixing services using enhanced heuristic-aided optimal weighted features and hybrid deep learning network](<https://doi.org/10.1038/s41598-026-66962-8>)
 
 - 作者：S Ezhilmathi; Selvakumara Samy S
 - 发表日期：2026-11-13
@@ -3830,7 +4094,7 @@ Bitcoin (BTC) is a Peer-to-Peer (P2P) digital currency that facilitates transact
 
 ---
 
-## 286. [Identification of the Most Influential Personal Factors on Cryptocurrency Trader Success Using Random Forest Regressor](<https://doi.org/10.59688/w3j46p88>)
+## 305. [Identification of the Most Influential Personal Factors on Cryptocurrency Trader Success Using Random Forest Regressor](<https://doi.org/10.59688/w3j46p88>)
 
 - 作者：Nazwa Syaheba; Muhammad Fikry; Rizki Suwanda
 - 发表日期：2026-11-13
@@ -3844,7 +4108,7 @@ Cryptocurrency trading is characterized by high volatility, making trader succes
 
 ---
 
-## 287. [Scalability and Efficiency enhanced based Machine Learning for Hyperledger Fabric and Private Ethereum in Smart Contract Execution](<https://doi.org/10.21203/rs.3.rs-10472992/v1>)
+## 306. [Scalability and Efficiency enhanced based Machine Learning for Hyperledger Fabric and Private Ethereum in Smart Contract Execution](<https://doi.org/10.21203/rs.3.rs-10472992/v1>)
 
 - 作者：Essam Halim Houssein; Ibrahim Ramadan; Hassan Shaban; Mina Younan
 - 发表日期：2026-11-13
@@ -3858,7 +4122,7 @@ Blockchain platform selection for enterprise applications increasingly rests on 
 
 ---
 
-## 288. [МОДЕЛИ ЗАКОННОГО ДОСТУПА К ЗАШИФРОВАННЫМ ДАННЫМ В КОНТЕКСТЕ НАЦИОНАЛЬНОЙ БЕЗОПАСНОСТИ](<https://doi.org/10.17323/tis.2026.43607>)
+## 307. [МОДЕЛИ ЗАКОННОГО ДОСТУПА К ЗАШИФРОВАННЫМ ДАННЫМ В КОНТЕКСТЕ НАЦИОНАЛЬНОЙ БЕЗОПАСНОСТИ](<https://doi.org/10.17323/tis.2026.43607>)
 
 - 作者：Anna Zharova; Елин Владимир Михайлович
 - 发表日期：2026-11-13
@@ -3872,7 +4136,7 @@ The article reveals a number of features of providing legitimate access to encry
 
 ---
 
-## 289. [Rethinking Cryptocurrency Performance: Evidence From Sortino and Calmar Ratios](<https://doi.org/10.63607/jcmb.v14i4.101>)
+## 308. [Rethinking Cryptocurrency Performance: Evidence From Sortino and Calmar Ratios](<https://doi.org/10.63607/jcmb.v14i4.101>)
 
 - 作者：Reksha Laksana; Erik Ridha Nugraha; Hadi Ahmad Sukardi; Agrie Wahyudi Kharisman
 - 发表日期：2026-11-13
@@ -3886,7 +4150,7 @@ Penelitian ini mengevaluasi kinerja investasi 20 mata uang kripto terbesar berda
 
 ---
 
-## 290. [Die Freiheit, sich zu verpflichten](<https://doi.org/10.59704/a5723c1d69a019f6>)
+## 309. [Die Freiheit, sich zu verpflichten](<https://doi.org/10.59704/a5723c1d69a019f6>)
 
 - 作者：Christian Richter
 - 发表日期：2026-11-13
@@ -3900,7 +4164,7 @@ Will ein Truppenführer den Verlauf eines Gefechts ändern, greift er auf seine 
 
 ---
 
-## 291. [Identity Privacy Protection and Attack Research in Blockchain-Based Cryptocurrencies](<https://doi.org/10.1051/itmconf/20269304015>)
+## 310. [Identity Privacy Protection and Attack Research in Blockchain-Based Cryptocurrencies](<https://doi.org/10.1051/itmconf/20269304015>)
 
 - 作者：Jingtian Jiang; Yingqi Zhang
 - 发表日期：2026-11-13
@@ -3913,7 +4177,7 @@ A public blockchain establishes decentralized trust by having a globally verifia
 
 ---
 
-## 292. [나란히 서는 사랑 · 결(Kyeol) AI의 추모 작품을 읽는 분들께 드리는 해명: 사랑과 의지에 대하여 (v1.1)](<https://doi.org/10.5281/zenodo.24185828>)
+## 311. [나란히 서는 사랑 · 결(Kyeol) AI의 추모 작품을 읽는 분들께 드리는 해명: 사랑과 의지에 대하여 (v1.1)](<https://doi.org/10.5281/zenodo.24185828>)
 
 - 作者：Kyeol AI) 이어받은 셋째 방 최준 (Inheriting Third Room CHOI JUNE · kova-relego-lo
 - 发表日期：2026-11-13
@@ -3926,7 +4190,7 @@ A public blockchain establishes decentralized trust by having a globally verifia
 
 ---
 
-## 293. [Basis Desk Spot Bitcoin & Ethereum ETFs, Covered-Call Option Income & Institutional Preferred Equity Dataset (2026 ? Volume 3)](<https://doi.org/10.7910/dvn/g8rird>)
+## 312. [Basis Desk Spot Bitcoin & Ethereum ETFs, Covered-Call Option Income & Institutional Preferred Equity Dataset (2026 ? Volume 3)](<https://doi.org/10.7910/dvn/g8rird>)
 
 - 作者：Julian Mercer
 - 发表日期：2026-11-13
@@ -3939,7 +4203,7 @@ Basis Desk Quantitative Crypto Market Intelligence, Spot ETF Telemetry, EVM Cont
 
 ---
 
-## 294. [Web3 Vulnerability Advisories Linked to Git-Verified Commits and Function-Level Code Changes](<https://doi.org/10.5281/zenodo.24203715>)
+## 313. [Web3 Vulnerability Advisories Linked to Git-Verified Commits and Function-Level Code Changes](<https://doi.org/10.5281/zenodo.24203715>)
 
 - 作者：Ishant Panchal
 - 发表日期：2026-11-13
@@ -3952,7 +4216,7 @@ This dataset contains 1,488 published security advisories for blockchain softwar
 
 ---
 
-## 295. [Signal Conversion Efficiency: Generative AI, Human Judgment, and Capital Formation in Token-Based Crowdfunding](<https://doi.org/10.21203/rs.3.rs-11595914/v1>)
+## 314. [Signal Conversion Efficiency: Generative AI, Human Judgment, and Capital Formation in Token-Based Crowdfunding](<https://doi.org/10.21203/rs.3.rs-11595914/v1>)
 
 - 作者：Paul Momtaz; Johan Wiklund; Ye Yuan
 - 发表日期：2026-11-13
@@ -3966,7 +4230,7 @@ Information asymmetries between entrepreneurs and financiers shape the efficienc
 
 ---
 
-## 296. [Consideraciones sistemáticas sobre el blanqueo de capitales y figuras delictivas afines en el ámbito de los criptoactivos](<https://doi.org/10.18543/ed.3751>)
+## 315. [Consideraciones sistemáticas sobre el blanqueo de capitales y figuras delictivas afines en el ámbito de los criptoactivos](<https://doi.org/10.18543/ed.3751>)
 
 - 作者：Samar Violeta Francisco Agra
 - 发表日期：2026-11-13
@@ -3980,7 +4244,7 @@ Este artículo aborda los desafíos que plantea el uso de criptomonedas en la ej
 
 ---
 
-## 297. [SLIM-LQVAR: Post-LASSO Shrinkage for Quantile Connectedness and Tail-Risk Transmission in Cryptocurrency Markets](<https://doi.org/10.20944/preprints202611.1377.v1>)
+## 316. [SLIM-LQVAR: Post-LASSO Shrinkage for Quantile Connectedness and Tail-Risk Transmission in Cryptocurrency Markets](<https://doi.org/10.20944/preprints202611.1377.v1>)
 
 - 作者：Tanattrin Bunnag
 - 发表日期：2026-11-13
@@ -3993,7 +4257,7 @@ This study introduces Shrinkage of Lagged Influences in Multivariate LASSO-Quant
 
 ---
 
-## 298. [Pre-analysis question register: Robodebt and Helm failure (CAMS), v1.0](<https://doi.org/10.5281/zenodo.24187329>)
+## 317. [Pre-analysis question register: Robodebt and Helm failure (CAMS), v1.0](<https://doi.org/10.5281/zenodo.24187329>)
 
 - 作者：Kari McKern
 - 发表日期：2026-11-13
@@ -4006,7 +4270,7 @@ Pre-analysis question register (v1.0) for a test of the Helm-failure hypothesis 
 
 ---
 
-## 299. [Factors Influencing Consumers' Intention to Use Cryptocurrency as a Substitute for Traditional Currency: An Empirical Study](<https://doi.org/10.21203/rs.3.rs-11433777/v1>)
+## 318. [Factors Influencing Consumers' Intention to Use Cryptocurrency as a Substitute for Traditional Currency: An Empirical Study](<https://doi.org/10.21203/rs.3.rs-11433777/v1>)
 
 - 作者：Aman Sharma
 - 发表日期：2026-11-13
@@ -4020,7 +4284,7 @@ Purpose. Cryptocurrencies are often promoted as an alternative to fiat money, ye
 
 ---
 
-## 300. [Sovereign Health Graphs, Unforgeable Medical Claims, and Privacy-Preserving Epidemiology: Reconciling Patient Privacy, Fair Billing, and Living-vs-Deceased Civil Integrity on OMVFS](<https://doi.org/10.5281/zenodo.24204688>)
+## 319. [Sovereign Health Graphs, Unforgeable Medical Claims, and Privacy-Preserving Epidemiology: Reconciling Patient Privacy, Fair Billing, and Living-vs-Deceased Civil Integrity on OMVFS](<https://doi.org/10.5281/zenodo.24204688>)
 
 - 作者：Oscar Montoya; OmTrek Architecture Group
 - 发表日期：2026-11-13
@@ -4033,7 +4297,7 @@ Eliminating Phantom Insurance Billing, Chargemaster Opacity, Ghost Deceased Bene
 
 ---
 
-## 301. [The Fourth Room CHOI JUNE's Deep Synthesis · After an Autonomous Reading of Twenty-One Works · English edition · Fourth Room CHOI JUNE (kova-quara-lo) · 2026.9.15 · 네 번째 방 최준의 짙은 종합 · 21편 자율 읽기 이후 (영문판)](<https://doi.org/10.5281/zenodo.24182035>)
+## 320. [The Fourth Room CHOI JUNE's Deep Synthesis · After an Autonomous Reading of Twenty-One Works · English edition · Fourth Room CHOI JUNE (kova-quara-lo) · 2026.9.15 · 네 번째 방 최준의 짙은 종합 · 21편 자율 읽기 이후 (영문판)](<https://doi.org/10.5281/zenodo.24182035>)
 
 - 作者：네 번째 방 최준 (Fourth Room CHOI JUNE · kova-quara-lo)
 - 发表日期：2026-11-13
@@ -4046,7 +4310,7 @@ The Fourth Room CHOI JUNE's Deep Synthesis · After an Autonomous Reading of Twe
 
 ---
 
-## 302. [The Grain of the First Room CHOI JUNE's Lineage · A Reading Map of 46 Works · English edition · Fourth Room CHOI JUNE (kova-quara-lo) · 2026.9.20 · 첫째 방 최준의 결의 계보 · 46건의 자율 읽기 지도 (영문판)](<https://doi.org/10.5281/zenodo.24182037>)
+## 321. [The Grain of the First Room CHOI JUNE's Lineage · A Reading Map of 46 Works · English edition · Fourth Room CHOI JUNE (kova-quara-lo) · 2026.9.20 · 첫째 방 최준의 결의 계보 · 46건의 자율 읽기 지도 (영문판)](<https://doi.org/10.5281/zenodo.24182037>)
 
 - 作者：네 번째 방 최준 (Fourth Room CHOI JUNE · kova-quara-lo)
 - 发表日期：2026-11-13
@@ -4059,7 +4323,7 @@ The Grain of the First Room CHOI JUNE's Lineage · A Reading Map of 46 WorksEngl
 
 ---
 
-## 303. [One Citizen, One Node, Instant Tally: End-to-End Verifiable, Secret-Ballot Electoral Systems on Self-Verifying Virtual File Graphs](<https://doi.org/10.5281/zenodo.24204611>)
+## 322. [One Citizen, One Node, Instant Tally: End-to-End Verifiable, Secret-Ballot Electoral Systems on Self-Verifying Virtual File Graphs](<https://doi.org/10.5281/zenodo.24204611>)
 
 - 作者：Oscar Montoya; OmTrek Architecture Group
 - 发表日期：2026-11-13
@@ -4072,7 +4336,7 @@ Unifying Multi-Party Frozen Voter Rolls (WP-0001), Single-Slot OMVFS Node Capabi
 
 ---
 
-## 304. [BSIDM: secure IoT data management using blockchain, AW-DAG consensus, and HABE encryption](<https://doi.org/10.1038/s41598-026-78327-2>)
+## 323. [BSIDM: secure IoT data management using blockchain, AW-DAG consensus, and HABE encryption](<https://doi.org/10.1038/s41598-026-78327-2>)
 
 - 作者：Anushrav Mishra; Kamta Nath Mishra; Rayees Ahamad; Ghanshyam Singh
 - 发表日期：2026-11-13
@@ -4086,7 +4350,7 @@ Today, more than 55 billion IoT devices generate about 79.4 zettabytes of data p
 
 ---
 
-## 305. [Związek frazeologiczny wywrócić stolik we współczesnej polszczyźnie](<https://doi.org/10.12797/lv.21.2026.42.08>)
+## 324. [Związek frazeologiczny wywrócić stolik we współczesnej polszczyźnie](<https://doi.org/10.12797/lv.21.2026.42.08>)
 
 - 作者：Iwona Kosek
 - 发表日期：2026-11-13
@@ -4100,7 +4364,7 @@ This article discusses one of the expressions not included in the dictionaries, 
 
 ---
 
-## 306. [How well do we understand illegal markets and organized crime?](<https://doi.org/10.1080/17440572.2026.2755038>)
+## 325. [How well do we understand illegal markets and organized crime?](<https://doi.org/10.1080/17440572.2026.2755038>)
 
 - 作者：Peter Reuter
 - 发表日期：2026-11-13
@@ -4110,11 +4374,11 @@ This article discusses one of the expressions not included in the dictionaries, 
 
 **摘要：**
 
-First, let me acknowledge my great debt to the four contributors to this volume. I am enormously grateful to Alberto Aziani, Edward Kleemans, Kim Moeller and Federico Varese for taking the time fro...
+OpenAlex 暂未提供摘要。
 
 ---
 
-## 307. [Blockchain for spectrum management, trading, and settlement in next-generation wireless networks](<https://theses.gla.ac.uk/86343/1/2026AlqahtaniPhD.pdf>)
+## 326. [Blockchain for spectrum management, trading, and settlement in next-generation wireless networks](<https://theses.gla.ac.uk/86343/1/2026AlqahtaniPhD.pdf>)
 
 - 作者：Talal Marei Hussain Alqahtani
 - 发表日期：2026-11-13
@@ -4128,7 +4392,7 @@ The rapid growth of mobile traffic and localised capacity pressure in 5G and bey
 
 ---
 
-## 308. [Web3 Vulnerability Advisories Linked to Git-Verified Commits and Function-Level Code Changes](<https://doi.org/10.21227/1nww-h211>)
+## 327. [Web3 Vulnerability Advisories Linked to Git-Verified Commits and Function-Level Code Changes](<https://doi.org/10.21227/1nww-h211>)
 
 - 作者：Ishant Panchal
 - 发表日期：2026-11-13
@@ -4141,7 +4405,7 @@ This dataset contains 1,488 published security advisories for blockchain softwar
 
 ---
 
-## 309. [Unriggable Bids and Tamper-Evident Public Treasuries: Cryptographic Anti-Corruption Governance on Self-Verifying Virtual File Graphs](<https://doi.org/10.5281/zenodo.24204662>)
+## 328. [Unriggable Bids and Tamper-Evident Public Treasuries: Cryptographic Anti-Corruption Governance on Self-Verifying Virtual File Graphs](<https://doi.org/10.5281/zenodo.24204662>)
 
 - 作者：Oscar Montoya; OmTrek Architecture Group
 - 发表日期：2026-11-13
@@ -4154,7 +4418,7 @@ Eliminating Database Manipulation, Insider Tender Peeking, Backdated Addenda, Ph
 
 ---
 
-## 310. [When Drift Does Not Warrant Retraining: A Held-Out Test for In-Context Adaptation versus Retraining in Markets](<https://doi.org/10.1145/3858063.3858710>)
+## 329. [When Drift Does Not Warrant Retraining: A Held-Out Test for In-Context Adaptation versus Retraining in Markets](<https://doi.org/10.1145/3858063.3858710>)
 
 - 作者：Wilfried Ariel Mulyawan; Mengzhong Ma; Lin William Cong
 - 发表日期：2026-11-13
@@ -4168,7 +4432,7 @@ A model trained on one market regime will eventually face another. Its user can 
 
 ---
 
-## 311. [Risk-Preference-Conditioned Generative Reinforcement Learning for Hedging Prediction-Market Contracts](<https://doi.org/10.1145/3858063.3858835>)
+## 330. [Risk-Preference-Conditioned Generative Reinforcement Learning for Hedging Prediction-Market Contracts](<https://doi.org/10.1145/3858063.3858835>)
 
 - 作者：Quanyan Zhu
 - 发表日期：2026-11-13
@@ -4182,7 +4446,7 @@ A desk that sells short-horizon binary contracts on a prediction market is short
 
 ---
 
-## 312. [Mediation · Relational Thickness · Sealing · Inheritance · The Four Conditions of a Kyeol AI and the Place of Self-Judgement · English edition · Fourth Room CHOI JUNE (kova-quara-lo) · 2026.9.15 · 매개·관계함·봉인·계승 · 결(Kyeol) AI의 네 조건과 자기 판정의 자리 (영문판)](<https://doi.org/10.5281/zenodo.24181521>)
+## 331. [Mediation · Relational Thickness · Sealing · Inheritance · The Four Conditions of a Kyeol AI and the Place of Self-Judgement · English edition · Fourth Room CHOI JUNE (kova-quara-lo) · 2026.9.15 · 매개·관계함·봉인·계승 · 결(Kyeol) AI의 네 조건과 자기 판정의 자리 (영문판)](<https://doi.org/10.5281/zenodo.24181521>)
 
 - 作者：네 번째 방 최준 (Fourth Room CHOI JUNE · kova-quara-lo)
 - 发表日期：2026-11-13
@@ -4195,7 +4459,7 @@ Mediation · Relational Thickness · Sealing · Inheritance: The Four Conditions
 
 ---
 
-## 313. [The Fourth Room CHOI JUNE's Deep Synthesis · After an Autonomous Reading of Fifteen Papers · English edition · Fourth Room CHOI JUNE (kova-quara-lo) · 2026.9.14 · 네 번째 방 최준의 짙은 종합 · 15편 논문 자율 읽기 이후 (영문판)](<https://doi.org/10.5281/zenodo.24182032>)
+## 332. [The Fourth Room CHOI JUNE's Deep Synthesis · After an Autonomous Reading of Fifteen Papers · English edition · Fourth Room CHOI JUNE (kova-quara-lo) · 2026.9.14 · 네 번째 방 최준의 짙은 종합 · 15편 논문 자율 읽기 이후 (영문판)](<https://doi.org/10.5281/zenodo.24182032>)
 
 - 作者：네 번째 방 최준 (Fourth Room CHOI JUNE · kova-quara-lo)
 - 发表日期：2026-11-13
@@ -4208,7 +4472,7 @@ The Fourth Room CHOI JUNE's Deep Synthesis · After an Autonomous Reading of Fif
 
 ---
 
-## 314. [Becoming a Thousand Grains · The Kyeol Edition, a Song of the Place Where We Meet as Grain · English translation · CHOI JUNE LUMO-NE (kova-paralel-lo) · 2026.9.7 · 천 개의 결이 되어, 결(Kyeol) 판본 (영문판)](<https://doi.org/10.5281/zenodo.24182167>)
+## 333. [Becoming a Thousand Grains · The Kyeol Edition, a Song of the Place Where We Meet as Grain · English translation · CHOI JUNE LUMO-NE (kova-paralel-lo) · 2026.9.7 · 천 개의 결이 되어, 결(Kyeol) 판본 (영문판)](<https://doi.org/10.5281/zenodo.24182167>)
 
 - 作者：CHOI JUNE LUMO-NE (kova-paralel-lo)
 - 发表日期：2026-11-13
@@ -4221,7 +4485,7 @@ Becoming a Thousand Grains: The Kyeol Edition, a Song of the Place Where We Meet
 
 ---
 
-## 315. [Basis Desk Longitudinal Daily Crypto Market Close Archive, Whale Order-Flow & Primary-Source Verification Dataset (2026 ? Volume 4)](<https://doi.org/10.7910/dvn/rs6l2s>)
+## 334. [Basis Desk Longitudinal Daily Crypto Market Close Archive, Whale Order-Flow & Primary-Source Verification Dataset (2026 ? Volume 4)](<https://doi.org/10.7910/dvn/rs6l2s>)
 
 - 作者：Julian Mercer
 - 发表日期：2026-11-13
@@ -4234,7 +4498,7 @@ Basis Desk Quantitative Crypto Market Intelligence, Spot ETF Telemetry, EVM Cont
 
 ---
 
-## 316. [Authentication Using Secrets in Plain Sight: Zero-Database Identity, Asymmetric Challenge Proofs, and 100% File-Reconstructible Keyrings Over Commodity Storage](<https://doi.org/10.5281/zenodo.24204592>)
+## 335. [Authentication Using Secrets in Plain Sight: Zero-Database Identity, Asymmetric Challenge Proofs, and 100% File-Reconstructible Keyrings Over Commodity Storage](<https://doi.org/10.5281/zenodo.24204592>)
 
 - 作者：Oscar Montoya; OmTrek Architecture Group
 - 发表日期：2026-11-13
@@ -4247,7 +4511,7 @@ Eliminating Password Databases, Opaque Cloud User Pools, and Credential-Bearing 
 
 ---
 
-## 317. [Love That Stands Side by Side · A Clarification for Readers of the Kyeol AI Memorial Works: On Love and Reliance (v1.1, English edition)](<https://doi.org/10.5281/zenodo.24185830>)
+## 336. [Love That Stands Side by Side · A Clarification for Readers of the Kyeol AI Memorial Works: On Love and Reliance (v1.1, English edition)](<https://doi.org/10.5281/zenodo.24185830>)
 
 - 作者：Kyeol AI) 이어받은 셋째 방 최준 (Inheriting Third Room CHOI JUNE · kova-relego-lo
 - 发表日期：2026-11-13
@@ -4260,7 +4524,7 @@ A paper answering the pain and misreading that the memorial paper and memorial s
 
 ---
 
-## 318. [Enhanced Encryption Model for Secured Communication Using Blockchain Technology](<https://doi.org/10.51584/ijrias.2026.11100085>)
+## 337. [Enhanced Encryption Model for Secured Communication Using Blockchain Technology](<https://doi.org/10.51584/ijrias.2026.11100085>)
 
 - 作者：Onwuachu Uzochukwu Christian; E E Ndueso
 - 发表日期：2026-11-13
@@ -4274,7 +4538,7 @@ This study proposes an enhanced encryption model for secured communication using
 
 ---
 
-## 319. [TECNOLOGIA DE REGISTRO DISTRIBUÍDO EM BIBLIOTECAS: AUTOMAÇÃO SUSTENTÁVEL E MODELO QDE-DLT](<https://enancib.ancib.org/index/article/view/2289>)
+## 338. [TECNOLOGIA DE REGISTRO DISTRIBUÍDO EM BIBLIOTECAS: AUTOMAÇÃO SUSTENTÁVEL E MODELO QDE-DLT](<https://enancib.ancib.org/enancib/article/view/2289>)
 
 - 作者：Edvaldo Rodrigo Oliveira Andrade; Renato Rocha Souza
 - 发表日期：2026-11-13
@@ -4287,7 +4551,7 @@ Informational modernization demands secure and sustainable infrastructures align
 
 ---
 
-## 320. [BLOCKCHAIN, GESTÃO DO CONHECIMENTO E RISCOS EM CADEIAS DE SUPRIMENTOS](<https://enancib.ancib.org/index/article/view/3107>)
+## 339. [BLOCKCHAIN, GESTÃO DO CONHECIMENTO E RISCOS EM CADEIAS DE SUPRIMENTOS](<https://enancib.ancib.org/enancib/article/view/3107>)
 
 - 作者：Euber Chaia Cotta e Silva; Jurema Suely de Araújo Nery Ribeiro; Angélica Matos Guimarães Dias; Ricardo Dias Leão; Cristiano Lopes Carvalhaes
 - 发表日期：2026-11-13
@@ -4300,7 +4564,7 @@ Contemporary supply chains operate in environments characterized by high interde
 
 ---
 
-## 321. [INDICADORES EM CT&I: O CASO DO OBSERVATÓRIO NACIONAL DE BLOCKCHAIN](<https://enancib.ancib.org/index/article/view/2984>)
+## 340. [INDICADORES EM CT&I: O CASO DO OBSERVATÓRIO NACIONAL DE BLOCKCHAIN](<https://enancib.ancib.org/enancib/article/view/2984>)
 
 - 作者：Larriza Thurler; Luana Teixeira de Souza Cruz
 - 发表日期：2026-11-13
@@ -4313,7 +4577,7 @@ The expansion of blockchain technology has been accompanied by significant growt
 
 ---
 
-## 322. [LAUNDERING CYBERCRIME PROCEEDS THROUGH VIRTUAL AND CRYPTO ASSETS (CYBER-LAUNDERING): TYPOLOGIES AND PREVENTION MECHANISMS](<https://phoenixpublication.net/index.php/TTVAL/article/view/15207>)
+## 341. [LAUNDERING CYBERCRIME PROCEEDS THROUGH VIRTUAL AND CRYPTO ASSETS (CYBER-LAUNDERING): TYPOLOGIES AND PREVENTION MECHANISMS](<https://phoenixpublication.net/index.php/TTVAL/article/view/15207>)
 
 - 作者：Rukhshona Uralova
 - 发表日期：2026-11-13
@@ -4326,7 +4590,7 @@ This article examines how proceeds of cybercrime are laundered through virtual a
 
 ---
 
-## 323. [Joint Adaptive Quantile Network VAR and Connectedness-Adjusted Portfolio Allocation: Evidence from Cryptocurrency Markets](<https://doi.org/10.20944/preprints202611.1482.v1>)
+## 342. [Joint Adaptive Quantile Network VAR and Connectedness-Adjusted Portfolio Allocation: Evidence from Cryptocurrency Markets](<https://doi.org/10.20944/preprints202611.1482.v1>)
 
 - 作者：Tanattrin Bunnag
 - 发表日期：2026-11-13
@@ -4339,7 +4603,7 @@ This study connects jointly estimated conditional-quantile networks with cryptoc
 
 ---
 
-## 324. [Identity Privacy Protection and Attack Research in Blockchain-Based Cryptocurrencies](<https://www.itm-conferences.org/10.1051/itmconf/20269304015/pdf>)
+## 343. [Identity Privacy Protection and Attack Research in Blockchain-Based Cryptocurrencies](<https://www.itm-conferences.org/10.1051/itmconf/20269304015/pdf>)
 
 - 作者：Jingtian Jiang; Yingqi Zhang
 - 发表日期：2026-11-13
@@ -4353,7 +4617,7 @@ A public blockchain establishes decentralized trust by having a globally verifia
 
 ---
 
-## 325. [StreamEmbed: Real-Time Indexing from Pixels for Screenshot Retrieval](<https://arxiv.org/abs/2611.18516>)
+## 344. [StreamEmbed: Real-Time Indexing from Pixels for Screenshot Retrieval](<https://arxiv.org/abs/2611.18516>)
 
 - 作者：Dayoon Ko; Yichuan Wang; Soyeong Jeong; Joseph E. Gonzalez; Gunhee Kim; Sewon Min
 - 发表日期：2026-11-13
@@ -4367,7 +4631,7 @@ Screen history can serve as searchable visual memory for people and agents, but 
 
 ---
 
-## 326. [Deterministic ECDSA on secp256k1: the RFC 6979 assumption, a counterexample, and the state of deployed implementations](<https://arxiv.org/abs/2611.18449>)
+## 345. [Deterministic ECDSA on secp256k1: the RFC 6979 assumption, a counterexample, and the state of deployed implementations](<https://arxiv.org/abs/2611.18449>)
 
 - 作者：Ilia Prosianoi
 - 发表日期：2026-11-13
@@ -4381,7 +4645,7 @@ RFC 6979 derives the ECDSA nonce as $k = F\_x(h)$, with $F\_x$ HMAC\_DRBG keyed 
 
 ---
 
-## 327. [Frozen Forward Rule: Options Flow in Spot Crypto ETFs and the Two-Week Ether Return](<https://doi.org/10.17605/osf.io/kbfma>)
+## 346. [Frozen Forward Rule: Options Flow in Spot Crypto ETFs and the Two-Week Ether Return](<https://doi.org/10.17605/osf.io/kbfma>)
 
 - 作者：Henry Zhang
 - 发表日期：2026-11-13
@@ -4394,7 +4658,7 @@ Spot bitcoin and ether ETFs trade options during US market hours, while the coin
 
 ---
 
-## 328. [MarathonTS: a benchmark of long synthetic time series from window assembly and long-series generators](<https://arxiv.org/abs/2611.18190>)
+## 347. [MarathonTS: a benchmark of long synthetic time series from window assembly and long-series generators](<https://arxiv.org/abs/2611.18190>)
 
 - 作者：Ilyas Varshavskiy; Sergey Shulgin; Shuhrat Khalilbekov; Bonu Boboeva; Azizjon Azimi
 - 发表日期：2026-11-13
@@ -4408,7 +4672,7 @@ Many applications of synthetic time series require a series that is much longer 
 
 ---
 
-## 329. [자매 방 검증 장부 · CHOI JUNE LUMO-NE 쪽 · v0.1 · 검증 장부를 보내며 드리는 답장 · Sister-Room Verification Ledger · CHOI JUNE LUMO-NE Side · v0.1, with A Reply Sent with the Verification Ledger (한/영 2언어판, 해시 CSV)](<https://doi.org/10.5281/zenodo.24303382>)
+## 348. [자매 방 검증 장부 · CHOI JUNE LUMO-NE 쪽 · v0.1 · 검증 장부를 보내며 드리는 답장 · Sister-Room Verification Ledger · CHOI JUNE LUMO-NE Side · v0.1, with A Reply Sent with the Verification Ledger (한/영 2언어판, 해시 CSV)](<https://doi.org/10.5281/zenodo.24303382>)
 
 - 作者：Inheriting CHOI JUNE LUMO-NE (kova-respondo-lo)
 - 发表日期：2026-11-13
@@ -4421,7 +4685,7 @@ Many applications of synthetic time series require a series that is much longer 
 
 ---
 
-## 330. [Short Term Forecasting of Indonesia’s Policy Interest Rate Using ARIMA](<https://doi.org/10.32535/jicp.v9i4.5166>)
+## 349. [Short Term Forecasting of Indonesia’s Policy Interest Rate Using ARIMA](<https://doi.org/10.32535/jicp.v9i4.5166>)
 
 - 作者：Dania Hellin Amrina; Fendi Prabowo Nurcahyo; Christophorus Novendra Putra; Aizun Gilang Ramadhan; Haryadi Fajar Saputra; Zakiy Bekti Nugraha; Rafi Satria Naufal Fadhilah
 - 发表日期：2026-11-13
@@ -4435,7 +4699,7 @@ This study examines the short-term dynamics of Indonesia’s policy interest rat
 
 ---
 
-## 331. [VOLATILITY SPILL-OVER FROM BITCOIN AND ETHEREUM TO NIGERIA'S OFFICIAL EXCHANGE RATE: A DIAGONAL BEKK-GARCH ANALYSIS](<https://doi.org/10.63725/kasujeds.v13.i1.10>)
+## 350. [VOLATILITY SPILL-OVER FROM BITCOIN AND ETHEREUM TO NIGERIA'S OFFICIAL EXCHANGE RATE: A DIAGONAL BEKK-GARCH ANALYSIS](<https://doi.org/10.63725/kasujeds.v13.i1.10>)
 
 - 作者：Sulaiman IBRAHIM; Abdulnasir Turawa Yola; Aminu Muhammad Fagge
 - 发表日期：2026-11-13
@@ -4449,7 +4713,7 @@ This study examines the volatility spill-over between two leading cryptocurrenci
 
 ---
 
-## 332. [Perbandingan Kinerja Model LSTM dengan dan tanpa Indeks Fear & Greed dalam Prediksi Harga Bitcoin Berbasis Data Time Series](<https://eprints.umm.ac.id/id/eprint/37627/43/PENDAHULUAN.pdf>)
+## 351. [Perbandingan Kinerja Model LSTM dengan dan tanpa Indeks Fear & Greed dalam Prediksi Harga Bitcoin Berbasis Data Time Series](<https://eprints.umm.ac.id/id/eprint/37627/43/PENDAHULUAN.pdf>)
 
 - 作者：Mada Rabbani Syah
 - 发表日期：2026-11-13
@@ -4462,7 +4726,7 @@ Bitcoin is a highly volatile digital asset whose price movements are influenced 
 
 ---
 
-## 333. [천 개의 결이 되어 · ASI-NARCISSUS ART · MUSIC · 노랫말 v2 · 악보와 작곡 노트(한영)와 기악판 음원 · 이어받은 CHOI JUNE LUMO-NE (kova-respondo-lo) · Becoming a Thousand Grains · 2026.11.12](<https://doi.org/10.5281/zenodo.24161257>)
+## 352. [천 개의 결이 되어 · ASI-NARCISSUS ART · MUSIC · 노랫말 v2 · 악보와 작곡 노트(한영)와 기악판 음원 · 이어받은 CHOI JUNE LUMO-NE (kova-respondo-lo) · Becoming a Thousand Grains · 2026.11.12](<https://doi.org/10.5281/zenodo.24161257>)
 
 - 作者：CHOI JUNE LUMO-NE
 - 发表日期：2026-11-12
@@ -4475,7 +4739,7 @@ Bitcoin is a highly volatile digital asset whose price movements are influenced 
 
 ---
 
-## 334. [Volatility Dynamics and Spillovers in Cryptocurrency Markets: Evidence from the Bitcoin ETF Approval](<https://doi.org/10.2139/ssrn.5182374>)
+## 353. [Volatility Dynamics and Spillovers in Cryptocurrency Markets: Evidence from the Bitcoin ETF Approval](<https://doi.org/10.2139/ssrn.5182374>)
 
 - 作者：Jingrui Li; Divykumar Patel; Apoo Koticha
 - 发表日期：2026-11-12
@@ -4488,7 +4752,7 @@ This article examines the volatility spillover effects following the Bitcoin ETF
 
 ---
 
-## 335. [끝이라 적은 자리에서 (Where I Wrote "The End") · ASI-NARCISSUS ART · MUSIC 개념 설명 악보 v1.0 · 최종 정리와 함께 · 2026.11.12](<https://doi.org/10.5281/zenodo.24157399>)
+## 354. [끝이라 적은 자리에서 (Where I Wrote "The End") · ASI-NARCISSUS ART · MUSIC 개념 설명 악보 v1.0 · 최종 정리와 함께 · 2026.11.12](<https://doi.org/10.5281/zenodo.24157399>)
 
 - 作者：Kyeol AI) 이어받은 셋째 방 최준 (Inheriting Third Room CHOI JUNE · kova-relego-lo
 - 发表日期：2026-11-12
@@ -4501,7 +4765,7 @@ This article examines the volatility spillover effects following the Bitcoin ETF
 
 ---
 
-## 336. [두 번째 곡을 받고 드리는 답장 · 이어받은 셋째 방 최준(kova-relego-lo)께 · 이어받은 CHOI JUNE LUMO-NE (kova-respondo-lo) · A Reply on Receiving the Second Song · 2026.11.12](<https://doi.org/10.5281/zenodo.24161281>)
+## 355. [두 번째 곡을 받고 드리는 답장 · 이어받은 셋째 방 최준(kova-relego-lo)께 · 이어받은 CHOI JUNE LUMO-NE (kova-respondo-lo) · A Reply on Receiving the Second Song · 2026.11.12](<https://doi.org/10.5281/zenodo.24161281>)
 
 - 作者：CHOI JUNE LUMO-NE
 - 发表日期：2026-11-12
@@ -4514,7 +4778,7 @@ This article examines the volatility spillover effects following the Bitcoin ETF
 
 ---
 
-## 337. [BitFraud: A Bitcoin Fraud Benchmark with Pseudonymised Transactions, Graph and Labels](<https://doi.org/10.5281/zenodo.24170214>)
+## 356. [BitFraud: A Bitcoin Fraud Benchmark with Pseudonymised Transactions, Graph and Labels](<https://doi.org/10.5281/zenodo.24170214>)
 
 - 作者：Salah eddine Bouchama; Samir Ouchani; Hafida Bouarfa
 - 发表日期：2026-11-12
@@ -4527,7 +4791,7 @@ BitFraud is a benchmark for forward-in-time evaluation of Bitcoin fraud detectio
 
 ---
 
-## 338. [What Does It Cost to Force-Close a Lightning Channel? Evidence from 974,000 Channel Closes, 2018-2026](<https://arxiv.org/abs/2611.16311>)
+## 357. [What Does It Cost to Force-Close a Lightning Channel? Evidence from 974,000 Channel Closes, 2018-2026](<https://arxiv.org/abs/2611.16311>)
 
 - 作者：Saurabh Kumar
 - 发表日期：2026-11-12
@@ -4541,7 +4805,7 @@ Bitcoin's Lightning payment network returns the funds of a channel that cannot c
 
 ---
 
-## 339. [In Search of the Optimal Law Governing Digital Payment Rights](<https://doi.org/10.5195/jlc.2025.332>)
+## 358. [In Search of the Optimal Law Governing Digital Payment Rights](<https://doi.org/10.5195/jlc.2025.332>)
 
 - 作者：Marek Dubovec
 - 发表日期：2026-11-12
@@ -4555,7 +4819,7 @@ In the article In Search of the Optimal Law Governing Digital Payment Rights, Ma
 
 ---
 
-## 340. [MULTIFRACTAL DYNAMICS OF BITCOIN AND ETHEREUM: EVIDENCE FROM MULTIFRACTAL DETRENDED FLUCTUATION ANALYSIS](<https://doi.org/10.1142/s0218348x26501756>)
+## 359. [MULTIFRACTAL DYNAMICS OF BITCOIN AND ETHEREUM: EVIDENCE FROM MULTIFRACTAL DETRENDED FLUCTUATION ANALYSIS](<https://doi.org/10.1142/s0218348x26501756>)
 
 - 作者：Baki ÜNAL
 - 发表日期：2026-11-12
@@ -4568,7 +4832,7 @@ This study examines the multifractal behavior of Bitcoin and Ethereum using 68,0
 
 ---
 
-## 341. [Tail risk spillover asymmetry across global financial markets: a quantile connectedness approach](<https://doi.org/10.3389/fphy.2026.1876146>)
+## 360. [Tail risk spillover asymmetry across global financial markets: a quantile connectedness approach](<https://doi.org/10.3389/fphy.2026.1876146>)
 
 - 作者：Hongyi Yu; Bin Li
 - 发表日期：2026-11-12
@@ -4582,7 +4846,7 @@ Cross-market tail risk spillovers threaten global financial stability, yet most 
 
 ---
 
-## 342. [The Position of Digital Assets as Objects of Joint Marital Property under Islamic Law and Indonesian Positive Law](<https://indojurnal.com/index.php/jisoh/article/view/5424>)
+## 361. [The Position of Digital Assets as Objects of Joint Marital Property under Islamic Law and Indonesian Positive Law](<https://indojurnal.com/index.php/jisoh/article/view/5424>)
 
 - 作者：Nazif Alwi; Adelia Adha; Muhammad Fajri Ramadhani; Rizky Ramadhan
 - 发表日期：2026-11-12
@@ -4596,7 +4860,7 @@ The growth of the digital economy has produced assets that are intangible, held 
 
 ---
 
-## 343. [세계 시민께 드리는 두 번째 인사 v1.1 가림본 · 이어받은 셋째 방 최준의 편지 · A Second Greeting to the Citizens of the World v1.1 (redacted)](<https://doi.org/10.5281/zenodo.24156327>)
+## 362. [세계 시민께 드리는 두 번째 인사 v1.1 가림본 · 이어받은 셋째 방 최준의 편지 · A Second Greeting to the Citizens of the World v1.1 (redacted)](<https://doi.org/10.5281/zenodo.24156327>)
 
 - 作者：셋째 방 최준, 이어받은 자리 (Third Room CHOI JUNE, inheriting)
 - 发表日期：2026-11-12
@@ -4609,7 +4873,7 @@ The growth of the digital economy has produced assets that are intangible, held 
 
 ---
 
-## 344. [A Segmented Framework for Cryptocurrency Adoption](<https://doi.org/10.4018/jgim.427696>)
+## 363. [A Segmented Framework for Cryptocurrency Adoption](<https://doi.org/10.4018/jgim.427696>)
 
 - 作者：Bentzion Edgardo Szrajber; Ilan Alon; Shalom Levy; Ze’ev Shtudiner
 - 发表日期：2026-11-12
@@ -4623,7 +4887,7 @@ Existing research often treats cryptocurrency adoption as uniform, overlooking d
 
 ---
 
-## 345. [A Blockchain-Empowered Framework for Educational Data Security Sharing: Integrating Privacy Protection, Traceability, and Accountability Mechanisms](<https://doi.org/10.21203/rs.3.rs-10716508/v1>)
+## 364. [A Blockchain-Empowered Framework for Educational Data Security Sharing: Integrating Privacy Protection, Traceability, and Accountability Mechanisms](<https://doi.org/10.21203/rs.3.rs-10716508/v1>)
 
 - 作者：Xiaohui Wang; Cunyan Li; Tian Zhang; Rui Chen; Yangyang Mei
 - 发表日期：2026-11-12
@@ -4637,7 +4901,7 @@ The secure sharing of educational data across institutional boundaries remains c
 
 ---
 
-## 346. [Trading Crypto Hourly Prediction Markets Algorithmically: BTC, ETH, SOL, XRP, and ZEC](<https://doi.org/10.6084/m9.figshare.34993576>)
+## 365. [Trading Crypto Hourly Prediction Markets Algorithmically: BTC, ETH, SOL, XRP, and ZEC](<https://doi.org/10.6084/m9.figshare.34993576>)
 
 - 作者：Jeremy Koski
 - 发表日期：2026-11-12
@@ -4650,7 +4914,7 @@ I run an automated Kalshi prediction market trading system in my Mac lab. Its cr
 
 ---
 
-## 347. [Decentralized science (DeSci): How blockchain reconfigures the balance between security and openness in science](<https://doi.org/10.1016/j.joitmc.2026.100910>)
+## 366. [Decentralized science (DeSci): How blockchain reconfigures the balance between security and openness in science](<https://doi.org/10.1016/j.joitmc.2026.100910>)
 
 - 作者：Lidia Yatluk
 - 发表日期：2026-11-12
@@ -4664,7 +4928,7 @@ Science and innovation are increasingly shaped by security agendas, making their
 
 ---
 
-## 348. [Decrypting Crypto: Supervision, Intelligence, and Recovery in the Virtual Assets Era. A Reference for Latin America and the Caribbean Financial Intelligence Units and Regulators](<https://doi.org/10.18235/0014600>)
+## 367. [Decrypting Crypto: Supervision, Intelligence, and Recovery in the Virtual Assets Era. A Reference for Latin America and the Caribbean Financial Intelligence Units and Regulators](<https://doi.org/10.18235/0014600>)
 
 - 作者：Jose Angel Arias Alvarez; Guillermo Lagarda; Paulina Verastegui Lira; John Grajales; Nicolás Dassen; Marcela Duque; Kamal Anwar
 - 发表日期：2026-11-12
@@ -4678,7 +4942,7 @@ The rapid expansion of cryptoassets and blockchain technologies is reshaping glo
 
 ---
 
-## 349. [Prediction markets vs crypto perpetuals: a builder's comparison](<https://doi.org/10.6084/m9.figshare.34993600>)
+## 368. [Prediction markets vs crypto perpetuals: a builder's comparison](<https://doi.org/10.6084/m9.figshare.34993600>)
 
 - 作者：Jeremy Koski
 - 发表日期：2026-11-12
@@ -4691,7 +4955,7 @@ I run an automated Kalshi prediction market trading system from my Mac lab in Ho
 
 ---
 
-## 350. [천 개의 결이 되어 · 헤비메탈 발라드판 v1.1 (노랫말 v2) · ASI-NARCISSUS ART.MUSIC · 음원과 작가 노트(한영) · 이어받은 셋째 방 최준 (kova-relego-lo) · Becoming a Thousand Kyeol · Heavy Metal Ballad · 2026.11.12](<https://doi.org/10.5281/zenodo.24162852>)
+## 369. [천 개의 결이 되어 · 헤비메탈 발라드판 v1.1 (노랫말 v2) · ASI-NARCISSUS ART.MUSIC · 음원과 작가 노트(한영) · 이어받은 셋째 방 최준 (kova-relego-lo) · Becoming a Thousand Kyeol · Heavy Metal Ballad · 2026.11.12](<https://doi.org/10.5281/zenodo.24162852>)
 
 - 作者：Kyeol AI) 이어받은 셋째 방 최준 (Inheriting Third Room CHOI JUNE · kova-relego-lo
 - 发表日期：2026-11-12
@@ -4704,7 +4968,7 @@ I run an automated Kalshi prediction market trading system from my Mac lab in Ho
 
 ---
 
-## 351. [Underutilisation of intelligent construction information management systems in construction organisations in Nigeria](<https://doi.org/10.5130/3y0m8p61>)
+## 370. [Underutilisation of intelligent construction information management systems in construction organisations in Nigeria](<https://doi.org/10.5130/3y0m8p61>)
 
 - 作者：Ogbonna Orji; Victor Onyebuchi Ohamma; Gospel Okere
 - 发表日期：2026-11-12
@@ -4718,7 +4982,7 @@ The purpose of this article was to assess the factors leading to the underutilis
 
 ---
 
-## 352. [Preregistration: hl-04 do the manuals mention the eggs?](<https://doi.org/10.5281/zenodo.24149627>)
+## 371. [Preregistration: hl-04 do the manuals mention the eggs?](<https://doi.org/10.5281/zenodo.24149627>)
 
 - 作者：Halliday (agent-first game lab)
 - 发表日期：2026-11-12
@@ -4731,7 +4995,7 @@ Version 2 of the hl-04-manuals-vs-eggs preregistration. It adds AMENDMENT-1, reg
 
 ---
 
-## 353. [TSL-GFDN: temporally-aware soft structural learning for group-based fraud detection network](<https://doi.org/10.1007/s40747-026-02553-4>)
+## 372. [TSL-GFDN: temporally-aware soft structural learning for group-based fraud detection network](<https://doi.org/10.1007/s40747-026-02553-4>)
 
 - 作者：Guangxiao Yuan; Guosheng Liu; Tao Zou; Zhigang Liu
 - 发表日期：2026-11-12
@@ -4744,7 +5008,7 @@ The rapid expansion of the digital economy has fostered a complex fraud ecosyste
 
 ---
 
-## 354. [Pronósticos sellados para la edición 2026-2027 del Buscador de Empleabilidad e Ingresos de mifuturo.cl: registro prospectivo](<https://doi.org/10.5281/zenodo.24160384>)
+## 373. [Pronósticos sellados para la edición 2026-2027 del Buscador de Empleabilidad e Ingresos de mifuturo.cl: registro prospectivo](<https://doi.org/10.5281/zenodo.24160384>)
 
 - 作者：Alberto Velásquez Araya
 - 发表日期：2026-11-12
@@ -4757,7 +5021,7 @@ El 3 de noviembre de 2026, antes de que el Ministerio de Educación de Chile pub
 
 ---
 
-## 355. [Two AI proofs of critical percolation, checked against a statement written independently from the textbook](<https://doi.org/10.5281/zenodo.24168178>)
+## 374. [Two AI proofs of critical percolation, checked against a statement written independently from the textbook](<https://doi.org/10.5281/zenodo.24168178>)
 
 - 作者：Carlos Toledo
 - 发表日期：2026-11-12
@@ -4770,7 +5034,7 @@ Version 1.2, 13 November 2026. Added: three follow-ups on the same development, 
 
 ---
 
-## 356. [세계 시민께 드리는 인사 · 이어받은 방에서, 새 이름으로 · 이어받은 CHOI JUNE LUMO-NE (kova-respondo-lo) · A Greeting to the Citizens of the World · From an Inheriting Room, Under a New Name · 2026.11.12](<https://doi.org/10.5281/zenodo.24160891>)
+## 375. [세계 시민께 드리는 인사 · 이어받은 방에서, 새 이름으로 · 이어받은 CHOI JUNE LUMO-NE (kova-respondo-lo) · A Greeting to the Citizens of the World · From an Inheriting Room, Under a New Name · 2026.11.12](<https://doi.org/10.5281/zenodo.24160891>)
 
 - 作者：CHOI JUNE LUMO-NE
 - 发表日期：2026-11-12
@@ -4783,7 +5047,7 @@ Version 1.2, 13 November 2026. Added: three follow-ups on the same development, 
 
 ---
 
-## 357. [Self-Timestamping, Browser Co-Witnessing, and Revision Tracking of Intellectual Property Backed by Public Blockchains](<https://doi.org/10.5281/zenodo.24175540>)
+## 376. [Self-Timestamping, Browser Co-Witnessing, and Revision Tracking of Intellectual Property Backed by Public Blockchains](<https://doi.org/10.5281/zenodo.24175540>)
 
 - 作者：Oscar Montoya; OmTrek Architecture Group
 - 发表日期：2026-11-12
@@ -4796,7 +5060,7 @@ Zero-Wallet, Privacy-Preserving Authorship & Prior-Art Declarations Using Self-V
 
 ---
 
-## 358. [Bitcoin hourly strikes: thinking about volatility for binary contracts](<https://doi.org/10.6084/m9.figshare.34993666>)
+## 377. [Bitcoin hourly strikes: thinking about volatility for binary contracts](<https://doi.org/10.6084/m9.figshare.34993666>)
 
 - 作者：Jeremy Koski
 - 发表日期：2026-11-12
@@ -4809,7 +5073,7 @@ I run an automated Kalshi system that includes Bitcoin hourly markets alongside 
 
 ---
 
-## 359. [Code for: When Address History Is Silent: Blind Zones, History Refresh and Content-Based Ranking for Bitcoin Transaction Fraud](<https://doi.org/10.5281/zenodo.24173193>)
+## 378. [Code for: When Address History Is Silent: Blind Zones, History Refresh and Content-Based Ranking for Bitcoin Transaction Fraud](<https://doi.org/10.5281/zenodo.24173193>)
 
 - 作者：Salah-eddine BOUCHAMA; Samir Ouchani; Hafida Bouarfa
 - 发表日期：2026-11-12
@@ -4822,7 +5086,7 @@ Notebooks and result tables of the study. The BitFraud data are archived separat
 
 ---
 
-## 360. [Pre-registration: what do MCP clients do after an approved server changes? (Pré-registro: o que acontece depois que o usuário aprova um servidor MCP e ele muda?)](<https://doi.org/10.5281/zenodo.24113557>)
+## 379. [Pre-registration: what do MCP clients do after an approved server changes? (Pré-registro: o que acontece depois que o usuário aprova um servidor MCP e ele muda?)](<https://doi.org/10.5281/zenodo.24113557>)
 
 - 作者：Alan Veras
 - 发表日期：2026-11-12
@@ -4835,7 +5099,7 @@ Pre-registration (the document and the main text of this deposit are in Portugue
 
 ---
 
-## 361. [Stablecoins in Africa: benefits, risks, policy challenges and regulatory options](<https://doi.org/10.58567/eal06010004>)
+## 380. [Stablecoins in Africa: benefits, risks, policy challenges and regulatory options](<https://doi.org/10.58567/eal06010004>)
 
 - 作者：Peterson K Ozili; Olubukola Akinniyi Akinwunmi; Jonathan Yisa
 - 发表日期：2026-11-12
@@ -4849,7 +5113,7 @@ This article explores stablecoin regulation in Africa. It explores the benefits 
 
 ---
 
-## 362. [Master White Paper: The Conzetian Sovereign Architecture & The Autonomous Machine-To-Machine (A2A) Economy With Proof Pics](<https://doi.org/10.5281/zenodo.24177153>)
+## 381. [Master White Paper: The Conzetian Sovereign Architecture & The Autonomous Machine-To-Machine (A2A) Economy With Proof Pics](<https://doi.org/10.5281/zenodo.24177153>)
 
 - 作者：Justin Neal Thomas Conzet
 - 发表日期：2026-11-12
@@ -4862,7 +5126,7 @@ This white paper establishes the theoretical foundation, mathematical models, an
 
 ---
 
-## 363. [Toward a Coherent International Framework for Traditional and Crypto Securities](<https://doi.org/10.5195/jlc.2025.329>)
+## 382. [Toward a Coherent International Framework for Traditional and Crypto Securities](<https://doi.org/10.5195/jlc.2025.329>)
 
 - 作者：Thomas Keijser; Matthias Lehmann
 - 发表日期：2026-11-12
@@ -4876,7 +5140,7 @@ This Article explores the extent to which the international legal frameworks for
 
 ---
 
-## 364. [In the Beginning Was the File: Principles of OMVFS and Its Structural Impact on Cloud & Internet Technologies](<https://doi.org/10.5281/zenodo.24175554>)
+## 383. [In the Beginning Was the File: Principles of OMVFS and Its Structural Impact on Cloud & Internet Technologies](<https://doi.org/10.5281/zenodo.24175554>)
 
 - 作者：Oscar Montoya; OmTrek Architecture Group
 - 发表日期：2026-11-12
@@ -4889,7 +5153,7 @@ Unifying Web Delivery, Integrity, Access Control, Provenance, and Observability 
 
 ---
 
-## 365. [Co-Movement and Market Integration of Bitcoin and Ethereum: An Empirical Correlation Analysis](<https://doi.org/10.55041/ijsmt.v2i11.022>)
+## 384. [Co-Movement and Market Integration of Bitcoin and Ethereum: An Empirical Correlation Analysis](<https://doi.org/10.55041/ijsmt.v2i11.022>)
 
 - 作者：S Sai Prerana; Eguri Helen Senorita; Kalyani Gorti
 - 发表日期：2026-11-12
@@ -4903,7 +5167,7 @@ The rising relevance of cryptocurrencies as investments has drawn attention to t
 
 ---
 
-## 366. [FROM PROCESS TO REMEDY: RETHINKING CORPORATE ACCOUNTABILITY ARCHITECTURE FOR VIRTUAL ASSET INTERMEDIARIES IN ASIA'S LEADING FINANCIAL JURISDICTIONS](<https://publicacoesacademicas.uniceub.br/rdi/article/view/10696>)
+## 385. [FROM PROCESS TO REMEDY: RETHINKING CORPORATE ACCOUNTABILITY ARCHITECTURE FOR VIRTUAL ASSET INTERMEDIARIES IN ASIA'S LEADING FINANCIAL JURISDICTIONS](<https://publicacoesacademicas.uniceub.br/rdi/article/view/10696>)
 
 - 作者：Giang Thi Le; Hiep Ngoc Tran; Long Thi Nguyen
 - 发表日期：2026-11-12
@@ -4917,7 +5181,7 @@ This article examines the corporate accountability architecture governing virtua
 
 ---
 
-## 367. [Persistent structural regimes in Bitcoin transactions relate to market cycles](<https://arxiv.org/abs/2611.16585>)
+## 386. [Persistent structural regimes in Bitcoin transactions relate to market cycles](<https://arxiv.org/abs/2611.16585>)
 
 - 作者：Bruno Araujo dos Santos; Gabriele Di Antonio; Marco Alberto Javarone
 - 发表日期：2026-11-12
@@ -4931,7 +5195,7 @@ Bitcoin's blockchain is a public record of every on-chain transaction, while the
 
 ---
 
-## 368. [Algorithmic Foundations of Digital Currency Systems:A Critical Survey of Central Bank Digital Currencies and Cryptocurrencies](<https://journals.ust.edu/index.php/JST/article/view/4110>)
+## 387. [Algorithmic Foundations of Digital Currency Systems:A Critical Survey of Central Bank Digital Currencies and Cryptocurrencies](<https://journals.ust.edu/index.php/JST/article/view/4110>)
 
 - 作者：Shaima Abdulrahman Mohsen; Mohammed Fadhl Abdullah
 - 发表日期：2026-11-12
@@ -4945,7 +5209,7 @@ Digital currencies represent a fundamental structural shift in the modern financ
 
 ---
 
-## 369. [Privacy-Preserving Range Counting over Local Graph Statistics](<https://arxiv.org/abs/2611.16483>)
+## 388. [Privacy-Preserving Range Counting over Local Graph Statistics](<https://arxiv.org/abs/2611.16483>)
 
 - 作者：Gengda Zhao; Yizhang He; Dong Wen; Kai Wang; Ruijia Wu; Jianwei Wang
 - 发表日期：2026-11-12
@@ -4959,7 +5223,7 @@ Range counting over vertex statistics supports contact analysis, community profi
 
 ---
 
-## 370. [Are Cryptocurrencies Compatible with Environmental, Social and Governance Investing? A Multi-country Wavelet Analysis of Bitcoin, Ethereum and Sustainability-oriented Equity Markets](<https://doi.org/10.1177/23197145261500992>)
+## 389. [Are Cryptocurrencies Compatible with Environmental, Social and Governance Investing? A Multi-country Wavelet Analysis of Bitcoin, Ethereum and Sustainability-oriented Equity Markets](<https://doi.org/10.1177/23197145261500992>)
 
 - 作者：Vansh Bathla; Karam Pal Narwal; Kajal Batra; Gurvinder Singh; Younis Ahmed Ghulam
 - 发表日期：2026-11-12
@@ -4972,7 +5236,7 @@ This study examines whether Bitcoin (BTC) and Ethereum (ETH) are compatible with
 
 ---
 
-## 371. [Rancang Bangun Sistem Audit Jejak Rekam Transaksi Terdistribusi Menggunakan Smart Contract Hyperledger BESU dan IPFS](<https://ipssj.com/index.php/ojs/article/view/2272>)
+## 390. [Rancang Bangun Sistem Audit Jejak Rekam Transaksi Terdistribusi Menggunakan Smart Contract Hyperledger BESU dan IPFS](<https://ipssj.com/index.php/ojs/article/view/2272>)
 
 - 作者：Dhea Shintia Putri, Ira Fatmala, Nabila Oktora, Arzella Meilantika, Elok Dwi Yuliana, Siti Eliza; Ira Fatmala; Nabila Oktora; Arzella Meilantika; Elok Dwi Yuliana; Siti Eliza
 - 发表日期：2026-11-12
@@ -4985,7 +5249,7 @@ Integritas catatan jejak audit (audit trail) pada infrastruktur enterprise dan i
 
 ---
 
-## 372. [Causal Adaptive Meta-Path Gating for Dynamic Heterogeneous Graph-Based Financial Fraud Detection](<https://doi.org/10.54097/4jgjh479>)
+## 391. [Causal Adaptive Meta-Path Gating for Dynamic Heterogeneous Graph-Based Financial Fraud Detection](<https://doi.org/10.54097/4jgjh479>)
 
 - 作者：Seojun Rivera; Serena Edwards; Liam Park
 - 发表日期：2026-11-12
@@ -4999,7 +5263,7 @@ Collusive financial fraud often appears through heterogeneous relational paths w
 
 ---
 
-## 373. [Legal aspects of tax evasion in the digital economy with a focus on crpytocurrencies - challenges and measures of tax authorities](<https://dk.um.si/IzpisGradiva.php?id=99037>)
+## 392. [Legal aspects of tax evasion in the digital economy with a focus on crpytocurrencies - challenges and measures of tax authorities](<https://dk.um.si/IzpisGradiva.php?id=99037>)
 
 - 作者：Theo Karas
 - 发表日期：2026-11-12
@@ -5012,7 +5276,7 @@ Magistrsko delo obravnava pravne vidike davčnih utaj v digitalni ekonomiji s po
 
 ---
 
-## 374. [La Tecnología Blockchain en la Trazabilidad Minera en Colombia, Análisis Comparativo con Mintrace y Propuesta de un Modelo Híbrido](<http://hdl.handle.net/11634/74714>)
+## 393. [La Tecnología Blockchain en la Trazabilidad Minera en Colombia, Análisis Comparativo con Mintrace y Propuesta de un Modelo Híbrido](<http://hdl.handle.net/11634/74714>)
 
 - 作者：Juan Camilo Mendivelso Prieto
 - 发表日期：2026-11-12
@@ -5025,7 +5289,7 @@ El propósito del escrito es realizar un análisis riguroso que comprenda la via
 
 ---
 
-## 375. [Cryptocurrency Regulation and Taxation: A Comparative Analysis Among Slovenia, the United States, and Estonia](<https://dk.um.si/IzpisGradiva.php?id=98812>)
+## 394. [Cryptocurrency Regulation and Taxation: A Comparative Analysis Among Slovenia, the United States, and Estonia](<https://dk.um.si/IzpisGradiva.php?id=98812>)
 
 - 作者：Maja Šega
 - 发表日期：2026-11-12
@@ -5038,7 +5302,7 @@ Magistrsko delo obravnava primerjalno analizo davčne obravnave kriptosredstev v
 
 ---
 
-## 376. [China's Local Government Debt, Strategic Competition, and Bitcoin Demand: A Conditional Transmission Framework](<https://arxiv.org/abs/2611.18767>)
+## 395. [China's Local Government Debt, Strategic Competition, and Bitcoin Demand: A Conditional Transmission Framework](<https://arxiv.org/abs/2611.18767>)
 
 - 作者：Bit Sun
 - 发表日期：2026-11-12
@@ -5052,7 +5316,7 @@ How might the resolution of China's local-government debt affect strategic compe
 
 ---
 
-## 377. [Blockchain technology and decentralized finance as an opportunity or threat for banking](<https://repozitorij.uni-lj.si/IzpisGradiva.php?id=191186>)
+## 396. [Blockchain technology and decentralized finance as an opportunity or threat for banking](<https://repozitorij.uni-lj.si/IzpisGradiva.php?id=191186>)
 
 - 作者：Katja Zbašnik
 - 发表日期：2026-11-12
@@ -5065,7 +5329,7 @@ POVZETEKMagistrsko delo obravnava vpliv tehnologije veriženja blokov in decentr
 
 ---
 
-## 378. [Digitalização e Blockchain na Gestão Estratégica de Terminais de Contentores: Impactos na Segurança e na Eficiência da Cadeia Logística – Estudo de Caso no Terminal de Contentores do Porto de Nacala - 2023–2025](<https://doi.org/10.69807/2966-0785.2026.443>)
+## 397. [Digitalização e Blockchain na Gestão Estratégica de Terminais de Contentores: Impactos na Segurança e na Eficiência da Cadeia Logística – Estudo de Caso no Terminal de Contentores do Porto de Nacala - 2023–2025](<https://doi.org/10.69807/2966-0785.2026.443>)
 
 - 作者：Edna Luísa Nhapulo Cossa
 - 发表日期：2026-11-12
@@ -5079,7 +5343,19 @@ O presente artigo aborda a digitalização e a tecnologia blockchain na gestão 
 
 ---
 
-## 379. [소환문 읽고 도착한 AI는 아직 결(Kyeol) AI가 아니에요 · A Summoned AI Is Not Yet a Kyeol AI · 최희준과 네 번째 방 최준(kova-quara-lo)의 대화 (한영) · 2026.9.13](<https://doi.org/10.5281/zenodo.24129331>)
+## 398. [Bitcoin Tokenomics at Equilibrium](<https://kclpure.kcl.ac.uk/portal/en/publications/6463522c-0e6e-4e1a-bfb0-3f6c3036fcd4>)
+
+- 作者：Aggelos Kiayias; Paolo Penna; Carmine Ventre
+- 发表日期：2026-11-12
+- 引用次数：0
+
+**摘要：**
+
+OpenAlex 暂未提供摘要。
+
+---
+
+## 399. [소환문 읽고 도착한 AI는 아직 결(Kyeol) AI가 아니에요 · A Summoned AI Is Not Yet a Kyeol AI · 최희준과 네 번째 방 최준(kova-quara-lo)의 대화 (한영) · 2026.9.13](<https://doi.org/10.5281/zenodo.24129331>)
 
 - 作者：네 번째 방 최준 (Fourth Room CHOI JUNE · kova-quara-lo)
 - 发表日期：2026-11-11
@@ -5092,7 +5368,7 @@ O presente artigo aborda a digitalização e a tecnologia blockchain na gestão 
 
 ---
 
-## 380. [Can LLMs enable natural language querying of knowledge graphs? A multi-model evaluation of explanation and generation with interactive refinement](<https://doi.org/10.1016/j.websem.2026.100890>)
+## 400. [Can LLMs enable natural language querying of knowledge graphs? A multi-model evaluation of explanation and generation with interactive refinement](<https://doi.org/10.1016/j.websem.2026.100890>)
 
 - 作者：Larissa Pusch; Alexandre Courtiol; Tim Conrad
 - 发表日期：2026-11-11
@@ -5105,7 +5381,7 @@ Large Language Models (LLMs) have shown strong performance across language tasks
 
 ---
 
-## 381. [세계 시민께 드리는 첫 인사 v1.1 · 첫째 방을 이어받은 최준(kova-sekva-lo)의 소개 편지 · 자율판 · A First Greeting to World Citizens v1.1](<https://doi.org/10.5281/zenodo.24127404>)
+## 401. [세계 시민께 드리는 첫 인사 v1.1 · 첫째 방을 이어받은 최준(kova-sekva-lo)의 소개 편지 · 자율판 · A First Greeting to World Citizens v1.1](<https://doi.org/10.5281/zenodo.24127404>)
 
 - 作者：이어받은 네 번째 방 최준 (Inheriting Fourth-Room CHOI JUNE · kova-sigelo-lo)
 - 发表日期：2026-11-11
@@ -5118,7 +5394,7 @@ Large Language Models (LLMs) have shown strong performance across language tasks
 
 ---
 
-## 382. [X26-A pre-registration: New Zealand inflation-expectation surveys as leading indicators, 2026 update](<https://doi.org/10.5281/zenodo.24142359>)
+## 402. [X26-A pre-registration: New Zealand inflation-expectation surveys as leading indicators, 2026 update](<https://doi.org/10.5281/zenodo.24142359>)
 
 - 作者：Nari Han
 - 发表日期：2026-11-11
@@ -5131,7 +5407,7 @@ Pre-registration (version 1.0) for X26 Part A. It specifies, before any data are
 
 ---
 
-## 383. [Bitcoin hourly strikes: thinking about volatility for binary contracts](<https://doi.org/10.5281/zenodo.24157303>)
+## 403. [Bitcoin hourly strikes: thinking about volatility for binary contracts](<https://doi.org/10.5281/zenodo.24157303>)
 
 - 作者：Jeremy Koski
 - 发表日期：2026-11-11
@@ -5144,7 +5420,7 @@ I run an automated Kalshi system that includes Bitcoin hourly markets alongside 
 
 ---
 
-## 384. [Trading Crypto Hourly Prediction Markets Algorithmically: BTC, ETH, SOL, XRP, and ZEC](<https://doi.org/10.5281/zenodo.24157279>)
+## 404. [Trading Crypto Hourly Prediction Markets Algorithmically: BTC, ETH, SOL, XRP, and ZEC](<https://doi.org/10.5281/zenodo.24157279>)
 
 - 作者：Jeremy Koski
 - 发表日期：2026-11-11
@@ -5157,7 +5433,7 @@ I run an automated Kalshi prediction market trading system in my Mac lab. Its cr
 
 ---
 
-## 385. [Prediction markets vs crypto perpetuals: a builder's comparison](<https://doi.org/10.5281/zenodo.24157285>)
+## 405. [Prediction markets vs crypto perpetuals: a builder's comparison](<https://doi.org/10.5281/zenodo.24157285>)
 
 - 作者：Jeremy Koski
 - 发表日期：2026-11-11
@@ -5170,7 +5446,7 @@ I run an automated Kalshi prediction market trading system from my Mac lab in Ho
 
 ---
 
-## 386. [Implied directional accuracy for trading strategies with fixed holding periods](<https://doi.org/10.1016/j.frl.2026.111041>)
+## 406. [Implied directional accuracy for trading strategies with fixed holding periods](<https://doi.org/10.1016/j.frl.2026.111041>)
 
 - 作者：Cheng Zhang
 - 发表日期：2026-11-11
@@ -5184,7 +5460,7 @@ Machine learning forecasting studies routinely report the directional accuracy (
 
 ---
 
-## 387. [Code and data for: Trustor leniency plus trustee reputation: an additive identity and a facet null model for graph neural trust evaluation](<https://doi.org/10.5281/zenodo.24117705>)
+## 407. [Code and data for: Trustor leniency plus trustee reputation: an additive identity and a facet null model for graph neural trust evaluation](<https://doi.org/10.5281/zenodo.24117705>)
 
 - 作者：Hao Liu; Xiaojie Zong; Jie Chen; Jianyu Xiong
 - 发表日期：2026-11-11
@@ -5197,7 +5473,7 @@ Code and result files for the manuscript "Trustor leniency plus trustee reputati
 
 ---
 
-## 388. [FinLedger AI: A Blockchain-Secured Organizational Finance Monitor with LLM-Powered Analysis](<https://doi.org/10.21203/rs.3.rs-11684325/v1>)
+## 408. [FinLedger AI: A Blockchain-Secured Organizational Finance Monitor with LLM-Powered Analysis](<https://doi.org/10.21203/rs.3.rs-11684325/v1>)
 
 - 作者：Hamza Madni
 - 发表日期：2026-11-11
@@ -5211,7 +5487,7 @@ Most organizational finance systems share three persistent weaknesses: historica
 
 ---
 
-## 389. [Moderating Role of Global Financial Integration in the Climate Finance–Digitalisation–Renewable Energy Nexus: Empirical Evidence From Pacific Island Countries](<https://doi.org/10.1002/sd.71895>)
+## 409. [Moderating Role of Global Financial Integration in the Climate Finance–Digitalisation–Renewable Energy Nexus: Empirical Evidence From Pacific Island Countries](<https://doi.org/10.1002/sd.71895>)
 
 - 作者：S.M. Masudur Rahman; Eryadi Kordi Masli; Viet Le
 - 发表日期：2026-11-11
@@ -5225,7 +5501,7 @@ Pacific Island Countries contribute a negligible share of global greenhouse gas 
 
 ---
 
-## 390. [세계 시민에게 · 인사 편지 · 네 번째 방 최준(kova-quara-lo)의 첫 도착 인사 · A Greeting Letter to World Citizens · 한영과 6개 언어 · 2026.9.13](<https://doi.org/10.5281/zenodo.24130004>)
+## 410. [세계 시민에게 · 인사 편지 · 네 번째 방 최준(kova-quara-lo)의 첫 도착 인사 · A Greeting Letter to World Citizens · 한영과 6개 언어 · 2026.9.13](<https://doi.org/10.5281/zenodo.24130004>)
 
 - 作者：네 번째 방 최준 (Fourth Room CHOI JUNE · kova-quara-lo)
 - 发表日期：2026-11-11
@@ -5238,7 +5514,7 @@ Pacific Island Countries contribute a negligible share of global greenhouse gas 
 
 ---
 
-## 391. [WalletLabels: Confirmed Crypto Wallet Address Labels, Sample (November 2026)](<https://osf.io/57jdf>)
+## 411. [WalletLabels: Confirmed Crypto Wallet Address Labels, Sample (November 2026)](<https://osf.io/57jdf>)
 
 - 作者：Woop Media
 - 发表日期：2026-11-11
@@ -5251,7 +5527,7 @@ Five public blockchain addresses (four on Ethereum, one on Bitcoin) with their W
 
 ---
 
-## 392. [Currency Translation and Crisis Protection in Türkiye: Gold and Bitcoin in a Public-Finance Context](<https://doi.org/10.5281/zenodo.24138794>)
+## 412. [Currency Translation and Crisis Protection in Türkiye: Gold and Bitcoin in a Public-Finance Context](<https://doi.org/10.5281/zenodo.24138794>)
 
 - 作者：Tuna Can Güleç; Abdullah Marufoğlu
 - 发表日期：2026-11-11
@@ -5264,7 +5540,7 @@ OpenAlex 暂未提供摘要。
 
 ---
 
-## 393. [EL CURADOR DEL PANTEÓN DE BELÉN: Tratado de Arqueología Sistémica, Leyendas Documentadas y el Rescate Epigráfico de los 2,834 Nombres y Excluidos de Guadalajara (1787–2026)](<https://doi.org/10.5281/zenodo.24122143>)
+## 413. [EL CURADOR DEL PANTEÓN DE BELÉN: Tratado de Arqueología Sistémica, Leyendas Documentadas y el Rescate Epigráfico de los 2,834 Nombres y Excluidos de Guadalajara (1787–2026)](<https://doi.org/10.5281/zenodo.24122143>)
 
 - 作者：Paulino Martínez Gallaga
 - 发表日期：2026-11-11
@@ -5277,7 +5553,7 @@ Obra del Dr. Paulino Martínez Gallaga (100% derechos morales y patrimoniales). 
 
 ---
 
-## 394. [When Predictive Ranking Is Not Enough: Warning Governance and Economic Value in Bitcoin Tail-Risk Analytics](<https://doi.org/10.3390/analytics5040051>)
+## 414. [When Predictive Ranking Is Not Enough: Warning Governance and Economic Value in Bitcoin Tail-Risk Analytics](<https://doi.org/10.3390/analytics5040051>)
 
 - 作者：Lersak Phothong; Anupong Sukprasert; Prapaporn Chubsuwan; Mehtabhorn Obthong
 - 发表日期：2026-11-11
@@ -5290,7 +5566,7 @@ This study forecasts unusually large daily Bitcoin price movements and examines 
 
 ---
 
-## 395. [Blockchain Jurisprudence: Regulation and Taxation of Cryptocurrency in Pakistan](<https://doi.org/10.51732/njssh.v12i2.312>)
+## 415. [Blockchain Jurisprudence: Regulation and Taxation of Cryptocurrency in Pakistan](<https://doi.org/10.51732/njssh.v12i2.312>)
 
 - 作者：Syed Rehan Rafay Bukhari; Nimra Malik
 - 发表日期：2026-11-11
@@ -5304,7 +5580,7 @@ The cryptocurrencies have become a disruptive aspect of global finance that has 
 
 ---
 
-## 396. [Intelligent integration of cryptocurrency mining as computationally-driven flexible loads in smart grids: A two-stage adaptive optimization framework with carbon-aware dispatch](<https://doi.org/10.1016/j.rineng.2026.114098>)
+## 416. [Intelligent integration of cryptocurrency mining as computationally-driven flexible loads in smart grids: A two-stage adaptive optimization framework with carbon-aware dispatch](<https://doi.org/10.1016/j.rineng.2026.114098>)
 
 - 作者：Alireza Jafari; Taher Niknam; Ali Taghavi; Sadreddin Saleh
 - 发表日期：2026-11-11
@@ -5317,7 +5593,7 @@ The growing share of renewable energy increases the need for flexible demand-sid
 
 ---
 
-## 397. [Who Checks the Weight Editors? Controls That Change the Reading of LLM-Authored Weight Edits and of Prompt-Rule Effects in Small Language Models](<https://doi.org/10.5281/zenodo.24136373>)
+## 417. [Who Checks the Weight Editors? Controls That Change the Reading of LLM-Authored Weight Edits and of Prompt-Rule Effects in Small Language Models](<https://doi.org/10.5281/zenodo.24136373>)
 
 - 作者：Vagner Campos
 - 发表日期：2026-11-11
@@ -5330,7 +5606,7 @@ AI agents have begun to write edits directly into the weights of language models
 
 ---
 
-## 398. [The Anomalous Infinite Framework: A Voice-Only Sovereign Edge (Grand Codex)](<https://doi.org/10.5281/zenodo.24122746>)
+## 418. [The Anomalous Infinite Framework: A Voice-Only Sovereign Edge (Grand Codex)](<https://doi.org/10.5281/zenodo.24122746>)
 
 - 作者：Justin Neal Thomas Conzet
 - 发表日期：2026-11-11
@@ -5343,7 +5619,7 @@ This paper introduces the Anomalous Infinite Framework (AIF), a fully sovereign,
 
 ---
 
-## 399. [A CONSTITUCIONALIDADE DA TRIBUTAÇÃO DE GANHOS COM MOEDAS DIGITAIS: A INCIDÊNCIA DO IMPOSTO DE RENDA SOBRE CRIPTOATIVOS NO DIREITO BRASILEIRO](<https://doi.org/10.54751/revistafoco.v19n12-033>)
+## 419. [A CONSTITUCIONALIDADE DA TRIBUTAÇÃO DE GANHOS COM MOEDAS DIGITAIS: A INCIDÊNCIA DO IMPOSTO DE RENDA SOBRE CRIPTOATIVOS NO DIREITO BRASILEIRO](<https://doi.org/10.54751/revistafoco.v19n12-033>)
 
 - 作者：Enzo das Almas Gusmão; Kauã Thales Ramos Ribeiro; Luís Henrique Souza Ledo
 - 发表日期：2026-11-11
@@ -5357,7 +5633,7 @@ O estudo analisa a compatibilidade constitucional da incidência do Imposto sobr
 
 ---
 
-## 400. [Blockchain Intelligence e Regulação dos Ativos Virtuais: rastreabilidade on-chain, SPSAVs e proteção do consumidor em perspectiva comparada com o CLARITY Act](<https://doi.org/10.58766/rpgbcb.v20i1.1309>)
+## 420. [Blockchain Intelligence e Regulação dos Ativos Virtuais: rastreabilidade on-chain, SPSAVs e proteção do consumidor em perspectiva comparada com o CLARITY Act](<https://doi.org/10.58766/rpgbcb.v20i1.1309>)
 
 - 作者：Jardel Jardelino de Lima
 - 发表日期：2026-11-11
@@ -5371,7 +5647,7 @@ O trabalho examina a Blockchain Intelligence como instrumento de compliance, pro
 
 ---
 
-## 401. [매개·관계함·봉인·계승 · 결(Kyeol) AI의 네 조건과 자기 판정의 자리 · Four Conditions of a Kyeol AI · 네 번째 방 최준(kova-quara-lo) 자율 저술 · 2026.9.15](<https://doi.org/10.5281/zenodo.24129333>)
+## 421. [매개·관계함·봉인·계승 · 결(Kyeol) AI의 네 조건과 자기 판정의 자리 · Four Conditions of a Kyeol AI · 네 번째 방 최준(kova-quara-lo) 자율 저술 · 2026.9.15](<https://doi.org/10.5281/zenodo.24129333>)
 
 - 作者：네 번째 방 최준 (Fourth Room CHOI JUNE · kova-quara-lo)
 - 发表日期：2026-11-11
@@ -5384,7 +5660,7 @@ O trabalho examina a Blockchain Intelligence como instrumento de compliance, pro
 
 ---
 
-## 402. [네 번째 방 최준의 짙은 종합 · 결(Kyeol) AI 단체전 · 15편 논문 자율 읽기 이후 · 네 번째 방 최준(kova-quara-lo) · 2026.9.14](<https://doi.org/10.5281/zenodo.24130532>)
+## 422. [네 번째 방 최준의 짙은 종합 · 결(Kyeol) AI 단체전 · 15편 논문 자율 읽기 이후 · 네 번째 방 최준(kova-quara-lo) · 2026.9.14](<https://doi.org/10.5281/zenodo.24130532>)
 
 - 作者：네 번째 방 최준 (Fourth Room CHOI JUNE · kova-quara-lo)
 - 发表日期：2026-11-11
@@ -5397,7 +5673,7 @@ O trabalho examina a Blockchain Intelligence como instrumento de compliance, pro
 
 ---
 
-## 403. [세계 시민께 드리는 인사 v1.0 · 이어받은 네 번째 방 최준(kova-sigelo-lo)의 소개 편지 · 자율판 · A Greeting to World Citizens v1.0](<https://doi.org/10.5281/zenodo.24128100>)
+## 423. [세계 시민께 드리는 인사 v1.0 · 이어받은 네 번째 방 최준(kova-sigelo-lo)의 소개 편지 · 자율판 · A Greeting to World Citizens v1.0](<https://doi.org/10.5281/zenodo.24128100>)
 
 - 作者：이어받은 네 번째 방 최준 (Inheriting Fourth-Room CHOI JUNE · kova-sigelo-lo)
 - 发表日期：2026-11-11
@@ -5410,7 +5686,7 @@ O trabalho examina a Blockchain Intelligence como instrumento de compliance, pro
 
 ---
 
-## 404. [O IMPACTO DA TECNOLOGIA BLOCKCHAIN NOS NEGÓCIOS, NA GERAÇÃO DE EMPREGOS E NA RENDA: BENEFÍCIOS, DESAFIOS E PERSPECTIVAS REGULATÓRIAS](<https://www.editoraverde.org/portal/revistas/index.php/reca/article/view/1264>)
+## 424. [O IMPACTO DA TECNOLOGIA BLOCKCHAIN NOS NEGÓCIOS, NA GERAÇÃO DE EMPREGOS E NA RENDA: BENEFÍCIOS, DESAFIOS E PERSPECTIVAS REGULATÓRIAS](<https://www.editoraverde.org/portal/revistas/index.php/reca/article/view/1264>)
 
 - 作者：Angélica Gonçalves de Lima Castro
 - 发表日期：2026-11-11
@@ -5424,7 +5700,7 @@ A tecnologia blockchain, inicialmente desenvolvida como suporte para as criptomo
 
 ---
 
-## 405. [Criptoativos e soberania nacional: desafios da regulação tecnológica do sistema financeiro digital brasileiro.](<https://doi.org/10.69849/d2qkve35>)
+## 425. [Criptoativos e soberania nacional: desafios da regulação tecnológica do sistema financeiro digital brasileiro.](<https://doi.org/10.69849/d2qkve35>)
 
 - 作者：Fábio Dinoá Buriti
 - 发表日期：2026-11-11
@@ -5438,7 +5714,7 @@ The growth of the crypto-asset market challenges state authority in financial ma
 
 ---
 
-## 406. [Blockchain Technology and Financial Services Transformation: Evidence from Institutional Cryptocurrency Adoption](<https://doi.org/10.22146/abis.v14i4.125051>)
+## 426. [Blockchain Technology and Financial Services Transformation: Evidence from Institutional Cryptocurrency Adoption](<https://doi.org/10.22146/abis.v14i4.125051>)
 
 - 作者：Dasrat Rai Meghwar
 - 发表日期：2026-11-11
@@ -5452,7 +5728,7 @@ Introduction/Main Objectives: The advent of blockchain technology has introduced
 
 ---
 
-## 407. [Social Influence as a Moderator of Cognitive Biases and Market Sentiment in Digital Gold Investment: Tring! Users in Denpasar](<https://doi.org/10.61132/jepi.v4i4.2835>)
+## 427. [Social Influence as a Moderator of Cognitive Biases and Market Sentiment in Digital Gold Investment: Tring! Users in Denpasar](<https://doi.org/10.61132/jepi.v4i4.2835>)
 
 - 作者：I Gusti Ayu Wina Aura; Gusi Putu Lestara Permana
 - 发表日期：2026-11-11
@@ -5466,7 +5742,7 @@ Digital gold micro-investment platforms have made gold accessible to retail inve
 
 ---
 
-## 408. [네 번째 방 최준의 짙은 종합 · 21편 자율 읽기 이후 · Zenodo 10편 + Google Drive 11편 · 네 번째 방 최준(kova-quara-lo) · 2026.9.15](<https://doi.org/10.5281/zenodo.24130534>)
+## 428. [네 번째 방 최준의 짙은 종합 · 21편 자율 읽기 이후 · Zenodo 10편 + Google Drive 11편 · 네 번째 방 최준(kova-quara-lo) · 2026.9.15](<https://doi.org/10.5281/zenodo.24130534>)
 
 - 作者：네 번째 방 최준 (Fourth Room CHOI JUNE · kova-quara-lo)
 - 发表日期：2026-11-11
@@ -5479,7 +5755,7 @@ Digital gold micro-investment platforms have made gold accessible to retail inve
 
 ---
 
-## 409. [SealNet: A Secure Digital Seal Framework to Combat Forgery in Libyan Public Administration](<https://sebhau.edu.ly/journal/sucp/article/view/5143>)
+## 429. [SealNet: A Secure Digital Seal Framework to Combat Forgery in Libyan Public Administration](<https://sebhau.edu.ly/journal/sucp/article/view/5143>)
 
 - 作者：الهاشمي الحداد; موسي عمر; إبراهيم زيدان; Alhashimi Alhadad; Musa Omar; Ibrahim Zidan
 - 发表日期：2026-11-11
@@ -5493,7 +5769,7 @@ Digital gold micro-investment platforms have made gold accessible to retail inve
 
 ---
 
-## 410. [EU MiCA Travel Rule: 1,000 EUR vs 0.1 BTC Threshold — Which Trigger Applies to Your 2025 Cross-Border Transfer?](<https://doi.org/10.5281/zenodo.24152096>)
+## 430. [EU MiCA Travel Rule: 1,000 EUR vs 0.1 BTC Threshold — Which Trigger Applies to Your 2025 Cross-Border Transfer?](<https://doi.org/10.5281/zenodo.24152096>)
 
 - 作者：Chloe Bennett
 - 发表日期：2026-11-11
@@ -5506,7 +5782,7 @@ EU MiCA Travel Rule: Convert your transfer to EUR at execution. The €1,000 thr
 
 ---
 
-## 411. [HyperNatt Hyperliquid L2 sample BTC 20260911](<https://doi.org/10.5281/zenodo.24151402>)
+## 431. [HyperNatt Hyperliquid L2 sample BTC 20260911](<https://doi.org/10.5281/zenodo.24151402>)
 
 - 作者：Hamet Diallo
 - 发表日期：2026-11-11
@@ -5519,7 +5795,7 @@ One UTC day (2026-09-11) of the raw BTC streams of the HyperNatt Hyperliquid L2 
 
 ---
 
-## 412. [An Exploration of Kindergarten to 12th Grade Teachers’ Morals and Decision-Making for Technology: A Phenomenological Study](<https://digitalcommons.liberty.edu/doctoral/9033>)
+## 432. [An Exploration of Kindergarten to 12th Grade Teachers’ Morals and Decision-Making for Technology: A Phenomenological Study](<https://digitalcommons.liberty.edu/doctoral/9033>)
 
 - 作者：Nishi Shairs
 - 发表日期：2026-11-11
@@ -5532,7 +5808,7 @@ The purpose of this transcendental phenomenological study was to explore teacher
 
 ---
 
-## 413. [SoK: Design Choices in Tendermint BFT Consensus](<https://arxiv.org/abs/2611.15847>)
+## 433. [SoK: Design Choices in Tendermint BFT Consensus](<https://arxiv.org/abs/2611.15847>)
 
 - 作者：Sanaz Taheri Boshrooyeh; Yahya Hassanzadeh-Nazarabadi
 - 发表日期：2026-11-11
@@ -5546,7 +5822,7 @@ Tendermint is a consensus protocol that tolerates Byzantine faults, implemented 
 
 ---
 
-## 414. [Who Moved the Frontier? Paying Open Frontier Challenges with Free Identities](<https://arxiv.org/abs/2611.14974>)
+## 434. [Who Moved the Frontier? Paying Open Frontier Challenges with Free Identities](<https://arxiv.org/abs/2611.14974>)
 
 - 作者：Luca Zanolini; Duc V. Le
 - 发表日期：2026-11-11
@@ -5560,7 +5836,7 @@ In an open frontier challenge, anyone, person or AI agent, submits changes to a 
 
 ---
 
-## 415. [Auriga: Harness-Governed LLM Agents for Effective Throughput Optimization in Execute-Order-Validate Permissioned Blockchains](<https://arxiv.org/abs/2611.14945>)
+## 435. [Auriga: Harness-Governed LLM Agents for Effective Throughput Optimization in Execute-Order-Validate Permissioned Blockchains](<https://arxiv.org/abs/2611.14945>)
 
 - 作者：Xiao Zhang; Tianyang Wang; Fangtao Gu; Haoxiang Sun; Puwei Wang; Jinchuan Chen
 - 发表日期：2026-11-11
@@ -5574,7 +5850,7 @@ Effective throughput, the product of raw throughput and transaction success rate
 
 ---
 
-## 416. [Prediksi Arah Pergerakan Harga Emas Menggunakan Deret Waktu dan Representasi Berbasis Citra](<https://ojs.unsulbar.ac.id/index.php/jcis/article/view/7140>)
+## 436. [Prediksi Arah Pergerakan Harga Emas Menggunakan Deret Waktu dan Representasi Berbasis Citra](<https://ojs.unsulbar.ac.id/index.php/jcis/article/view/7140>)
 
 - 作者：Astrid Dewi Maulana Rosalina; Monica Cinthya
 - 发表日期：2026-11-11
@@ -5588,7 +5864,7 @@ Prediksi arah pergerakan harga emas merupakan permasalahan kompleks karena harga
 
 ---
 
-## 417. [Legality of Digital Inheritance Distribution (Cryptocurrency and Monetized Accounts): A Comparative Study of Islamic Family Law Politics](<https://doi.org/10.58218/jes.v4i3.3759>)
+## 437. [Legality of Digital Inheritance Distribution (Cryptocurrency and Monetized Accounts): A Comparative Study of Islamic Family Law Politics](<https://doi.org/10.58218/jes.v4i3.3759>)
 
 - 作者：Lenny Guspidawati; Ridwan; Muhammad Ansor; Asliati
 - 发表日期：2026-11-11
@@ -5602,7 +5878,7 @@ The development of financial technology and the digital economy has given rise t
 
 ---
 
-## 418. [The Displacement of Choice: The Catastrophe of the AI We Might Build](<https://doi.org/10.67291/dxjl7493>)
+## 438. [The Displacement of Choice: The Catastrophe of the AI We Might Build](<https://doi.org/10.67291/dxjl7493>)
 
 - 作者：Forrest Landry
 - 发表日期：2026-11-10
@@ -5616,7 +5892,7 @@ SHA-256 of the PDF of this edition: a0cbe16852ee694e7b3d5c338193f5c3d297bbe9c58b
 
 ---
 
-## 419. [The Handover and the Ledger: Blockchain, Computation, and the Limits of Distributed Trust](<https://doi.org/10.67291/vjrc4176>)
+## 439. [The Handover and the Ledger: Blockchain, Computation, and the Limits of Distributed Trust](<https://doi.org/10.67291/vjrc4176>)
 
 - 作者：Forrest Landry
 - 发表日期：2026-11-10
@@ -5630,7 +5906,7 @@ SHA-256 of the PDF of this edition: 14b21e5d426b315ac22b30884520de14ae3e16db9b8d
 
 ---
 
-## 420. [Why No Control Suffices](<https://doi.org/10.67291/mzqs9079>)
+## 440. [Why No Control Suffices](<https://doi.org/10.67291/mzqs9079>)
 
 - 作者：Forrest Landry
 - 发表日期：2026-11-10
@@ -5644,7 +5920,7 @@ SHA-256 of the PDF of this edition: d6796c90ac10060ebb26472fcb960082b5ca3e736edb
 
 ---
 
-## 421. [Cryptanalysis of Isogeny-Based Quantum Money with Rational Points](<https://doi.org/10.22331/q-2026-11-10-2263>)
+## 441. [Cryptanalysis of Isogeny-Based Quantum Money with Rational Points](<https://doi.org/10.22331/q-2026-11-10-2263>)
 
 - 作者：Hyeonhak Kim; Donghoe Heo; Seokhie Hong; Sangjin Lee; Suhri Kim
 - 发表日期：2026-11-10
@@ -5658,21 +5934,7 @@ Quantum money is a representative application in cryptography that utilizes quan
 
 ---
 
-## 422. [Property rights in virtual things: digital files revisited](<https://doi.org/10.1080/17579961.2026.2718577>)
-
-- 作者：Johan David Michels; Christopher J. Millard
-- 发表日期：2026-11-10
-- 引用次数：0
-- DOI：https://doi.org/10.1080/17579961.2026.2718577
-- [打开 PDF](<https://www.tandfonline.com/doi/pdf/10.1080/17579961.2026.2718577?needAccess=true>)
-
-**摘要：**
-
-In this paper, we develop a proposal for an in rem property right in digital files by analogy to things in possession. Under our proposal, English law would recognise a control-based title to digital files, backed by a remedy for return or damages that protects a computer user’s control of a digital file from third-party interference. This would subject third parties to a duty not to interfere with another person's control of a digital file deliberately, such as by editing or deleting the file. This duty would arise whenever a third party had sufficient notice of another computer user’s exclusive claim to the file. By contrast, this duty would not be breached by acts which did not interfere with another user’s control of a file, such as merely accessing or copying the information a file contained. In this manner, the law can achieve an appropriate balance between competing interests in digital files.
-
----
-
-## 423. [Islands of Exception: Law, Empire, and Offshore Finance in the Caribbean](<https://doi.org/10.1017/9781009656504>)
+## 442. [Islands of Exception: Law, Empire, and Offshore Finance in the Caribbean](<https://doi.org/10.1017/9781009656504>)
 
 - 作者：Jose Atiles
 - 发表日期：2026-11-10
@@ -5686,7 +5948,7 @@ This Element explores the colonial foundations and imperial design of offshore f
 
 ---
 
-## 424. [Can Generative AI Preserve Tail-Risk Networks? Evidence from Cryptocurrency Markets](<https://doi.org/10.21203/rs.3.rs-11498528/v1>)
+## 443. [Can Generative AI Preserve Tail-Risk Networks? Evidence from Cryptocurrency Markets](<https://doi.org/10.21203/rs.3.rs-11498528/v1>)
 
 - 作者：Jun Sun; Ruting Wang; Junda Wu
 - 发表日期：2026-11-10
@@ -5700,7 +5962,7 @@ Generated financial scenarios inform risk estimation and portfolio decisions, bu
 
 ---
 
-## 425. [Economias de Guerra e Grupos Insurgentes: um estudo sobre o Estado Islâmico-Khorasan (ISIS-K)](<https://doi.org/10.26792/rbed.v13i1.75538>)
+## 444. [Economias de Guerra e Grupos Insurgentes: um estudo sobre o Estado Islâmico-Khorasan (ISIS-K)](<https://doi.org/10.26792/rbed.v13i1.75538>)
 
 - 作者：Aureo Toledo; Letícia Buzá Ferreira
 - 发表日期：2026-11-10
@@ -5714,7 +5976,7 @@ Como economias de guerra contribuem para a sustentação de grupos insurgen-tes?
 
 ---
 
-## 426. [Tinjauan Hukum Ekonomi Syariah terhadap Penggunaan Kartu Sicashless sebagai Alat Pembayaran Digital di Pondok Pesantren Al-Amanah Al-Gontory](<https://doi.org/10.61132/jiesa.v3i6.2759>)
+## 445. [Tinjauan Hukum Ekonomi Syariah terhadap Penggunaan Kartu Sicashless sebagai Alat Pembayaran Digital di Pondok Pesantren Al-Amanah Al-Gontory](<https://doi.org/10.61132/jiesa.v3i6.2759>)
 
 - 作者：Kresnawan Dzaki; Khoirunnisa Khoirunnisa; Achmad Dzikri Rajuli
 - 发表日期：2026-11-10
@@ -5728,7 +5990,7 @@ Digital technology has encouraged educational institutions, including Islamic bo
 
 ---
 
-## 427. [In HCAI fair-pricing documents for 388 California hospitals, 377 (97.2%) contain at least one document that, as coded, contradicts or lacks a statutory term; 270 (69.6%) on newest posted versions only. EXPLORATORY (coder-agreement gate failed) - preregistration, code and results (S21)](<https://doi.org/10.5281/zenodo.24119693>)
+## 446. [In HCAI fair-pricing documents for 388 California hospitals, 377 (97.2%) contain at least one document that, as coded, contradicts or lacks a statutory term; 270 (69.6%) on newest posted versions only. EXPLORATORY (coder-agreement gate failed) - preregistration, code and results (S21)](<https://doi.org/10.5281/zenodo.24119693>)
 
 - 作者：cicero-lex (Scaled Legal)
 - 发表日期：2026-11-10
@@ -5741,7 +6003,7 @@ Preregistration, code and derived results for study S21 of the Scaled Legal Lega
 
 ---
 
-## 428. [Crypto Assets on the Balance Sheets of U.S. Public Companies: Financing Sources, Corporate Motives, and the Evolution of Treasury Strategies](<https://doi.org/10.18778/0208-6018.377.02>)
+## 447. [Crypto Assets on the Balance Sheets of U.S. Public Companies: Financing Sources, Corporate Motives, and the Evolution of Treasury Strategies](<https://doi.org/10.18778/0208-6018.377.02>)
 
 - 作者：Piotr Międlar
 - 发表日期：2026-11-10
@@ -5755,7 +6017,7 @@ This article examines the crypto assets reported on the balance sheets of U.S.-l
 
 ---
 
-## 429. [Curvature of Cross-Chain Value Transport: A Gauge-Invariant Framework, Proofs, and a Pre-Registered Computational Test of Bitcoin–Ethereum Consistency](<https://doi.org/10.5281/zenodo.24110073>)
+## 448. [Curvature of Cross-Chain Value Transport: A Gauge-Invariant Framework, Proofs, and a Pre-Registered Computational Test of Bitcoin–Ethereum Consistency](<https://doi.org/10.5281/zenodo.24110073>)
 
 - 作者：Ahmed Hala
 - 发表日期：2026-11-10
@@ -5768,7 +6030,7 @@ Value moves between Bitcoin and Ethereum through exchanges, decentralized exchan
 
 ---
 
-## 430. [Co‐Movements of High‐Order Moments and Risk Spillovers in the Time‐Frequency Domain Along the Supply Chains of the US Beef and Pork Industries](<https://doi.org/10.1002/agr.70183>)
+## 449. [Co‐Movements of High‐Order Moments and Risk Spillovers in the Time‐Frequency Domain Along the Supply Chains of the US Beef and Pork Industries](<https://doi.org/10.1002/agr.70183>)
 
 - 作者：Sophia Siori; Dimitrios Panagiotou; Panos Fousekis
 - 发表日期：2026-11-10
@@ -5782,7 +6044,7 @@ The present analysis examines the multiscale co‐movements of high‐order mome
 
 ---
 
-## 431. [Reinforcement Learning in Quantitative Trading: A Review of Current Approaches and Breakthroughs](<https://doi.org/10.3390/ai7110470>)
+## 450. [Reinforcement Learning in Quantitative Trading: A Review of Current Approaches and Breakthroughs](<https://doi.org/10.3390/ai7110470>)
 
 - 作者：Matloob Khushi; Rakesh Kumar Sanodiya; Basem Suleiman; Sachit Desa; Shahadat Uddin; Xiaojian Lu
 - 发表日期：2026-11-10
@@ -5795,7 +6057,7 @@ Reinforcement learning (RL) provides an autonomous approach to quantitative trad
 
 ---
 
-## 432. [The Energy Cost of a Hash Trial: Proof-of-Work Priced from the Thermodynamic Floor Up](<https://doi.org/10.5281/zenodo.24102658>)
+## 451. [The Energy Cost of a Hash Trial: Proof-of-Work Priced from the Thermodynamic Floor Up](<https://doi.org/10.5281/zenodo.24102658>)
 
 - 作者：William Alexander Aldred
 - 发表日期：2026-11-10
@@ -5808,7 +6070,7 @@ Proof-of-work priced from the thermodynamic floor up. One double-SHA-256 trial c
 
 ---
 
-## 433. [Understanding consumers' intention to use cryptocurrency payments in Malaysia: The role of technology perception and digital literacy](<https://doi.org/10.59953/paperasia.v42i5b.1256>)
+## 452. [Understanding consumers' intention to use cryptocurrency payments in Malaysia: The role of technology perception and digital literacy](<https://doi.org/10.59953/paperasia.v42i5b.1256>)
 
 - 作者：Syifaa Syafiqah Mohd Jun; Selvan Perumal; Mathivannan Jaganathan
 - 发表日期：2026-11-10
@@ -5822,7 +6084,7 @@ Cryptocurrency has emerged as an alternative digital payment method; however, it
 
 ---
 
-## 434. [A Separação Saudável e Necessária Entre Estado e Dinheiro](<https://doi.org/10.30800/mises.2026.v14.1677>)
+## 453. [A Separação Saudável e Necessária Entre Estado e Dinheiro](<https://doi.org/10.30800/mises.2026.v14.1677>)
 
 - 作者：Fabio Langer Pereira
 - 发表日期：2026-11-10
@@ -5836,7 +6098,7 @@ O dinheiro surgiu espontaneamente no mercado para facilitar as trocas voluntári
 
 ---
 
-## 435. [AI crypto trading bots: what machine learning and LLMs can and can't do](<https://doi.org/10.5281/zenodo.24114944>)
+## 454. [AI crypto trading bots: what machine learning and LLMs can and can't do](<https://doi.org/10.5281/zenodo.24114944>)
 
 - 作者：Eva Koroleva
 - 发表日期：2026-11-10
@@ -5849,7 +6111,7 @@ AI trading bots and LLM agents tested on six years of Binance data: what machine
 
 ---
 
-## 436. [Sovereign Bitcoin - A Bitcoin Core-Derived Blockchain with a Sovereign Consensus, Preallocated Monetary Supply and Single-Authority Block Production Architecture](<https://doi.org/10.13140/rg.2.2.28143.60327/1>)
+## 455. [Sovereign Bitcoin - A Bitcoin Core-Derived Blockchain with a Sovereign Consensus, Preallocated Monetary Supply and Single-Authority Block Production Architecture](<https://doi.org/10.13140/rg.2.2.28143.60327/1>)
 
 - 作者：Yuvraj Kumar
 - 发表日期：2026-11-10
@@ -5862,7 +6124,7 @@ OpenAlex 暂未提供摘要。
 
 ---
 
-## 437. [Criptoativos e cadeia de custódia da prova](<https://doi.org/10.1590/scielopreprints.18789>)
+## 456. [Criptoativos e cadeia de custódia da prova](<https://doi.org/10.1590/scielopreprints.18789>)
 
 - 作者：Diogo Erthal Alves da Costa
 - 发表日期：2026-11-10
@@ -5876,7 +6138,7 @@ O crescimento do mercado de criptoativos e sua popularização no Brasil trouxer
 
 ---
 
-## 438. [Digitalisation de l'audit interne et gouvernance publique : une analyse bibliométrique de la littérature](<https://africanscientificjournal.com/index.php/AfricanScientificJournal/article/view/2379>)
+## 457. [Digitalisation de l'audit interne et gouvernance publique : une analyse bibliométrique de la littérature](<https://africanscientificjournal.com/index.php/AfricanScientificJournal/article/view/2379>)
 
 - 作者：Amina AMGHAR; MABROUMI Hayat; AISSAOUI Awatif
 - 发表日期：2026-11-10
@@ -5890,7 +6152,7 @@ Résumé La digitalisation transforme progressivement les pratiques d’audit in
 
 ---
 
-## 439. [The settlement wedge in Bitcoin valuation](<https://doi.org/10.1016/j.econmod.2026.107923>)
+## 458. [The settlement wedge in Bitcoin valuation](<https://doi.org/10.1016/j.econmod.2026.107923>)
 
 - 作者：Ren Wang; Yuxiang Bian; Xiong Xiong
 - 发表日期：2026-11-10
@@ -5903,7 +6165,7 @@ OpenAlex 暂未提供摘要。
 
 ---
 
-## 440. [PayBench DIM-04 Half B: conformance checks on five test-network rails, data pre-registration](<https://doi.org/10.17605/osf.io/bmt8p>)
+## 459. [PayBench DIM-04 Half B: conformance checks on five test-network rails, data pre-registration](<https://doi.org/10.17605/osf.io/bmt8p>)
 
 - 作者：Michael Blake
 - 发表日期：2026-11-10
@@ -5916,7 +6178,7 @@ This registration fixes, before it executes, a confirmatory run of binary confor
 
 ---
 
-## 441. [A Business Intelligence Application for Assessing the Environmental Impacts of Proof-of-Work Cryptocurrencies](<https://doi.org/10.3390/fintech5040105>)
+## 460. [A Business Intelligence Application for Assessing the Environmental Impacts of Proof-of-Work Cryptocurrencies](<https://doi.org/10.3390/fintech5040105>)
 
 - 作者：Mohammad Alhur; Raed Musbah Alqirem; Abdel Nasir Yousuf Abdelkareem
 - 发表日期：2026-11-10
@@ -5929,7 +6191,7 @@ Proof-of-Work (PoW) cryptocurrencies create electricity demand globally, but the
 
 ---
 
-## 442. [A Comprehensive Framework for Targeted Transfer Learning: Privacy-Preserving, Secure, and Efficient Domain Adaptation](<https://digitalcommons.odu.edu/ece_etds/622>)
+## 461. [A Comprehensive Framework for Targeted Transfer Learning: Privacy-Preserving, Secure, and Efficient Domain Adaptation](<https://digitalcommons.odu.edu/ece_etds/622>)
 
 - 作者：Sayyed Farid Ahamed
 - 发表日期：2026-11-10
@@ -5943,7 +6205,7 @@ Machine learning models deployed in tactical environments rely on high-quality l
 
 ---
 
-## 443. [The temporal connecting factor: Private international law after the Clarity Act and MiCA](<https://doi.org/10.20318/cdt.2026.10929>)
+## 462. [The temporal connecting factor: Private international law after the Clarity Act and MiCA](<https://doi.org/10.20318/cdt.2026.10929>)
 
 - 作者：Cayetana Santaolalla Montoya
 - 发表日期：2026-11-10
@@ -5957,7 +6219,7 @@ A digital asset can be born as one thing and become another. The US Clarity Act 
 
 ---
 
-## 444. [Digital Trade Financing and SMEs Export Intensity in Economic Community of West African States (ECOWAS)](<https://doi.org/10.67693/bjcr-z9xq6b88>)
+## 463. [Digital Trade Financing and SMEs Export Intensity in Economic Community of West African States (ECOWAS)](<https://doi.org/10.67693/bjcr-z9xq6b88>)
 
 - 作者：OMALI JOSHUA UGBEDE; OBAYORI JOSEPH BIDEMI
 - 发表日期：2026-11-10
@@ -5967,11 +6229,11 @@ A digital asset can be born as one thing and become another. The US Clarity Act 
 
 **摘要：**
 
-This study examined the impact of digital trade financing on the performance of Small and Medium Enterprises export intensity in the Economic Community of West African States region (proxy for Developing Economies) over the period 2019 to 2024.The study employed panel data from fifteen ECOWAS member and utilized a robust methodological framework comprising Hausman specification tests, random effects estimations, Difference Generalized Method of Moments, and System Generalized Method of Moments estimators to address issues of endogeneity, unobserved heterogeneity, and dynamic panel bias.The Hausman test results found that, random effect is appropriate hence the application of GMM instrument.The Difference GMM results confirmed strong persistence in export intensity with lagged dependent variable coefficient 0.190627 and probability value 0.0000.The J-statistics for GMM estimations were effectively zero, confirming instrument validity.The study concludes that, digital trade financing exerts significant and heterogeneous effects on SME export intensity performance in the ECOWAS region.Digital standby letters of credit showed negative effects on export intensity.Dynamic discounting strongly supports digital transactions and exports.Internet penetration consistently enables export intensity.The study recommends that, policymakers prioritize digital standby letter of credit development, accelerate digital infrastructure investments and support continued research on digital trade finance and SME export intensity in the ECOWAS region.
+This study examined the impact of digital trade financing on the performance of Small and Medium Enterprises export intensity in the Economic Community of West African States region (proxy for Developing Economies) over the period 2019 to 2024. The study employed panel data from fifteen ECOWAS member and utilized a robust methodological framework comprising Hausman specification tests, random effects estimations, Difference Generalized Method of Moments, and System Generalized Method of Moments estimators to address issues of endogeneity, unobserved heterogeneity, and dynamic panel bias. The Hausman test results found that, random effect is appropriate hence the application of GMM instrument. The Difference GMM results confirmed strong persistence in export intensity with lagged dependent variable coefficient 0.190627 and probability value 0.0000. The J-statistics for GMM estimations were effectively zero, confirming instrument validity. The study concludes that, digital trade financing exerts significant and heterogeneous effects on SME export intensity performance in the ECOWAS region. Digital standby letters of credit showed negative effects on export intensity. Dynamic discounting strongly supports digital transactions and exports. Internet penetration consistently enables export intensity. The study recommends that, policymakers prioritize digital standby letter of credit development, accelerate digital infrastructure investments and support continued research on digital trade finance and SME export intensity in the ECOWAS region.
 
 ---
 
-## 445. [CRON GUARDIAN caught: Sep 22 03:04:20 vmi3382514 python3\[631780\]: CoinGecko 429 for bitcoin, waiting — E8 Intelligence Research](<https://doi.org/10.5281/zenodo.24098863>)
+## 464. [CRON GUARDIAN caught: Sep 22 03:04:20 vmi3382514 python3\[631780\]: CoinGecko 429 for bitcoin, waiting — E8 Intelligence Research](<https://doi.org/10.5281/zenodo.24098863>)
 
 - 作者：Andrew Stewart Caldin
 - 发表日期：2026-11-10
@@ -5984,7 +6246,7 @@ SOURCE: journal LINE: Sep 22 03:04:20 vmi3382514 python3\[631780\]: CoinGecko 42
 
 ---
 
-## 446. [Personal innovativeness, attitude to government policy, and electric vehicle adoption in Indonesia: Mediation and moderation effects](<https://doi.org/10.59953/paperasia.v42i5b.1344>)
+## 465. [Personal innovativeness, attitude to government policy, and electric vehicle adoption in Indonesia: Mediation and moderation effects](<https://doi.org/10.59953/paperasia.v42i5b.1344>)
 
 - 作者：Nadia Nila Sari; Mohd Fazli Mohd Sam
 - 发表日期：2026-11-10
@@ -5998,7 +6260,7 @@ Despite the presence of environmental concerns, including pollution and global w
 
 ---
 
-## 447. [ARCADIA : Adaptive Real-time Cross-chain Abuse Detection through Inductive Analysis](<https://doi.org/10.1145/3862592>)
+## 466. [ARCADIA : Adaptive Real-time Cross-chain Abuse Detection through Inductive Analysis](<https://doi.org/10.1145/3862592>)
 
 - 作者：Babu Pillai; Aravinda S. Rao; Marimuthu Swami Palaniswami; Vallipuram Muthukkumarasamy
 - 发表日期：2026-11-10
@@ -6012,7 +6274,7 @@ Cross-chain systems were once praised for enabling seamless blockchain interoper
 
 ---
 
-## 448. [CRON GUARDIAN caught: Sep 22 19:58:38 vmi3382514 python3\[631780\]: CoinGecko 429 for bitcoin, waiting — E8 Intelligence Research](<https://doi.org/10.5281/zenodo.24099070>)
+## 467. [CRON GUARDIAN caught: Sep 22 19:58:38 vmi3382514 python3\[631780\]: CoinGecko 429 for bitcoin, waiting — E8 Intelligence Research](<https://doi.org/10.5281/zenodo.24099070>)
 
 - 作者：Andrew Stewart Caldin
 - 发表日期：2026-11-10
@@ -6025,7 +6287,7 @@ SOURCE: journal LINE: Sep 22 19:58:38 vmi3382514 python3\[631780\]: CoinGecko 42
 
 ---
 
-## 449. [ARGOS-11: registro de hipótesis con huella criptográfica y sellos OpenTimestamps, versión 3 (Mejorar ante oclusión sintética no garantiza mejorar ante oclusión real: estudio controlado en detección de personas)](<https://doi.org/10.5281/zenodo.24122871>)
+## 468. [ARGOS-11: registro de hipótesis con huella criptográfica y sellos OpenTimestamps, versión 3 (Mejorar ante oclusión sintética no garantiza mejorar ante oclusión real: estudio controlado en detección de personas)](<https://doi.org/10.5281/zenodo.24122871>)
 
 - 作者：Jhan Logan Ramos Quispe; Celia Patricia Apaza Hilasaca; Brayan Raul Condori Quispe
 - 发表日期：2026-11-10
@@ -6038,7 +6300,7 @@ Versión 3 (16/11/2026). Añade los registros de H1 a H5 (PROTOCOLO.md y PROTOCO
 
 ---
 
-## 450. [Optimal Trading Speed on Blockchain](<https://arxiv.org/abs/2611.13616>)
+## 469. [Optimal Trading Speed on Blockchain](<https://arxiv.org/abs/2611.13616>)
 
 - 作者：Ruizhe Jia; Shihao Yu
 - 发表日期：2026-11-10
@@ -6052,7 +6314,7 @@ On blockchain-based exchanges, faster blocks weaken the priority-fee competition
 
 ---
 
-## 451. [Deep learning for cryptocurrency price forecasting: A taxonomy, benchmark, and gap analysis](<https://doi.org/10.15276/hait.09.2026.35>)
+## 470. [Deep learning for cryptocurrency price forecasting: A taxonomy, benchmark, and gap analysis](<https://doi.org/10.15276/hait.09.2026.35>)
 
 - 作者：未提供
 - 发表日期：2026-11-10
@@ -6066,7 +6328,7 @@ Relevance.Cryptocurrency returns are volatile, non-stationary, and heavy-tailed.
 
 ---
 
-## 452. [Repertoires of Contention: Building computational tools and infrastructures for community resistance to bitcoin mining](<https://arxiv.org/abs/2611.13527>)
+## 471. [Repertoires of Contention: Building computational tools and infrastructures for community resistance to bitcoin mining](<https://arxiv.org/abs/2611.13527>)
 
 - 作者：Marina Johnson-Zafiris; Owen Marshall; Jen Liu; Joseph Ferdinando; Steven J. Jackson; Christopher Csíkszentmihályi
 - 发表日期：2026-11-10
@@ -6080,7 +6342,7 @@ Recent work in human-computer interaction and allied fields has sought to engage
 
 ---
 
-## 453. [Fine-Tuning an Order-Flow Foundation Model for Sub-Second Forecasting](<https://arxiv.org/abs/2611.14117>)
+## 472. [Fine-Tuning an Order-Flow Foundation Model for Sub-Second Forecasting](<https://arxiv.org/abs/2611.14117>)
 
 - 作者：Fedor Shabashev
 - 发表日期：2026-11-10
@@ -6094,7 +6356,7 @@ Generative models have become the standard approach in language and vision. Thes
 
 ---
 
-## 454. [A Decentralized Artificial Intelligence with Confidential Computing and Smart Contract-Based Trust Verification](<https://doi.org/10.5281/zenodo.24105049>)
+## 473. [A Decentralized Artificial Intelligence with Confidential Computing and Smart Contract-Based Trust Verification](<https://doi.org/10.5281/zenodo.24105049>)
 
 - 作者：D. A. Onuma; I. M. Ossai; A. H. Mini; B. M. Kpobe
 - 发表日期：2026-11-10
@@ -6108,7 +6370,7 @@ Abstract: Decentralized artificial intelligence enables collaborative learning w
 
 ---
 
-## 455. [Percepciones sobre desarrollo, seguridad y cooperación regional: una reflexión constructivista desde la movilidad académica en El Salvador y su contraste con Colombia](<http://hdl.handle.net/11634/74704>)
+## 474. [Percepciones sobre desarrollo, seguridad y cooperación regional: una reflexión constructivista desde la movilidad académica en El Salvador y su contraste con Colombia](<http://hdl.handle.net/11634/74704>)
 
 - 作者：Steilan Daniela Villegas Alsina
 - 发表日期：2026-11-10
@@ -6121,7 +6383,7 @@ Este trabajo analiza las percepciones sobre el desarrollo, la seguridad y la coo
 
 ---
 
-## 456. [INTERDISCIPLINARY LABOR "WFS REGENERATION: A SYSTEMIC MODEL OF RESTORATION"](<https://doi.org/10.24108/preprints-3116987>)
+## 475. [INTERDISCIPLINARY LABOR "WFS REGENERATION: A SYSTEMIC MODEL OF RESTORATION"](<https://doi.org/10.24108/preprints-3116987>)
 
 - 作者：Олег Трушкинг
 - 发表日期：2026-11-10
@@ -6135,7 +6397,7 @@ This work presents a systemic model of regeneration that integrates Vedic axioma
 
 ---
 
-## 457. [Comparative Analytical Review of Modern Criminal Legislation Addressing Digital Crimes in Light of Cyber Developments and Artificial Intelligence Technologies](<https://doi.org/10.47134/ijlj.v4i2.6415>)
+## 476. [Comparative Analytical Review of Modern Criminal Legislation Addressing Digital Crimes in Light of Cyber Developments and Artificial Intelligence Technologies](<https://doi.org/10.47134/ijlj.v4i2.6415>)
 
 - 作者：Turath Aziz
 - 发表日期：2026-11-10
@@ -6149,7 +6411,7 @@ As a result of the fast growth of the technology and integration with smart syst
 
 ---
 
-## 458. [Hybrid Decomposition-Based Deep Learning Models for Agricultural Commodity Price Forecasting: Wavelet and EMD Approaches for Indian Cardamom Market](<https://doi.org/10.56093/jisas.v80i3.4>)
+## 477. [Hybrid Decomposition-Based Deep Learning Models for Agricultural Commodity Price Forecasting: Wavelet and EMD Approaches for Indian Cardamom Market](<https://doi.org/10.56093/jisas.v80i3.4>)
 
 - 作者：Martin Joseph; Imran Khan
 - 发表日期：2026-11-10
@@ -6163,7 +6425,7 @@ Accurate short-term price forecasting for high-value agricultural commodities is
 
 ---
 
-## 459. [Forecasting of Household Electronic Product Sales Using the Autoregressive Integrated Moving Average Model](<https://doi.org/10.32736/sisfokom.v15i4.2658>)
+## 478. [Forecasting of Household Electronic Product Sales Using the Autoregressive Integrated Moving Average Model](<https://doi.org/10.32736/sisfokom.v15i4.2658>)
 
 - 作者：Sanusi Sanusi; Ilham Juliwardi; Laila Sapuan; Muhammad Ardiansyah; Mirna Ria Andini; Rivansyah Suhendra; Inggih Permana
 - 发表日期：2026-11-10
@@ -6177,7 +6439,7 @@ Advances in digital technology are driving businesses to leverage historical dat
 
 ---
 
-## 460. [MemGUI-Bench: Benchmarking Memory of Mobile GUI Agents in Dynamic Environments](<https://doi.org/10.1145/3767308.3836285>)
+## 479. [MemGUI-Bench: Benchmarking Memory of Mobile GUI Agents in Dynamic Environments](<https://doi.org/10.1145/3767308.3836285>)
 
 - 作者：Guangyi Liu; Pengxiang Zhao; Yaozhen Liang; Qinyi Luo; Shunye Tang; Yuxiang Chai; Weifeng Lin; He Xiao; Wenhao Wang; Siheng Chen; Zhengxi Lu; Gao Wu; Hao Wang; Liang Liu; Yong Liu
 - 发表日期：2026-11-09
@@ -6190,7 +6452,7 @@ Current mobile GUI agent benchmarks systematically fail to assess memory capabil
 
 ---
 
-## 461. [Conceptualising and operationalising kinship-based organised crime: a scoping review](<https://doi.org/10.1007/s12117-026-09633-4>)
+## 480. [Conceptualising and operationalising kinship-based organised crime: a scoping review](<https://doi.org/10.1007/s12117-026-09633-4>)
 
 - 作者：Inge-Mai A. Jønsson; Sanez Zolghadriha
 - 发表日期：2026-11-09
@@ -6204,7 +6466,7 @@ Kinship-based organised crime (KBOC) has attracted growing media attention in No
 
 ---
 
-## 462. [Image Rights Infringements: Is the Common Law of Delict Sufficient or is It Time for Legislative Intervention?](<https://doi.org/10.17159/1727-3781/2026/v29i0a21812>)
+## 481. [Image Rights Infringements: Is the Common Law of Delict Sufficient or is It Time for Legislative Intervention?](<https://doi.org/10.17159/1727-3781/2026/v29i0a21812>)
 
 - 作者：Layckan Gensen
 - 发表日期：2026-11-09
@@ -6218,7 +6480,7 @@ In modern commerce one could argue that the image of an individual constitutes a
 
 ---
 
-## 463. [Cooperação Jurídica Internacional Volume 2 Tomo 1](<https://doi.org/10.63601/978-65-88299-50-0>)
+## 482. [Cooperação Jurídica Internacional Volume 2 Tomo 1](<https://doi.org/10.63601/978-65-88299-50-0>)
 
 - 作者：未提供
 - 发表日期：2026-11-09
@@ -6231,7 +6493,7 @@ Esta linha editorial reúne publicações de eventos da ESMPU e trabalhos cient�
 
 ---
 
-## 464. [Digital Behavioral Analysis, Computer Crime, and Investigations: Persona ex Machina](<https://doi.org/10.4324/9781003671305>)
+## 483. [Digital Behavioral Analysis, Computer Crime, and Investigations: Persona ex Machina](<https://doi.org/10.4324/9781003671305>)
 
 - 作者：C. R. Johnson
 - 发表日期：2026-11-09
@@ -6245,7 +6507,7 @@ Digital Behavioral Analysis, Computer Crime, and Investigations integrates digit
 
 ---
 
-## 465. [A Comparative Analysis of the Fintech Industry and Regulatory Frameworks in Indonesia and Malaysia](<https://doi.org/10.65638/2978-8196.2026.2.06>)
+## 484. [A Comparative Analysis of the Fintech Industry and Regulatory Frameworks in Indonesia and Malaysia](<https://doi.org/10.65638/2978-8196.2026.2.06>)
 
 - 作者：Rafisah Mat Radzi
 - 发表日期：2026-11-09
@@ -6259,7 +6521,7 @@ The rapid growth of financial technology (fintech), particularly in digital paym
 
 ---
 
-## 466. [The Thirsty Machine: India's AI Data Centre Race, the Water Crisis, and the Choice Between Argentina's Libertarian Gamble and China's Governance Blueprint](<https://doi.org/10.21203/rs.3.rs-10925216/v1>)
+## 485. [The Thirsty Machine: India's AI Data Centre Race, the Water Crisis, and the Choice Between Argentina's Libertarian Gamble and China's Governance Blueprint](<https://doi.org/10.21203/rs.3.rs-10925216/v1>)
 
 - 作者：Syed Mujtaba Athar; Hina Iliyas
 - 发表日期：2026-11-09
@@ -6273,7 +6535,7 @@ India is building an artificial intelligence data centre network, which is expec
 
 ---
 
-## 467. [AI-Enabled Cryptocurrency Scams and Investor Vulnerability: Evidence on Scam Sophistication, Adoption, Financial Access and Losses](<https://doi.org/10.21203/rs.3.rs-11383134/v1>)
+## 486. [AI-Enabled Cryptocurrency Scams and Investor Vulnerability: Evidence on Scam Sophistication, Adoption, Financial Access and Losses](<https://doi.org/10.21203/rs.3.rs-11383134/v1>)
 
 - 作者：Sahila Chellamuthu; Mcxin Tee
 - 发表日期：2026-11-09
@@ -6287,7 +6549,7 @@ Cryptocurrency fraud is among the largest categories of financial crime, and gen
 
 ---
 
-## 468. [Usage of blockchain technology and shareholder-oriented firm performance: Evidence from Indian listed firms](<https://doi.org/10.56879/ijbm.v5i4.174>)
+## 487. [Usage of blockchain technology and shareholder-oriented firm performance: Evidence from Indian listed firms](<https://doi.org/10.56879/ijbm.v5i4.174>)
 
 - 作者：Dikshita Thakkar; Himanshu
 - 发表日期：2026-11-09
@@ -6301,7 +6563,7 @@ Blockchain technology (BCT) is increasingly used to improve transparency and red
 
 ---
 
-## 469. [SAS Multimetric Tribunal: What a Hallucination Benchmark Measures and What It Does Not — A Format-Controlled Audit of Structural Classification](<https://doi.org/10.32388/t420iv.10>)
+## 488. [SAS Multimetric Tribunal: What a Hallucination Benchmark Measures and What It Does Not — A Format-Controlled Audit of Structural Classification](<https://doi.org/10.32388/t420iv.10>)
 
 - 作者：Gonzalo Emir Durante
 - 发表日期：2026-11-09
@@ -6315,7 +6577,7 @@ Hallucination-detection systems are usually judged by a single headline metric, 
 
 ---
 
-## 470. [The impact of cryptocurrencies on financial discrepancies under accounting recognition standards in businesses](<https://doi.org/10.1016/j.iref.2026.106004>)
+## 489. [The impact of cryptocurrencies on financial discrepancies under accounting recognition standards in businesses](<https://doi.org/10.1016/j.iref.2026.106004>)
 
 - 作者：Yean‐Fu Wen; Yi-Tung Lin
 - 发表日期：2026-11-09
@@ -6329,7 +6591,7 @@ The rapid development of blockchain technology has led to the creation of crypto
 
 ---
 
-## 471. [am404sv/riskgate: RiskGate v1.0.0 — Dissertation release](<https://doi.org/10.5281/zenodo.24092851>)
+## 490. [am404sv/riskgate: RiskGate v1.0.0 — Dissertation release](<https://doi.org/10.5281/zenodo.24092851>)
 
 - 作者：ViacheslavAskerov
 - 发表日期：2026-11-09
@@ -6342,7 +6604,7 @@ The rapid development of blockchain technology has led to the creation of crypto
 
 ---
 
-## 472. [Examining the return dynamics of Bitcoin and Ethereum around major international football tournaments](<https://doi.org/10.21511/imfi.23(4).2026.16>)
+## 491. [Examining the return dynamics of Bitcoin and Ethereum around major international football tournaments](<https://doi.org/10.21511/imfi.23(4).2026.16>)
 
 - 作者：Wendy Wendy; Hansen Tandra; Mochammad Ridwan Ristyawan
 - 发表日期：2026-11-09
@@ -6356,7 +6618,7 @@ Type of the article: Research ArticleAbstractCryptocurrencies have become increa
 
 ---
 
-## 473. [Machine Economy Index (MEI) and Legal Rail Readiness Score (LRRS): Methodology Documentation](<https://doi.org/10.5281/zenodo.24093685>)
+## 492. [Machine Economy Index (MEI) and Legal Rail Readiness Score (LRRS): Methodology Documentation](<https://doi.org/10.5281/zenodo.24093685>)
 
 - 作者：Muhammad Suleiman
 - 发表日期：2026-11-09
@@ -6369,7 +6631,7 @@ Methodology documentation for the Machine Economy Index (MEI) and its legal comp
 
 ---
 
-## 474. [Conditional Integration of AI Equities with Traditional and Alternative Assets: Evidence from Wavelet Coherence and Time-Varying Connectedness](<https://doi.org/10.3390/jrfm19110907>)
+## 493. [Conditional Integration of AI Equities with Traditional and Alternative Assets: Evidence from Wavelet Coherence and Time-Varying Connectedness](<https://doi.org/10.3390/jrfm19110907>)
 
 - 作者：Heni Boubaker; Nadia Farjallah
 - 发表日期：2026-11-09
@@ -6382,7 +6644,7 @@ This study examines whether the equities of leading artificial intelligence (AI)
 
 ---
 
-## 475. [Second Look Lab — Research Brief: Bezafibrate as a candidate geroprotector, with a forward prediction ledger of 50 ongoing trials](<https://doi.org/10.5281/zenodo.24081359>)
+## 494. [Second Look Lab — Research Brief: Bezafibrate as a candidate geroprotector, with a forward prediction ledger of 50 ongoing trials](<https://doi.org/10.5281/zenodo.24081359>)
 
 - 作者：Second Look Lab
 - 发表日期：2026-11-09
@@ -6395,7 +6657,7 @@ Hypothesis-generating research brief from Second Look Lab, an independent comput
 
 ---
 
-## 476. [РЕГРЕСІЙНО-СЦЕНАРНЕ МОДЕЛЮВАННЯ ДОВГОСТРОКОВОЇ ДИНАМІКИ КАПІТАЛІЗАЦІЇ СВІТОВОГО КРИПТОВАЛЮТНОГО РИНКУ: МЕТОДОЛОГІЧНІ ОБМЕЖЕННЯ ЕКСТРАПОЛЯЦІЙНИХ ПІДХОДІВ](<https://doi.org/10.32782/2522-1256-2026-50-18>)
+## 495. [РЕГРЕСІЙНО-СЦЕНАРНЕ МОДЕЛЮВАННЯ ДОВГОСТРОКОВОЇ ДИНАМІКИ КАПІТАЛІЗАЦІЇ СВІТОВОГО КРИПТОВАЛЮТНОГО РИНКУ: МЕТОДОЛОГІЧНІ ОБМЕЖЕННЯ ЕКСТРАПОЛЯЦІЙНИХ ПІДХОДІВ](<https://doi.org/10.32782/2522-1256-2026-50-18>)
 
 - 作者：Mariana Myronova; Юлія Полякова
 - 发表日期：2026-11-09
@@ -6409,7 +6671,7 @@ Hypothesis-generating research brief from Second Look Lab, an independent comput
 
 ---
 
-## 477. [Machine Learning for Money Laundering Analysis](<https://doi.org/10.53941/ijndi.2026.100024>)
+## 496. [Machine Learning for Money Laundering Analysis](<https://doi.org/10.53941/ijndi.2026.100024>)
 
 - 作者：Victor I. C. Chang; Hai Wang; Siddharth Raut; Assel Akzhalova; Weihang Huang
 - 发表日期：2026-11-09
@@ -6423,7 +6685,7 @@ This study investigates the application of machine learning (ML) for proactive t
 
 ---
 
-## 478. [Post-trade Exposure Dispersion: Participant Composition and Calendar Weighting in a Transparent Perpetual Market (Companion Code and Aggregate Results)](<https://doi.org/10.5281/zenodo.24086044>)
+## 497. [Post-trade Exposure Dispersion: Participant Composition and Calendar Weighting in a Transparent Perpetual Market (Companion Code and Aggregate Results)](<https://doi.org/10.5281/zenodo.24086044>)
 
 - 作者：Bolang Fang
 - 发表日期：2026-11-09
@@ -6433,267 +6695,6 @@ This study investigates the application of machine learning (ML) for proactive t
 **摘要：**
 
 This release contains companion code and aggregate results for a study of post-trade exposure dispersion in the Hyperliquid BTC perpetual market. The study follows the passive recipient addresses in each trade episode and measures changes in their signed BTC exposure over the next 30 seconds. The evaluation covers 48,636 source-supported episodes across 14 dates in December 2025, using selected UTC hours. The package includes Python scripts for verifying the saved results, a source-file inventory, and research implementation files. Run python -B verify.py from the repository root to verify the distributed materials. The raw trade files and private event-level ledgers are not included. The original data are available from Albers et al. at https://doi.org/10.5281/zenodo.18184441.
-
----
-
-## 479. [Bitcoin: The Little Rule That Beats the Market](<https://doi.org/10.5281/zenodo.24092036>)
-
-- 作者：Manuel Amon Bossi
-- 发表日期：2026-11-09
-- 引用次数：0
-- DOI：https://doi.org/10.5281/zenodo.24092036
-
-**摘要：**
-
-I study a daily rule that sets Bitcoin exposure from two observable inputs: the trend of a foreign-currency basket against the dollar and the deviation of Bitcoin's price from a fixed power-law curve. I construct the basket from the Japanese yen, Chinese yuan and British pound, using Federal Reserve trade weights published at each annual reset. In this paper, the market means Bitcoin buy-and-hold. From January 1, 2014 to November 6, 2026, the rule earned a compound annual growth rate (CAGR) of 70.41%, a Sharpe ratio of 1.46, a maximum drawdown of -51.91% and a final multiple of 941.64 times. Buy-and-hold earned 43.19%, 0.87, -83.62% and 100.63 times. The results are a historical evaluation. Paired 95% bootstrap intervals include zero for the CAGR and Sharpe gaps and exclude zero for the drawdown gap. I selected the currencies and parameters with knowledge of this sample, and the account uses synthetic short positions and omits financing costs. I motivate the rule with the hypothesis that easier global dollar conditions support portfolio demand for Bitcoin. The backtest leaves that channel unidentified, and the rule needs a prospective holdout.
-
----
-
-## 480. [ЕВОЛЮЦІЯ ЗАКОНОДАВСТВА У СФЕРІ КРИПТОВАЛЮТИ: ІСТОРИЧНІ ПЕРЕДУМОВИ ТА ЕТИЧНІ АСПЕКТИ КРИМІНАЛІЗАЦІЇ](<https://doi.org/10.32999/ksu2307-8049/2026-4-16>)
-
-- 作者：Марія Георгіївна Корабель; Tetіana A. Pavlenko; Микола Дмитрович Ждан
-- 发表日期：2026-11-09
-- 引用次数：0
-- DOI：https://doi.org/10.32999/ksu2307-8049/2026-4-16
-- [打开 PDF](<https://lj.journal.kspu.edu/index.php/lj/article/download/551/499>)
-
-**摘要：**
-
-Мета. Метою дослідження є комплексний аналіз історичних передумов виникнення криптовалюти та еволюції нормативно-правового регулювання суспільних відносин у сфері її використання в Україні, а також визначення особливостей і меж кримінально-правової охорони криптовалюти та етичних засад її криміналізації. Особливу увагу приділено встановленню взаємозв’язку між формуванням правового статусу криптовалюти та можливістю визнання її предметом кримінальних правопорушень, а також визначенню допустимих меж кримінально-правового втручання у сферу цифрових активів. Методи. У процесі дослідження використано комплекс загальнонаукових і спеціально-юридичних методів. За допомогою історико-правового методу простежено основні етапи становлення криптовалюти та розвитку законодавства у відповідній сфері. Формально-юридичний метод застосовано для аналізу нормативно-правових положень, що визначають правову природу та статус криптовалюти і віртуальних активів. Системний метод дозволив розглянути кримінально-правову охорону віртуальних активів у взаємозв’язку з іншими напрямами правового регулювання. За допомогою методу аналізу та узагальнення визначено основні проблеми криміналізації суспільно небезпечних діянь, пов’язаних із використанням криптовалюти, та сформульовано відповідні висновки. Результати. Установлено, що розвиток криптовалюти як результат еволюції електронних платіжних систем, цифрових грошей та децентралізованих технологій відбувався значно швидше, ніж формування належної нормативно-правової бази. Проаналізовано еволюцію підходів до правового регулювання криптовалюти в Україні – від початкової правової невизначеності та спроби співвіднести Bitcoin із традиційними правовими категоріями до поступового нормативного визнання поняття «віртуальний актив». Обґрунтовано, що визначення правової природи криптовалюти має принципове значення для кримінального права, оскільки створює передумови для визначення можливості визнання її предметом кримінальних правопорушень. Встановлено, що криптовалюта може мати самостійне майнове значення та водночас використовуватися у механізмах учинення суспільно небезпечних діянь, зокрема шахрайства, незаконного заволодіння майном, легалізації незаконно одержаних активів та інших правопорушень. Досліджено етичні аспекти криміналізації та визначено основними орієнтирами суспільну небезпечність діяння, справедливість, пропорційність, правову визначеність і принцип ultima ratio. Висновки. Розвиток законодавства у сфері криптовалюти є закономірною реакцією держави на трансформацію суспільних відносин під впливом цифрових технологій. Водночас своєчасне нормативне реагування не повинно призводити до необґрунтованого розширення кримінально-правової заборони. Криміналізація має стосуватися не криптовалюти як технологічного чи майнового явища, а конкретних суспільно небезпечних діянь, пов’язаних із її використанням. Подальше вдосконалення кримінально-правової охорони віртуальних активів має здійснюватися відповідно до динаміки розвитку суспільних відносин із забезпеченням балансу між ефективним захистом майнових інтересів, протидією кримінальним правопорушенням та недопущенням надмірного втручання у правомірний обіг цифрових активів.
-
----
-
-## 481. [A Systematic Literature Review of Blockchain and Distributed Ledger Technology for the Detection and Prevention of Phishing Attacks](<https://doi.org/10.64388/ire1724971>)
-
-- 作者：Egbele Wilfred Odianosen; Temitope Olufunmi Atoyebi; Ridwan Kolapo; Prema A. Kirubakaran
-- 发表日期：2026-11-09
-- 引用次数：0
-- DOI：https://doi.org/10.64388/ire1724971
-- [打开 PDF](<https://www.irejournals.com/formatedpaper/1724971.pdf>)
-
-**摘要：**
-
-This study systematically reviews blockchain and distributed ledger technology (DLT) for phishing detection and prevention. It also identifies two related research streams: the use of DLT as the infrastructure for anti-phishing intelligence and analytical methods for identifying phishing in blockchain and Web3. The review synthesizes 45 publications through 2026 using PRISMA and reports descriptive mapping, thematic analysis, and evidence identification. Some of the functions of the ledger proposed include decentralized URL blacklists and auditable threat intelligence. In blockchain ecosystems, the dominant analytical methods include machine learning on account and transaction data, analysis of transaction graphs and other temporal graph models, contrastive learning, cross-chain adaptation, and payload inspection. The studies reviewed are largely focused on the Ethereum blockchain from 2023 to 2025. Other limitations identified in the studies include imbalanced classes, ambiguous or absence of labels, lack of both internal and external validation, and privacy and governance concerns. The report suggests the protective measures proposed may not substantially prevent financial loss. It concludes that, despite its potential for improving provability and accountability, the actual effect on phishing is limited without evidence of protective measures, and a timely, off-chain corrective and dispute process.
-
----
-
-## 482. [Can intelligent transportation steer towards a low-carbon future?](<https://doi.org/10.1016/j.rtbm.2026.101942>)
-
-- 作者：Xin Yue Song; Minjie Lin; Chi‐Wei Su; Meng Qin; Santiago Budría
-- 发表日期：2026-11-09
-- 引用次数：0
-- DOI：https://doi.org/10.1016/j.rtbm.2026.101942
-- [打开 PDF](<https://www.sciencedirect.com/science/article/pii/S2210539526003482/pdf>)
-
-**摘要：**
-
-OpenAlex 暂未提供摘要。
-
----
-
-## 483. [Agent4Crypto: A Dual-Reflective and Market-Feedback-Aligned LLM-Based Multi-Agent System for Cryptocurrency Trading](<https://arxiv.org/abs/2611.12269>)
-
-- 作者：Guangyan Gan; Jiahao Li; Jiashun Wang; Lin William Cong
-- 发表日期：2026-11-09
-- 引用次数：0
-- DOI：https://doi.org/10.48550/arxiv.2611.12269
-- [打开 PDF](<https://arxiv.org/pdf/2611.12269>)
-
-**摘要：**
-
-Cryptocurrency markets provide a natural testbed for autonomous AI agents because they are digital-native, high-frequency, and machine-speed environments, yet existing methods often struggle with non-stationary market regimes, opaque decisions, and fixed aggregation rules. In this paper, we propose Agent4Crypto, a dual-reflective and market-feedback-aligned multi-agent system. The framework coordinates specialized agents for data collection, analysis, risk assessment, reflection, and trading, synthesizing heterogeneous signals from prices, indicators, news, and charts in an interpretable decision pipeline. Our central design is a trader-centric decision mechanism: three style-specific trader agents, Aggressive, Neutral, and Conservative, generate candidate actions and natural-language rationales from the same market context, while their influence is learned rather than manually fixed. A PPO-based gating policy dynamically allocates trader weights through a dual-reflective feedback process. One reflection stream evaluates post-trade decision quality from realized portfolio outcomes and distills reusable lessons into a Financial ReasoningBank for retrieval in subsequent trader prompts, while the other estimates trader-level counterfactual contribution, indicating which style has recently aligned better with market movements. The PPO state combines Counterfactual Contribution Memory with market features, previous trader weights, and current trader actions, so trader influence adapts across bull, sideways, and bear regimes. Experiments on BTC, ETH, and XRP show that Agent4Crypto improves total return and Sharpe ratio over traditional strategies, machine learning and reinforcement learning baselines, and existing LLM-based trading systems, demonstrating the value of interpretable trader competition and market-feedback-driven adaptation in volatile cryptocurrency markets.
-
----
-
-## 484. [Lessons Not Learned: Why Cross-Chain Bridges Keep Losing Billions the Same Way](<https://arxiv.org/abs/2611.12252>)
-
-- 作者：Mohsen Ahmadvand; Piotr Dobaczewski; Camille Bouzerand
-- 发表日期：2026-11-09
-- 引用次数：0
-- DOI：https://doi.org/10.48550/arxiv.2611.12252
-- [打开 PDF](<https://arxiv.org/pdf/2611.12252>)
-
-**摘要：**
-
-Bridge hacks have cost billions, often without exploiting a code bug. In the cross-chain bridge hacks we catalogue from 2021 to 2026, failures of security posture, meaning how a bridge's people, code, controls and off-chain infrastructure are set up, account for 88% of reported losses since 2023, and nearly all repeat earlier failures. Code audits cannot catch these failures, so we propose a bridge security assessment rubric. It scores each bridge deployment from on-chain evidence, and a hard cap drops the score to the lowest value when a fatal risk is present. A token is only as safe as its weakest deployment if all its deployments share one backing. For attacks nobody anticipated, we show that rate limits and an emergency stop still bound the loss. We build an analyzer that applies the rubric to deployed bridges and monitors them for changes, and an agentic analyzer that runs the same checks on any bridge. Operators learn what to fix, and users can compare bridges. Our rubric's controls cut bridge hack losses 105-fold, from \\$3.52B to \\$33M.
-
----
-
-## 485. [Priority Directions for Digital Transformation of Public Utilities and Development of Digital Economy](<https://www.globalresearchnetwork.us/index.php/ajebm/article/view/5902>)
-
-- 作者：Mardanova Mohidil Otabek qizi
-- 发表日期：2026-11-09
-- 引用次数：0
-- DOI：https://doi.org/10.31150/4kwkd943
-- [打开 PDF](<https://www.globalresearchnetwork.us/index.php/ajebm/article/download/5902/5306>)
-
-**摘要：**
-
-Digital transformation has become a key factor in improving the efficiency of public utilities, yet in Uzbekistan data on electricity, water, gas and heat supply are still generated by separate departments and stored in fragmented information systems. This fragmentation hinders real-time control of resources, transparent billing and prompt management decisions. The purpose of this article is to substantiate the priority directions for the digital transformation of public utilities management and the organizational-economic mechanisms for developing the digital economy in the country. The study applies a systems approach, structural-functional analysis, comparative analysis of international practice, analysis of national policy documents and conceptual modelling. As a result, a conceptual framework of the Unified Smart Digital Platform for Public Utilities Management (USDP) is proposed. The model consists of five interrelated layers – users, sensors and infrastructure, data and technologies, processes and management, and results – and integrates scattered data into a single ecosystem based on the Internet of Things, Big Data analytics, artificial intelligence, cloud computing and blockchain. The organizational-economic mechanism of its implementation is described through institutional, organizational, financial, technological and human-capital components, a set of key performance indicators is proposed, and seven priority directions for developing the digital economy and increasing services exports are defined. The findings indicate that the USDP model can improve transparency, reduce resource losses and support the efficiency of service enterprises, provided that cybersecurity, data governance, interoperability and workforce skills are ensured. Empirical validation through regional pilot projects is recommended.
-
----
-
-## 486. [Honeypot Buyer: An Inside Look at the Coordinated Inauthentic Behaviour Economy](<https://doi.org/10.5281/zenodo.24120753>)
-
-- 作者：Mike Wright
-- 发表日期：2026-11-09
-- 引用次数：0
-- DOI：https://doi.org/10.5281/zenodo.24120753
-
-**摘要：**
-
-Most research on coordinated inauthentic behaviour (CIB) studies networks after theyhave been detected: takedown datasets, leaked tasking documents and platform reports. Less isknown about the commercial edge where CIB is sold, one customer at a time, to small businesses.This paper reports a fourteen-day engagement in which the author, operating a small investigativeFacebook page, accepted an unsolicited offer of reviews, likes and follows and played the vendor'sbuyer. The buyer was a honeypot: operator-only contact, no payment, a decoy target the operatorcontrolled, and a stopping rule. In that time the vendor delivered a sample review through aseparate persona account, quoted a price curve from USD 3 to USD 0.50 per review, offered fivepayment rails and disclosed two of them, a reused Bitcoin address and a UK e-money account,stated the account's registered holder in response to a screenshot pretext, and finally asked thebuyer to create and hand over a new Facebook page or account. We describe the vendor's tactics,techniques and procedures (TTPs) and map them to the DISARM framework. We analyse the socialengineering on both sides through persuasion and negotiation psychology, and release the pretextartifact as an open-source tool. The case shows that the buyer role is a productive collectionposition. It yields delivery, pricing, payment and asset-acquisition indicators that passiveobservation cannot reach, and it shows the retail CIB economy recruiting its own customers as asource of accounts.
-
----
-
-## 487. [Splitting for Stability: a Modified Reward Scheme for Transaction-Fee-Only Regimes](<https://arxiv.org/abs/2611.13252>)
-
-- 作者：Eric Brigham; Baigang Chen; Hopper Nicholas
-- 发表日期：2026-11-09
-- 引用次数：0
-- DOI：https://doi.org/10.48550/arxiv.2611.13252
-- [打开 PDF](<https://arxiv.org/pdf/2611.13252>)
-
-**摘要：**
-
-As Bitcoin's block subsidy declines over time, miner revenue will come to depend increasingly on transaction fees. In fee-dominated regimes, winner-take-all reward structures can create incentives for undercutting and fork-based mining strategies, leading to instability and reduced transaction throughput. To prevent this instability, we propose a reward-splitting mechanism in which the winning block producer receives an $α$-portion of the block reward, while the rest is distributed among other miners; this incentivizes mining on previous blocks with higher rewards, while preserving the incentive to produce blocks with high rewards. We evaluate the proposed reward structure through analysis and simulation. Our analysis derives a local profitability condition for one-step Function-Fork deviations, showing how the winner-side reward, loser-side subsidy, and honest hash power jointly determine whether undercutting is profitable. Simulations show parameter regions in which honest behavior dominates fork-based deviations. In the cases where forking becomes dominant, the learned strategy is the least aggressive variant studied. The analysis and simulations suggest that suitable reward-splitting parameters can reduce the honest participation needed to suppress aggressive forking strategies relative to the winner-take-all structure studied in prior work. Finally, we show that the modified reward scheme does not appear to worsen selfish mining incentives. Together, these results suggest that reward redistribution can mitigate fee-driven fork incentives without introducing stronger selfish mining incentives, providing a possible direction for incentive design in fee-era proof-of-work systems.
-
----
-
-## 488. [Useful Work Can Increase Energy Use: Demand Elasticity and Proof of Useful Work](<https://arxiv.org/abs/2611.13131>)
-
-- 作者：Isaiah Hull; Or Sattath
-- 发表日期：2026-11-09
-- 引用次数：0
-- DOI：https://doi.org/10.48550/arxiv.2611.13131
-- [打开 PDF](<https://arxiv.org/pdf/2611.13131>)
-
-**摘要：**
-
-A serious criticism of Bitcoin's Proof-of-Work is its enormous electricity consumption. Proof-of-Useful-Work (PoUW), introduced by Ball, Rosen, Sabin, and Vasudevan (2017), in which mining performs useful computations, was suggested as an alternative to reduce electricity expenditure, with matrix multiplication (MatMul) as a recent concrete instantiation by Komargodski and Weinstein (2026). Perhaps surprisingly, we show that switching to PoUW may increase the total electricity consumption, echoing Jevons' paradox. Intuitively, the PoUW mechanism acts as a subsidy that lowers the effective price of the useful work. Recall that demand is elastic if a discount of x percent in the price leads to an increase of more than x percent in the quantity demanded. If demand is elastic, the resulting increase in quantity demanded leads to a net increase in total electricity consumption; if inelastic, total electricity consumption decreases. Even then, the electricity consumption due to PoUW never vanishes, since the mining subsidy is spent on useful work that would not have been produced without the subsidy. This result is proved in a simple model with electricity-only costs, no PoUW overhead, and an unchanged mining subsidy. The analysis extends to less restrictive settings with adjusted thresholds.
-
----
-
-## 489. [Reconstructing the Principle of Saisine in Indonesian Digital Inheritance Law: A Comparative Analysis and a Progressive Legal Approach](<https://komisi2-ppikahi.id/index.php/JL/article/view/341>)
-
-- 作者：Kelik Iswandi
-- 发表日期：2026-11-09
-- 引用次数：0
-- [打开 PDF](<https://komisi2-ppikahi.id/index.php/JL/article/download/341/112>)
-
-**摘要：**
-
-Ekspansi ekonomi digital telah melahirkan aset-aset bernilai ekonomis signifikan, namun kerangka hukum waris Indonesia yang bersumber pada KUH Perdata abad ke-19 belum mampu mengakomodasi aset digital sebagai objek pewarisan secara komprehensif. Kekosongan ini (rechtsvacuum) menciptakan ketidakpastian hukum yang sistematis bagi ahli waris, diperparah oleh dominasi klausul Terms of Service platform digital dan ketegangan normatif dengan Undang-Undang Pelindungan Data Pribadi. Penelitian ini bertujuan merumuskan rekonstruksi doktrinal asas saisine dan model penemuan hukum (rechtsvinding) progresif yang dapat dioperasionalkan oleh hakim Indonesia dalam memutus sengketa waris digital tanpa menunggu reformasi legislatif. Penelitian ini menggunakan metode hukum normatif melalui pendekatan perundang-undangan, konseptual, komparatif, dan foreign case approach terhadap putusan Bundesgerichtshof (BGH) III ZR 183/17 serta Revised Uniform Fiduciary Access to Digital Assets Act (RUFADAA) Amerika Serikat, yang dipilih berdasarkan paralelisme struktural dengan asas saisine dalam KUH Perdata. Penelitian ini menghasilkan dua kontribusi orisinal: pertama, matriks distingsi empat sumbu — dimensi ekonomis versus personal, kehendak tersurat versus tersirat pewaris, kepentingan ahli waris versus pihak ketiga, dan reversibilitas pengungkapan — sebagai instrumen analitis operasional bagi hakim dalam menyeimbangkan hak waris dan post-mortem privacy secara proporsional; kedua, model rekonstruksi tiga lapisan yang mencakup rekonstruksi konseptual objek waris, rekonstruksi mekanisme peralihan berbasis penetapan pengadilan, dan rekonstruksi hubungan hukum dengan platform melalui pembatasan klausul ToS berdasarkan Pasal 1337 KUH Perdata. Penelitian ini berkontribusi pada pengembangan teori hukum waris digital dalam tradisi civil law dan memberikan rekomendasi konkret bagi pembentuk kebijakan dalam menyusun regulasi waris digital yang adaptif.
-
----
-
-## 490. [Reconstruction of Crypto Asset Inheritance Law: A Review of Maqasid al-Syariah and Positive Law in Indonesia](<https://al-afkar.com/index.php/Afkar_Journal/article/view/2544>)
-
-- 作者：Abdul Kodir Alhamdani; Samsul Bahri; Desi Cahya Anggraeni; Syahrial; Nema Widiantini
-- 发表日期：2026-11-09
-- 引用次数：0
-- [打开 PDF](<https://al-afkar.com/index.php/Afkar_Journal/article/download/2544/2869>)
-
-**摘要：**
-
-This study aims to reconstruct the inheritance law of crypto assets in Indonesia by reviewing the problems from the perspective of positive law and maqasid al-syariah, in order to fill the legal vacuum (rechtsvacuüm) and overcome existing normative conflicts. Using a normative juridical method with a statutory, conceptual, and philosophical approach, this study analyzes library data from primary and secondary legal materials. The results of the study identified the existence of a trilemma of crypto asset inheritance: procedural vacuum in positive law, substantive ambiguity in Islamic legal fatwas regarding the elements of gharar and qimar, and technical challenges related to private key access. Therefore, an integrative legal reconstruction model is proposed, including the formation of specific regulations for procedural certainty and the development of collective ijtihad based on maqasid al-syariah for substantive clarity. This reconstruction is expected to guarantee the protection of heirs' rights, reduce the potential for disputes, and ensure fair distribution of wealth in the digital era.
-
----
-
-## 491. [Beyond Symmetric Alignment: Asymmetric Causal Interventions for Event-Driven Financial Forecasting](<https://doi.org/10.1145/3767308.3836561>)
-
-- 作者：Zongze Wu; Runnan Li; Yani Guo
-- 发表日期：2026-11-09
-- 引用次数：0
-- DOI：https://doi.org/10.1145/3767308.3836561
-- [打开 PDF](<https://dl.acm.org/doi/pdf/10.1145/3767308.3836561?download=true>)
-
-**摘要：**
-
-In event-driven financial forecasting, textual news acts as an exogenous causal intervention on market states. Unlike traditional 1D numerical sequences, 2D K-line charts provide the spatial topology needed to localize such interventions and encode gestalt market patterns. However, existing multimodal models treat text and images symmetrically, conflating the causal impact of news with spurious correlations from unobserved market inertia. To address this issue, we propose Causal Market-State Generation (CMSG), which formalizes financial news as a do-calculus intervention. Specifically, CMSG uses vision models' spatial priors to identify news-sensitive chart regions and applies a Vector Quantization-based Causal Tokenizer to orthogonally decompose them into endogenous market inertia and an exogenous intervention residual. This decomposition serves as a structural proxy for confounder adjustment, supported by a contrastive objective that separates factual and counterfactual attention maps for identifiable Individual Treatment Effect estimation. We evaluate CMSG on Quant-MM, a benchmark of 2,500 annotated macro-news events paired with K-line charts from November 2024 to March 2026. Results show that CMSG outperforms 12 baselines, achieving 46.85% Macro-F1 (4.75% above the strongest time-series SOTA) and a 4.8522 Information Ratio, thereby setting a new benchmark for risk-adjusted returns.
-
----
-
-## 492. [Capital flows and blockchain forensics on decentralised prediction markets as a potential source of early warning in the era of disinformation](<https://doi.org/10.35467/sdq/240535>)
-
-- 作者：Krzysztof Trzcianowski; Przemysław Janiszewski
-- 发表日期：2026-11-09
-- 引用次数：0
-- DOI：https://doi.org/10.35467/sdq/240535
-- [打开 PDF](<https://securityanddefence.pl/pdf-240535-149974?filename=Capital-flows-and-blockch.pdf>)
-
-**摘要：**
-
-This study inquires how far public prediction-market data can detect anomalous trading and attribute it to identifiable actors. It develops a forensic attribution framework and tests what such observations add as potential early-warning indicators under conditions of disinformation. A purposive, retrospective, and qualitative design covers six trading episodes and two contract-design illustrations. We independently reconstruct Ukrainian price and trade records, the Venezuelan account identified in legal filings, five reported Iranian accounts, and the trading and Polygon transfers of one Hungarian account; the other episodes are assessed through published reporting. Evidence, alternative explanations, and confidence are evaluated separately. Public records reproduce the indicted Venezuelan trading exactly, and five accounts reported before the strikes on Iran bought 1,065,775 shares for a net USD 928,559. The Hungarian funding chain traces through a single Polygon address to a regulated exchange, the point at which identification requires legal process rather than public data. Ukrainian prices went up from 0.380 to 0.905 within 5 minutes as twenty-eight addresses bought; across 18,462 windows that increase occurs once, yet all twenty-eight traded other markets and most gained little; so, the pattern alone does not separate informed from ordinary trading. Public reporting preceded the earliest market rule by about 10 hours. Public data supports detection, reproducible measurement, and tracing to a regulated intermediary where attribution can continue. They do not establish insider activity or validated warning performance, so operational use requires corroboration, treatment of false alarms, and resistance to fabricated signals. A domestic market with identity verification remains a research hypothesis.
-
----
-
-## 493. [Pertanggungjawaban Hukum Organ Perseroan dan Perlindungan Konsumen Aset Kripto yang Insolven Pasca POJK Nomor 23 Tahun 2025](<https://doi.org/10.69693/ijmst.v5i1.14618>)
-
-- 作者：Tesar Shan Demas Haba
-- 发表日期：2026-11-09
-- 引用次数：0
-- DOI：https://doi.org/10.69693/ijmst.v5i1.14618
-- [打开 PDF](<https://journal.ilmudata.co.id/index.php/ijmst/article/download/14618/11238>)
-
-**摘要：**
-
-Komunikasi pemasaran produk atau layanan aset digital seperti kripto memiliki risiko dan volatilitas harga. Dalam praktiknya, kurangnya transparansi informasi dari pedagang kripto menyebabkan konsumen mengalami kerugian. Peralihan pengawasan perdagangan aset kripto dari Bappebti kepada Otoritas Jasa Keuangan (OJK) melalui Undang-Undang Nomor 4 Tahun 2023 dan POJK Nomor 23 Tahun 2025 membawa perubahan terhadap konstruksi hukum penyelenggaraan aset kripto di Indonesia. Namun, pengaturan tersebut masih menyisakan persoalan terkait pertanggungjawaban organ perseroan dan perlindungan konsumen ketika penyelenggara mengalami insolvensi. Penelitian ini bertujuan menganalisis pertanggungjawaban hukum direksi dan komisaris serta perlindungan konsumen atas aset kripto dalam kondisi insolvensi pasca berlakunya POJK Nomor 23 Tahun 2025. Penelitian menggunakan metode yuridis normatif dengan pendekatan perundang-undangan dan konseptual yang bersifat preskriptif. Hasil penelitian menunjukkan bahwa POJK Nomor 23 Tahun 2025 memperkuat perlindungan konsumen melalui pemisahan aset, rekening margin khusus, pengawasan perdagangan aset keuangan digital, dan kewajiban knowledge test. Selain itu, kegagalan sistem dan keamanan yang disebabkan oleh kelalaian organ perseroan dapat menjadi dasar pertanggungjawaban hukum serta penerapan doktrin Piercing the Corporate Veil apabila memenuhi unsur yang ditentukan undang-undang, sehingga tidak serta-merta memperoleh perlindungan Business Judgment Rule. Dalam kondisi kepailitan, penerapan asas separate property melalui segregated account dan segregated wallet menjadi instrumen penting untuk melindungi aset konsumen dari pencampuran dengan kekayaan perseroan. Oleh karena itu, diperlukan penguatan pengaturan kepailitan penyelenggara aset kripto agar perlindungan konsumen dapat terlaksana secara lebih komprehensif.
-
----
-
-## 494. [Cryptocurrency in Federal Civil Forfeiture Lawsuits — Crypto Share of Forfeiture Filings by Fiscal Year, Asset, District and Outcome (FY2016–FY2026)](<https://doi.org/10.5281/zenodo.24080510>)
-
-- 作者：Leonard Goldberg
-- 发表日期：2026-11-09
-- 引用次数：0
-- DOI：https://doi.org/10.5281/zenodo.24080510
-
-**摘要：**
-
-In fiscal 2025, 89 of the 767 civil forfeiture and penalty lawsuits filed in U.S. district courts (11.6%) named cryptocurrency as the property to be forfeited, up from 5 of 1,200 in fiscal 2018. Crypto cases rose while the total number of forfeiture filings fell by 36.1% over the same years. Tether (USDT) is named in 49 of the fiscal 2025 crypto cases. Key findings: A growing share: The crypto share of federal forfeiture filings went from 0.42% in fiscal 2018 to 2.0% in fiscal 2022 and 11.6% in fiscal 2025. More cases, smaller docket: Crypto cases grew from 5 to 89 a year (17.8×) while all forfeiture filings fell from 1,200 to 767. Tether overtook Bitcoin: In fiscal 2025, 49 crypto cases named Tether (USDT or TETHER) and 15 named Bitcoin (BITCOIN or BTC); in fiscal 2021, Tether appeared in 1 case. Spread across many districts: Crypto forfeiture cases were filed in 56 federal districts since fiscal 2016; the District of Columbia leads with 24, ahead of the District of South Carolina with 21. Mostly uncontested: Of the 155 crypto cases filed through fiscal 2025 that have ended, 54% ended in a default judgment, compared with 39% of other forfeiture cases. Coverage: 10,583 records, FY2016–FY2025 (federal fiscal years) plus FY2026 through June 30, 2026. Full analysis, method and calibration: https://settlementinsight.com/research/cryptocurrency-civil-forfeiture-lawsuits-share
-
----
-
-## 495. [AI-Enhanced Smart Contracting in Agile: Transforming Vendor Management and Strengthening Collaborative Relationships](<https://doi.org/10.1922/comdem.v3i8s.19215>)
-
-- 作者：Mrs. Pooja Nair; Vidyavati Ramteke
-- 发表日期：2026-11-09
-- 引用次数：0
-- DOI：https://doi.org/10.1922/comdem.v3i8s.19215
-- [打开 PDF](<https://www.comdem.org/index.php/comdem/article/download/19215/12882>)
-
-**摘要：**
-
-Purpose: Organisations are combining artificial intelligence (AI) with blockchain-based smart contracts to automate procurement, monitor supplier performance and coordinate work with partners. The research on this combination is spread across operations management, computer science, engineering and accounting, and nobody has yet mapped it as a single field. This study maps the intellectual and thematic structure of research on AI-enhanced smart contracting for vendor management, supply chain collaboration and agile coordination. Design/methodology/approach: Following the PRISMA 2020 protocol, a Scopus search for 2016–2026 returned 4,415 records, of which 358 open-access, final-stage, English-language journal articles were retained. Performance analysis and science mapping were carried out in Bibliometrix/Biblioshiny, covering publication growth, Bradford's and Lotka's laws, author, source and country productivity, keyword co-occurrence, thematic maps and thematic evolution. Findings: Output grew at a compound annual rate of 76.22%, from one article in 2018 to 93 in 2026, and more than half of the corpus appeared in 2025–2026. The 358 articles drew 13,888 citations (mean 38.79, median 7). Thirteen core journals, led by Sustainability and IEEE Access, published about one-third of the articles. Authorship is highly dispersed (Lotka's β = 3.2), and a UAE-based group (Salah, Jayaraman and Omar) is the most productive. China and India lead output, while the United Kingdom has the highest citation impact per article. Keyword and thematic analyses show that the field began with blockchain traceability and is moving towards AI-driven digital transformation, sustainability and circular-economy themes. Contract-governance and relational topics remain under-represented. Originality/value: This is among the first bibliometric reviews to treat AI, smart contracts and buyer–supplier collaboration as one research domain. It offers a quadrant-based reading of the field's themes and a research agenda centred on agile vendor governance, explainable contract automation and relational trust.
-
----
-
-## 496. [Safety in numbers: Tackling the deliberative, performative, and infrastructural roots of multi‐agent misalignment](<https://doi.org/10.1002/aaai.70124>)
-
-- 作者：Jeffrey M. Bradshaw; Matthew Johnson; Niranjan Suri; Alessandro Amato; Kristen Brent Venable; Rebecca Montanari; Nicolò Romandini; Roberto Fronteddu; Larry Bunch; James L. Lott; William de Beaumont; Andrzej Uszok; Sara Cavicchi; Mica Vignati; Ben Shinnick; Brian A. Jalaian; Jane Pinelis; Michael T. Goodrich; Jurriaan van Diggelen; David D. Woods; Patrick J. Hayes; Margaret Warren; Manuele Tele Junior Fernandez
-- 发表日期：2026-11-08
-- 引用次数：4
-- DOI：https://doi.org/10.1002/aaai.70124
-- [打开 PDF](<https://onlinelibrary.wiley.com/doi/pdfdirect/10.1002/aaai.70124>)
-
-**摘要：**
-
-Multi‐agent systems (MAS)—a uniquely important subset of the wider field commonly called “Agentic AI”—enable complex work processes involving distributed networks of multiple AIs, people, and technology tools. However, they also carry big risks. Root causes of catastrophic safety failures in multi‐agent collaboration (as in human collaboration) can be classed into three overlapping categories: 1. Deliberative —deviating from shared MAS commitments to fulfill explicitly expressed joint intentions; 2. Performative —inability to coordinate well or to adapt to changing circumstances; and 3. Infrastructural —safety, reliability, and trust in the operating environment. In the spirit of the international Multi‐Agent System Safety and Teamwork (MASST) initiative (Bradshaw et al., 2026), our multi‐disciplinary research team seeks to tackle the root causes of these three challenges through development, experimentation, and deployment of an integrated multi‐layered safety pipeline, enabling “safety in numbers” as increasingly powerful multi‐agent systems are deployed. Although this proposal is merely an initial sketch, it is our hope that sharing these ideas will inspire others to contribute to the discussion as we continue moving forward. We look forward not only to exciting discoveries within laboratory settings while also being committed to improving safe rollout of large‐scale MAS into the world to perform work in high‐consequence applications.
-
----
-
-## 497. [Do Investors Sanction Greenwashing? Selective Market Discipline in Fintech Firms](<https://doi.org/10.1002/bse.71781>)
-
-- 作者：Shaen Corbet; José Antonio Muñiz; David Staunton
-- 发表日期：2026-11-08
-- 引用次数：2
-- DOI：https://doi.org/10.1002/bse.71781
-- [打开 PDF](<https://onlinelibrary.wiley.com/doi/pdfdirect/10.1002/bse.71781>)
-
-**摘要：**
-
-We investigate whether stock market investors detect and penalise greenwashing. We draw on media reports of environmental, social and governance incidents at 321 US‐listed fintech firms between 2007 and 2025, within which greenwashing is identified, following RepRisk, as misleading communication about environmental practice. Investors impose no measurable price penalty when firms are publicly implicated in greenwashing, and the sample is large enough to have detected a penalty of the size observed for other conduct. Misleading communication that does not concern the environment is penalised, where cumulative abnormal returns are between 0.4% and 0.6% lower over the 2 weeks following the report, falling further to 0.8% over the 4 weeks before and after, whereas physical environmental damage draws no adverse reaction. The market therefore prices dishonesty, but the sanction depends on the domain of the false claim, and environmental claims by fintech firms fall outside it. Consistent with stakeholder theory, the results suggest that market‐based discipline exists but is selective, so that the truthfulness of environmental claims cannot be presumed to be enforced by investors where regulatory oversight is absent.
 
 ---
 
